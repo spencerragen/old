@@ -1,0 +1,6433 @@
+<a href="/sc2/zh/profile/289248/1/TyLooInfi/"
+class="race-terran"
+data-tooltip="#player-info-289248">
+TyLooInfi
+</a>
+
+<div id="player-info-289248" style="display: none">
+<div class="tooltip-title">TyLooInfi</div>
+<strong>上一次排名：</strong> 2<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1995</td>
+<td class="align-center">547</td>
+<td class="align-center">175</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/27/2011">
+
+--
+</td>
+<td class="align-center" data-raw="2">
+2nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/257926/1/迅游高达/"
+class="race-terran"
+data-tooltip="#player-info-257926">
+迅游高达
+</a>
+
+<div id="player-info-257926" style="display: none">
+<div class="tooltip-title">迅游高达</div>
+<strong>上一次排名：</strong> 2<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1969</td>
+<td class="align-center">645</td>
+<td class="align-center">408</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="3">
+3rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/782736/1/FeverPitch/"
+class="race-protoss"
+data-tooltip="#player-info-782736">
+FeverPitch
+</a>
+
+<div id="player-info-782736" style="display: none">
+<div class="tooltip-title">FeverPitch</div>
+<strong>上一次排名：</strong> 11<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1963</td>
+<td class="align-center">626</td>
+<td class="align-center">449</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="4">
+4th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/636395/1/yzLegacy/"
+class="race-protoss"
+data-tooltip="#player-info-636395">
+yzLegacy
+</a>
+
+<div id="player-info-636395" style="display: none">
+<div class="tooltip-title">yzLegacy</div>
+<strong>上一次排名：</strong> 49<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1926</td>
+<td class="align-center">1046</td>
+<td class="align-center">878</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="5">
+5th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/19705/1/JiFengLegacy/"
+class="race-zerg"
+data-tooltip="#player-info-19705">
+JiFengLegacy
+</a>
+
+<div id="player-info-19705" style="display: none">
+<div class="tooltip-title">JiFengLegacy</div>
+<strong>上一次排名：</strong> 7<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1909</td>
+<td class="align-center">825</td>
+<td class="align-center">421</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="6">
+6th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/24418/1/迅游高尔/"
+class="race-protoss"
+data-tooltip="#player-info-24418">
+迅游高尔
+</a>
+
+<div id="player-info-24418" style="display: none">
+<div class="tooltip-title">迅游高尔</div>
+<strong>上一次排名：</strong> 8<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1906</td>
+<td class="align-center">601</td>
+<td class="align-center">330</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="7">
+7th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/85055/1/ZeroKyo/"
+class="race-protoss"
+data-tooltip="#player-info-85055">
+ZeroKyo
+</a>
+
+<div id="player-info-85055" style="display: none">
+<div class="tooltip-title">ZeroKyo</div>
+<strong>上一次排名：</strong> 20<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1902</td>
+<td class="align-center">222</td>
+<td class="align-center">145</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="8">
+8th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/567365/1/迅游晚安/"
+class="race-zerg"
+data-tooltip="#player-info-567365">
+迅游晚安
+</a>
+
+<div id="player-info-567365" style="display: none">
+<div class="tooltip-title">迅游晚安</div>
+<strong>上一次排名：</strong> 4<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1897</td>
+<td class="align-center">319</td>
+<td class="align-center">142</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+--
+</td>
+<td class="align-center" data-raw="9">
+9th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/594119/1/迅游弟弟/"
+class="race-protoss"
+data-tooltip="#player-info-594119">
+迅游弟弟
+</a>
+
+<div id="player-info-594119" style="display: none">
+<div class="tooltip-title">迅游弟弟</div>
+<strong>上一次排名：</strong> 9<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1882</td>
+<td class="align-center">148</td>
+<td class="align-center">63</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="10">
+第10
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/80083/1/VATeam/"
+class="race-terran"
+data-tooltip="#player-info-80083">
+VATeam
+</a>
+
+<div id="player-info-80083" style="display: none">
+<div class="tooltip-title">VATeam</div>
+<strong>上一次排名：</strong> 14<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1877</td>
+<td class="align-center">523</td>
+<td class="align-center">402</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/21/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="11">
+第11
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/24646/1/Pitaya/"
+class="race-terran"
+data-tooltip="#player-info-24646">
+Pitaya
+</a>
+
+<div id="player-info-24646" style="display: none">
+<div class="tooltip-title">Pitaya</div>
+<strong>上一次排名：</strong> 30<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1858</td>
+<td class="align-center">411</td>
+<td class="align-center">265</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="12">
+第12
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/875011/1/泽格特马灰常英爸/"
+class="race-terran"
+data-tooltip="#player-info-875011">
+泽格特马灰常英爸
+</a>
+
+<div id="player-info-875011" style="display: none">
+<div class="tooltip-title">泽格特马灰常英爸</div>
+<strong>上一次排名：</strong> 19<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1854</td>
+<td class="align-center">155</td>
+<td class="align-center">86</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="13">
+第13
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/864022/1/维京战神/"
+class="race-terran"
+data-tooltip="#player-info-864022">
+维京战神
+</a>
+
+<div id="player-info-864022" style="display: none">
+<div class="tooltip-title">维京战神</div>
+<strong>上一次排名：</strong> 12<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1852</td>
+<td class="align-center">126</td>
+<td class="align-center">51</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="14">
+第14
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/754590/1/琴吹紬/"
+class="race-terran"
+data-tooltip="#player-info-754590">
+琴吹紬
+</a>
+
+<div id="player-info-754590" style="display: none">
+<div class="tooltip-title">琴吹紬</div>
+<strong>上一次排名：</strong> 19<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1850</td>
+<td class="align-center">189</td>
+<td class="align-center">112</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="15">
+第15
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/20303/1/迅游希望/"
+class="race-zerg"
+data-tooltip="#player-info-20303">
+迅游希望
+</a>
+
+<div id="player-info-20303" style="display: none">
+<div class="tooltip-title">迅游希望</div>
+<strong>上一次排名：</strong> 28<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1849</td>
+<td class="align-center">217</td>
+<td class="align-center">98</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="16">
+第16
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/6611/1/EtdNostalie/"
+class="race-zerg"
+data-tooltip="#player-info-6611">
+EtdNostalie
+</a>
+
+<div id="player-info-6611" style="display: none">
+<div class="tooltip-title">EtdNostalie</div>
+<strong>上一次排名：</strong> 14<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1849</td>
+<td class="align-center">331</td>
+<td class="align-center">224</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-17" rowspan="34" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-3">
+</span>
+
+<span class="rank">
+前<br />
+<strong>50</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="17">
+第17
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/75448/1/同济特兰联邦英巴/"
+class="race-protoss"
+data-tooltip="#player-info-75448">
+
+同济特兰联邦英巴
+</a>
+
+<div id="player-info-75448" style="display: none">
+<div class="tooltip-title">同济特兰联邦英巴</div>
+<strong>上一次排名：</strong> 12<br />
+<strong>最喜爱种族：</strong> 星灵
+</div>
+
+</td>
+<td class="align-center">1841</td>
+<td class="align-center">246</td>
+<td class="align-center">170</td>
+<td>星灵</td>
+</tr>
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="18">
+第18
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/938095/1/PokerKLegacy/"
+class="race-protoss"
+data-tooltip="#player-info-938095">
+PokerKLegacy
+</a>
+
+<div id="player-info-938095" style="display: none">
+<div class="tooltip-title">PokerKLegacy</div>
+<strong>上一次排名：</strong> 86<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1829</td>
+<td class="align-center">116</td>
+<td class="align-center">45</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="19">
+第19
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/324707/1/EtdLingEeeer/"
+class="race-terran"
+data-tooltip="#player-info-324707">
+EtdLingEeeer
+</a>
+
+<div id="player-info-324707" style="display: none">
+<div class="tooltip-title">EtdLingEeeer</div>
+<strong>上一次排名：</strong> 43<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1812</td>
+<td class="align-center">246</td>
+<td class="align-center">150</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="20">
+第20
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/150079/1/CMCCDL/"
+class="race-zerg"
+data-tooltip="#player-info-150079">
+CMCCDL
+</a>
+
+<div id="player-info-150079" style="display: none">
+<div class="tooltip-title">CMCCDL</div>
+<strong>上一次排名：</strong> 19<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1811</td>
+<td class="align-center">281</td>
+<td class="align-center">199</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/9/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="21">
+21st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/649188/1/凌宇我爱猫猫/"
+class="race-protoss"
+data-tooltip="#player-info-649188">
+凌宇我爱猫猫
+</a>
+
+<div id="player-info-649188" style="display: none">
+<div class="tooltip-title">凌宇我爱猫猫</div>
+<strong>上一次排名：</strong> 44<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1799</td>
+<td class="align-center">273</td>
+<td class="align-center">210</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="22">
+22nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/10516/1/雷姬/"
+class="race-terran"
+data-tooltip="#player-info-10516">
+雷姬
+</a>
+
+<div id="player-info-10516" style="display: none">
+<div class="tooltip-title">雷姬</div>
+<strong>上一次排名：</strong> 40<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1798</td>
+<td class="align-center">275</td>
+<td class="align-center">178</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/30/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="23">
+23rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/864900/1/消逝的瞬间/"
+class="race-zerg"
+data-tooltip="#player-info-864900">
+消逝的瞬间
+</a>
+
+<div id="player-info-864900" style="display: none">
+<div class="tooltip-title">消逝的瞬间</div>
+<strong>上一次排名：</strong> 18<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1797</td>
+<td class="align-center">254</td>
+<td class="align-center">170</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="24">
+24th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/235447/1/WEGIGALoveTt/"
+class="race-protoss"
+data-tooltip="#player-info-235447">
+WEGIGALoveTt
+</a>
+
+<div id="player-info-235447" style="display: none">
+<div class="tooltip-title">WEGIGALoveTt</div>
+<strong>上一次排名：</strong> 33<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1797</td>
+<td class="align-center">256</td>
+<td class="align-center">121</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="25">
+25th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/104934/1/suzwx/"
+class="race-protoss"
+data-tooltip="#player-info-104934">
+suzwx
+</a>
+
+<div id="player-info-104934" style="display: none">
+<div class="tooltip-title">suzwx</div>
+<strong>上一次排名：</strong> 27<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1797</td>
+<td class="align-center">462</td>
+<td class="align-center">360</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="26">
+26th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/230320/1/ISClook/"
+class="race-protoss"
+data-tooltip="#player-info-230320">
+ISClook
+</a>
+
+<div id="player-info-230320" style="display: none">
+<div class="tooltip-title">ISClook</div>
+<strong>上一次排名：</strong> 38<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1795</td>
+<td class="align-center">417</td>
+<td class="align-center">351</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/9/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="27">
+27th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/5590/1/麒麟米古江/"
+class="race-terran"
+data-tooltip="#player-info-5590">
+麒麟米古江
+</a>
+
+<div id="player-info-5590" style="display: none">
+<div class="tooltip-title">麒麟米古江</div>
+<strong>上一次排名：</strong> 21<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1795</td>
+<td class="align-center">311</td>
+<td class="align-center">163</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="28">
+28th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/112517/1/SisConLegacy/"
+class="race-terran"
+data-tooltip="#player-info-112517">
+SisConLegacy
+</a>
+
+<div id="player-info-112517" style="display: none">
+<div class="tooltip-title">SisConLegacy</div>
+<strong>上一次排名：</strong> 29<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1788</td>
+<td class="align-center">277</td>
+<td class="align-center">199</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="29">
+29th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/453654/1/newrushtime/"
+class="race-terran"
+data-tooltip="#player-info-453654">
+newrushtime
+</a>
+
+<div id="player-info-453654" style="display: none">
+<div class="tooltip-title">newrushtime</div>
+<strong>上一次排名：</strong> 41<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1785</td>
+<td class="align-center">526</td>
+<td class="align-center">405</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="30">
+30th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/794751/1/NovA/"
+class="race-terran"
+data-tooltip="#player-info-794751">
+NovA
+</a>
+
+<div id="player-info-794751" style="display: none">
+<div class="tooltip-title">NovA</div>
+<strong>上一次排名：</strong> 6<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1784</td>
+<td class="align-center">495</td>
+<td class="align-center">334</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="31">
+31st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/775500/1/Etdhbq/"
+class="race-protoss"
+data-tooltip="#player-info-775500">
+Etdhbq
+</a>
+
+<div id="player-info-775500" style="display: none">
+<div class="tooltip-title">Etdhbq</div>
+<strong>上一次排名：</strong> 42<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1772</td>
+<td class="align-center">196</td>
+<td class="align-center">106</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="32">
+32nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/740565/1/基情四射/"
+class="race-protoss"
+data-tooltip="#player-info-740565">
+基情四射
+</a>
+
+<div id="player-info-740565" style="display: none">
+<div class="tooltip-title">基情四射</div>
+<strong>上一次排名：</strong> 39<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1772</td>
+<td class="align-center">188</td>
+<td class="align-center">122</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="33">
+33rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/279510/1/纯情大表哥/"
+class="race-zerg"
+data-tooltip="#player-info-279510">
+纯情大表哥
+</a>
+
+<div id="player-info-279510" style="display: none">
+<div class="tooltip-title">纯情大表哥</div>
+<strong>上一次排名：</strong> 44<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1770</td>
+<td class="align-center">625</td>
+<td class="align-center">556</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/19/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="34">
+34th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/924596/1/FourKsDreAm/"
+class="race-protoss"
+data-tooltip="#player-info-924596">
+FourKsDreAm
+</a>
+
+<div id="player-info-924596" style="display: none">
+<div class="tooltip-title">FourKsDreAm</div>
+<strong>上一次排名：</strong> 33<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1764</td>
+<td class="align-center">192</td>
+<td class="align-center">101</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="35">
+35th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/792941/1/Crazyboy/"
+class="race-protoss"
+data-tooltip="#player-info-792941">
+Crazyboy
+</a>
+
+<div id="player-info-792941" style="display: none">
+<div class="tooltip-title">Crazyboy</div>
+<strong>上一次排名：</strong> 32<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1758</td>
+<td class="align-center">359</td>
+<td class="align-center">249</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="36">
+36th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/303566/1/白学公主/"
+class="race-protoss"
+data-tooltip="#player-info-303566">
+白学公主
+</a>
+
+<div id="player-info-303566" style="display: none">
+<div class="tooltip-title">白学公主</div>
+<strong>上一次排名：</strong> 17<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1755</td>
+<td class="align-center">592</td>
+<td class="align-center">467</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="37">
+37th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/612930/1/ZeroOscaR/"
+class="race-terran"
+data-tooltip="#player-info-612930">
+ZeroOscaR
+</a>
+
+<div id="player-info-612930" style="display: none">
+<div class="tooltip-title">ZeroOscaR</div>
+<strong>上一次排名：</strong> 46<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1754</td>
+<td class="align-center">266</td>
+<td class="align-center">207</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="38">
+38th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/131930/1/AgFoxYJ/"
+class="race-protoss"
+data-tooltip="#player-info-131930">
+AgFoxYJ
+</a>
+
+<div id="player-info-131930" style="display: none">
+<div class="tooltip-title">AgFoxYJ</div>
+<strong>上一次排名：</strong> 28<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1754</td>
+<td class="align-center">1334</td>
+<td class="align-center">896</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="39">
+39th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/62267/1/SilverWill/"
+class="race-terran"
+data-tooltip="#player-info-62267">
+SilverWill
+</a>
+
+<div id="player-info-62267" style="display: none">
+<div class="tooltip-title">SilverWill</div>
+<strong>上一次排名：</strong> 30<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1752</td>
+<td class="align-center">312</td>
+<td class="align-center">232</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="40">
+40th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/62046/1/EtdSaky/"
+class="race-zerg"
+data-tooltip="#player-info-62046">
+EtdSaky
+</a>
+
+<div id="player-info-62046" style="display: none">
+<div class="tooltip-title">EtdSaky</div>
+<strong>上一次排名：</strong> 39<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1750</td>
+<td class="align-center">407</td>
+<td class="align-center">311</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="41">
+41st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/587405/1/聖鬥士星矢/"
+class="race-protoss"
+data-tooltip="#player-info-587405">
+聖鬥士星矢
+</a>
+
+<div id="player-info-587405" style="display: none">
+<div class="tooltip-title">聖鬥士星矢</div>
+<strong>上一次排名：</strong> 49<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1744</td>
+<td class="align-center">216</td>
+<td class="align-center">98</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="42">
+42nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/18743/1/PanDaAsh/"
+class="race-protoss"
+data-tooltip="#player-info-18743">
+PanDaAsh
+</a>
+
+<div id="player-info-18743" style="display: none">
+<div class="tooltip-title">PanDaAsh</div>
+<strong>上一次排名：</strong> 61<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1726</td>
+<td class="align-center">528</td>
+<td class="align-center">457</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/13/2011">
+
+--
+</td>
+<td class="align-center" data-raw="43">
+43rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/645442/1/强大的小公主/"
+class="race-protoss"
+data-tooltip="#player-info-645442">
+强大的小公主
+</a>
+
+<div id="player-info-645442" style="display: none">
+<div class="tooltip-title">强大的小公主</div>
+<strong>上一次排名：</strong> 43<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1722</td>
+<td class="align-center">394</td>
+<td class="align-center">354</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="44">
+44th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/7021/1/SvSAvenger/"
+class="race-terran"
+data-tooltip="#player-info-7021">
+SvSAvenger
+</a>
+
+<div id="player-info-7021" style="display: none">
+<div class="tooltip-title">SvSAvenger</div>
+<strong>上一次排名：</strong> 57<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1719</td>
+<td class="align-center">466</td>
+<td class="align-center">391</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/31/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="45">
+45th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/139388/1/迅游兜兜小绿/"
+class="race-terran"
+data-tooltip="#player-info-139388">
+迅游兜兜小绿
+</a>
+
+<div id="player-info-139388" style="display: none">
+<div class="tooltip-title">迅游兜兜小绿</div>
+<strong>上一次排名：</strong> 50<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1716</td>
+<td class="align-center">573</td>
+<td class="align-center">477</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="46">
+46th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/347313/1/lingyuALLin/"
+class="race-zerg"
+data-tooltip="#player-info-347313">
+lingyuALLin
+</a>
+
+<div id="player-info-347313" style="display: none">
+<div class="tooltip-title">lingyuALLin</div>
+<strong>上一次排名：</strong> 52<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1714</td>
+<td class="align-center">198</td>
+<td class="align-center">152</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="47">
+47th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/14771/1/媽媽蟲/"
+class="race-zerg"
+data-tooltip="#player-info-14771">
+媽媽蟲
+</a>
+
+<div id="player-info-14771" style="display: none">
+<div class="tooltip-title">媽媽蟲</div>
+<strong>上一次排名：</strong> 46<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1701</td>
+<td class="align-center">601</td>
+<td class="align-center">531</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="48">
+48th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/555461/1/TLRAVEN/"
+class="race-terran"
+data-tooltip="#player-info-555461">
+TLRAVEN
+</a>
+
+<div id="player-info-555461" style="display: none">
+<div class="tooltip-title">TLRAVEN</div>
+<strong>上一次排名：</strong> 43<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1700</td>
+<td class="align-center">171</td>
+<td class="align-center">122</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="49">
+49th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/827578/1/FourKings/"
+class="race-protoss"
+data-tooltip="#player-info-827578">
+FourKings
+</a>
+
+<div id="player-info-827578" style="display: none">
+<div class="tooltip-title">FourKings</div>
+<strong>上一次排名：</strong> 67<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1699</td>
+<td class="align-center">309</td>
+<td class="align-center">226</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/25/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="50">
+50th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/847143/1/EtdTeaTime/"
+class="race-terran"
+data-tooltip="#player-info-847143">
+EtdTeaTime
+</a>
+
+<div id="player-info-847143" style="display: none">
+<div class="tooltip-title">EtdTeaTime</div>
+<strong>上一次排名：</strong> 81<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1692</td>
+<td class="align-center">111</td>
+<td class="align-center">65</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-51" rowspan="50" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-2">
+</span>
+
+<span class="rank">
+前<br />
+<strong>100</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="加入联赛组日期： 6/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="51">
+51st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/926765/1/ZaiZai/"
+class="race-zerg"
+data-tooltip="#player-info-926765">
+
+ZaiZai
+</a>
+
+<div id="player-info-926765" style="display: none">
+<div class="tooltip-title">ZaiZai</div>
+<strong>上一次排名：</strong> 61<br />
+<strong>最喜爱种族：</strong> 异虫
+</div>
+
+</td>
+<td class="align-center">1690</td>
+<td class="align-center">133</td>
+<td class="align-center">81</td>
+<td>异虫</td>
+</tr>
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="52">
+52nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/8361/1/田井中律/"
+class="race-protoss"
+data-tooltip="#player-info-8361">
+田井中律
+</a>
+
+<div id="player-info-8361" style="display: none">
+<div class="tooltip-title">田井中律</div>
+<strong>上一次排名：</strong> 68<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1687</td>
+<td class="align-center">387</td>
+<td class="align-center">336</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="53">
+53rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/71830/1/YaniLegacy/"
+class="race-zerg"
+data-tooltip="#player-info-71830">
+YaniLegacy
+</a>
+
+<div id="player-info-71830" style="display: none">
+<div class="tooltip-title">YaniLegacy</div>
+<strong>上一次排名：</strong> 65<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1686</td>
+<td class="align-center">137</td>
+<td class="align-center">91</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="54">
+54th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/348259/1/Ksss/"
+class="race-zerg"
+data-tooltip="#player-info-348259">
+Ksss
+</a>
+
+<div id="player-info-348259" style="display: none">
+<div class="tooltip-title">Ksss</div>
+<strong>上一次排名：</strong> 87<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1681</td>
+<td class="align-center">588</td>
+<td class="align-center">533</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="55">
+55th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/88978/1/星一选手统治星二/"
+class="race-zerg"
+data-tooltip="#player-info-88978">
+星一选手统治星二
+</a>
+
+<div id="player-info-88978" style="display: none">
+<div class="tooltip-title">星一选手统治星二</div>
+<strong>上一次排名：</strong> 33<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1680</td>
+<td class="align-center">816</td>
+<td class="align-center">735</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="56">
+56th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/62747/1/DhcCage/"
+class="race-zerg"
+data-tooltip="#player-info-62747">
+DhcCage
+</a>
+
+<div id="player-info-62747" style="display: none">
+<div class="tooltip-title">DhcCage</div>
+<strong>上一次排名：</strong> 54<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1672</td>
+<td class="align-center">603</td>
+<td class="align-center">550</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="57">
+57th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/769766/1/DhcaLien/"
+class="race-protoss"
+data-tooltip="#player-info-769766">
+DhcaLien
+</a>
+
+<div id="player-info-769766" style="display: none">
+<div class="tooltip-title">DhcaLien</div>
+<strong>上一次排名：</strong> 55<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1668</td>
+<td class="align-center">415</td>
+<td class="align-center">368</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="58">
+58th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/893620/1/Pikachu/"
+class="race-protoss"
+data-tooltip="#player-info-893620">
+Pikachu
+</a>
+
+<div id="player-info-893620" style="display: none">
+<div class="tooltip-title">Pikachu</div>
+<strong>上一次排名：</strong> 56<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1664</td>
+<td class="align-center">102</td>
+<td class="align-center">69</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="59">
+59th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/59787/1/鑫哥/"
+class="race-zerg"
+data-tooltip="#player-info-59787">
+鑫哥
+</a>
+
+<div id="player-info-59787" style="display: none">
+<div class="tooltip-title">鑫哥</div>
+<strong>上一次排名：</strong> 116<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1664</td>
+<td class="align-center">716</td>
+<td class="align-center">660</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="60">
+60th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/849408/1/PatchWerk/"
+class="race-zerg"
+data-tooltip="#player-info-849408">
+PatchWerk
+</a>
+
+<div id="player-info-849408" style="display: none">
+<div class="tooltip-title">PatchWerk</div>
+<strong>上一次排名：</strong> 66<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1658</td>
+<td class="align-center">110</td>
+<td class="align-center">77</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="61">
+61st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/363109/1/AgFoxYuR/"
+class="race-zerg"
+data-tooltip="#player-info-363109">
+AgFoxYuR
+</a>
+
+<div id="player-info-363109" style="display: none">
+<div class="tooltip-title">AgFoxYuR</div>
+<strong>上一次排名：</strong> 43<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1654</td>
+<td class="align-center">923</td>
+<td class="align-center">787</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="62">
+62nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/198943/1/缘分解冻/"
+class="race-zerg"
+data-tooltip="#player-info-198943">
+缘分解冻
+</a>
+
+<div id="player-info-198943" style="display: none">
+<div class="tooltip-title">缘分解冻</div>
+<strong>上一次排名：</strong> 93<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1653</td>
+<td class="align-center">611</td>
+<td class="align-center">554</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/22/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="63">
+63rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/454006/1/marineking/"
+class="race-terran"
+data-tooltip="#player-info-454006">
+marineking
+</a>
+
+<div id="player-info-454006" style="display: none">
+<div class="tooltip-title">marineking</div>
+<strong>上一次排名：</strong> 99<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1649</td>
+<td class="align-center">443</td>
+<td class="align-center">335</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="64">
+64th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/4093/1/同济麦老爷/"
+class="race-terran"
+data-tooltip="#player-info-4093">
+同济麦老爷
+</a>
+
+<div id="player-info-4093" style="display: none">
+<div class="tooltip-title">同济麦老爷</div>
+<strong>上一次排名：</strong> 50<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1643</td>
+<td class="align-center">342</td>
+<td class="align-center">293</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="65">
+65th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/781590/1/AvFoxLegacy/"
+class="race-protoss"
+data-tooltip="#player-info-781590">
+AvFoxLegacy
+</a>
+
+<div id="player-info-781590" style="display: none">
+<div class="tooltip-title">AvFoxLegacy</div>
+<strong>上一次排名：</strong> 42<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1640</td>
+<td class="align-center">933</td>
+<td class="align-center">824</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="66">
+66th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/631342/1/Miyavi/"
+class="race-zerg"
+data-tooltip="#player-info-631342">
+Miyavi
+</a>
+
+<div id="player-info-631342" style="display: none">
+<div class="tooltip-title">Miyavi</div>
+<strong>上一次排名：</strong> 34<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1639</td>
+<td class="align-center">440</td>
+<td class="align-center">341</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="67">
+67th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/777996/1/Galgame/"
+class="race-terran"
+data-tooltip="#player-info-777996">
+Galgame
+</a>
+
+<div id="player-info-777996" style="display: none">
+<div class="tooltip-title">Galgame</div>
+<strong>上一次排名：</strong> 51<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1638</td>
+<td class="align-center">399</td>
+<td class="align-center">350</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="68">
+68th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/643843/1/小功/"
+class="race-protoss"
+data-tooltip="#player-info-643843">
+小功
+</a>
+
+<div id="player-info-643843" style="display: none">
+<div class="tooltip-title">小功</div>
+<strong>上一次排名：</strong> 101<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1638</td>
+<td class="align-center">221</td>
+<td class="align-center">131</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="69">
+69th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/97081/1/DhcSlaughter/"
+class="race-protoss"
+data-tooltip="#player-info-97081">
+DhcSlaughter
+</a>
+
+<div id="player-info-97081" style="display: none">
+<div class="tooltip-title">DhcSlaughter</div>
+<strong>上一次排名：</strong> 107<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1637</td>
+<td class="align-center">711</td>
+<td class="align-center">631</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="70">
+70th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/18678/1/同济大魔王/"
+class="race-terran"
+data-tooltip="#player-info-18678">
+同济大魔王
+</a>
+
+<div id="player-info-18678" style="display: none">
+<div class="tooltip-title">同济大魔王</div>
+<strong>上一次排名：</strong> 84<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1636</td>
+<td class="align-center">117</td>
+<td class="align-center">70</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/30/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="71">
+71st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/862841/1/CAaScorpio/"
+class="race-terran"
+data-tooltip="#player-info-862841">
+CAaScorpio
+</a>
+
+<div id="player-info-862841" style="display: none">
+<div class="tooltip-title">CAaScorpio</div>
+<strong>上一次排名：</strong> 85<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1636</td>
+<td class="align-center">73</td>
+<td class="align-center">32</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/9/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="72">
+72nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/42661/1/DhcOcean/"
+class="race-zerg"
+data-tooltip="#player-info-42661">
+DhcOcean
+</a>
+
+<div id="player-info-42661" style="display: none">
+<div class="tooltip-title">DhcOcean</div>
+<strong>上一次排名：</strong> 64<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1632</td>
+<td class="align-center">655</td>
+<td class="align-center">570</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="73">
+73rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/4987/1/TLfisher/"
+class="race-zerg"
+data-tooltip="#player-info-4987">
+TLfisher
+</a>
+
+<div id="player-info-4987" style="display: none">
+<div class="tooltip-title">TLfisher</div>
+<strong>上一次排名：</strong> 83<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1629</td>
+<td class="align-center">197</td>
+<td class="align-center">155</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="74">
+74th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/144062/1/Being/"
+class="race-zerg"
+data-tooltip="#player-info-144062">
+Being
+</a>
+
+<div id="player-info-144062" style="display: none">
+<div class="tooltip-title">Being</div>
+<strong>上一次排名：</strong> 88<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1625</td>
+<td class="align-center">527</td>
+<td class="align-center">465</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="75">
+75th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/21265/1/LongQQ/"
+class="race-protoss"
+data-tooltip="#player-info-21265">
+LongQQ
+</a>
+
+<div id="player-info-21265" style="display: none">
+<div class="tooltip-title">LongQQ</div>
+<strong>上一次排名：</strong> 76<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1624</td>
+<td class="align-center">205</td>
+<td class="align-center">148</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="76">
+76th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/39925/1/defungo/"
+class="race-terran"
+data-tooltip="#player-info-39925">
+defungo
+</a>
+
+<div id="player-info-39925" style="display: none">
+<div class="tooltip-title">defungo</div>
+<strong>上一次排名：</strong> 79<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1622</td>
+<td class="align-center">364</td>
+<td class="align-center">289</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="77">
+77th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/891220/1/Simida/"
+class="race-zerg"
+data-tooltip="#player-info-891220">
+Simida
+</a>
+
+<div id="player-info-891220" style="display: none">
+<div class="tooltip-title">Simida</div>
+<strong>上一次排名：</strong> 20<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1620</td>
+<td class="align-center">100</td>
+<td class="align-center">57</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="78">
+78th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/207351/1/ManndyLegacy/"
+class="race-protoss"
+data-tooltip="#player-info-207351">
+ManndyLegacy
+</a>
+
+<div id="player-info-207351" style="display: none">
+<div class="tooltip-title">ManndyLegacy</div>
+<strong>上一次排名：</strong> 96<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1618</td>
+<td class="align-center">263</td>
+<td class="align-center">225</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="79">
+79th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/837079/1/李龙九/"
+class="race-terran"
+data-tooltip="#player-info-837079">
+李龙九
+</a>
+
+<div id="player-info-837079" style="display: none">
+<div class="tooltip-title">李龙九</div>
+<strong>上一次排名：</strong> 84<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1617</td>
+<td class="align-center">152</td>
+<td class="align-center">111</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="80">
+80th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/53682/1/NewSciroCco/"
+class="race-protoss"
+data-tooltip="#player-info-53682">
+NewSciroCco
+</a>
+
+<div id="player-info-53682" style="display: none">
+<div class="tooltip-title">NewSciroCco</div>
+<strong>上一次排名：</strong> 58<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1617</td>
+<td class="align-center">446</td>
+<td class="align-center">343</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="81">
+81st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/921834/1/绝望的煮夫/"
+class="race-zerg"
+data-tooltip="#player-info-921834">
+绝望的煮夫
+</a>
+
+<div id="player-info-921834" style="display: none">
+<div class="tooltip-title">绝望的煮夫</div>
+<strong>上一次排名：</strong> 92<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1616</td>
+<td class="align-center">89</td>
+<td class="align-center">55</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="82">
+82nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/85650/1/花落/"
+class="race-protoss"
+data-tooltip="#player-info-85650">
+花落
+</a>
+
+<div id="player-info-85650" style="display: none">
+<div class="tooltip-title">花落</div>
+<strong>上一次排名：</strong> 91<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1615</td>
+<td class="align-center">122</td>
+<td class="align-center">66</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="83">
+83rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/82941/1/NewSuperTimE/"
+class="race-protoss"
+data-tooltip="#player-info-82941">
+NewSuperTimE
+</a>
+
+<div id="player-info-82941" style="display: none">
+<div class="tooltip-title">NewSuperTimE</div>
+<strong>上一次排名：</strong> 94<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1613</td>
+<td class="align-center">413</td>
+<td class="align-center">365</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="84">
+84th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/130464/1/SunMoonStar/"
+class="race-zerg"
+data-tooltip="#player-info-130464">
+SunMoonStar
+</a>
+
+<div id="player-info-130464" style="display: none">
+<div class="tooltip-title">SunMoonStar</div>
+<strong>上一次排名：</strong> 79<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1612</td>
+<td class="align-center">247</td>
+<td class="align-center">210</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/21/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="85">
+85th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/895342/1/KOF/"
+class="race-protoss"
+data-tooltip="#player-info-895342">
+KOF
+</a>
+
+<div id="player-info-895342" style="display: none">
+<div class="tooltip-title">KOF</div>
+<strong>上一次排名：</strong> 62<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1612</td>
+<td class="align-center">309</td>
+<td class="align-center">272</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="86">
+86th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/845299/1/IMBARamonaCC/"
+class="race-terran"
+data-tooltip="#player-info-845299">
+IMBARamonaCC
+</a>
+
+<div id="player-info-845299" style="display: none">
+<div class="tooltip-title">IMBARamonaCC</div>
+<strong>上一次排名：</strong> 90<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1606</td>
+<td class="align-center">189</td>
+<td class="align-center">144</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="87">
+87th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/518416/1/琴舞飞扬/"
+class="race-protoss"
+data-tooltip="#player-info-518416">
+琴舞飞扬
+</a>
+
+<div id="player-info-518416" style="display: none">
+<div class="tooltip-title">琴舞飞扬</div>
+<strong>上一次排名：</strong> 137<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1603</td>
+<td class="align-center">281</td>
+<td class="align-center">235</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="88">
+88th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/185429/1/猜猜我是谁/"
+class="race-zerg"
+data-tooltip="#player-info-185429">
+猜猜我是谁
+</a>
+
+<div id="player-info-185429" style="display: none">
+<div class="tooltip-title">猜猜我是谁</div>
+<strong>上一次排名：</strong> 81<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1602</td>
+<td class="align-center">332</td>
+<td class="align-center">281</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="89">
+89th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/165591/1/逆光灬星火/"
+class="race-terran"
+data-tooltip="#player-info-165591">
+逆光灬星火
+</a>
+
+<div id="player-info-165591" style="display: none">
+<div class="tooltip-title">逆光灬星火</div>
+<strong>上一次排名：</strong> 80<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1602</td>
+<td class="align-center">237</td>
+<td class="align-center">101</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="90">
+90th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/10519/1/凯尔萨斯/"
+class="race-random"
+data-tooltip="#player-info-10519">
+凯尔萨斯
+</a>
+
+<div id="player-info-10519" style="display: none">
+<div class="tooltip-title">凯尔萨斯</div>
+<strong>上一次排名：</strong> 83<br />
+
+<strong>最喜爱种族：</strong> 随机
+</div>
+</td>
+<td class="align-center">1601</td>
+<td class="align-center">3232</td>
+<td class="align-center">3191</td>
+<td>随机</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="91">
+91st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/829331/1/DhcCreep/"
+class="race-terran"
+data-tooltip="#player-info-829331">
+DhcCreep
+</a>
+
+<div id="player-info-829331" style="display: none">
+<div class="tooltip-title">DhcCreep</div>
+<strong>上一次排名：</strong> 81<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1600</td>
+<td class="align-center">97</td>
+<td class="align-center">70</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="92">
+92nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/615069/1/onlyyl/"
+class="race-protoss"
+data-tooltip="#player-info-615069">
+onlyyl
+</a>
+
+<div id="player-info-615069" style="display: none">
+<div class="tooltip-title">onlyyl</div>
+<strong>上一次排名：</strong> 0<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1596</td>
+<td class="align-center">337</td>
+<td class="align-center">297</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="93">
+93rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/124804/1/TLKKz/"
+class="race-terran"
+data-tooltip="#player-info-124804">
+TLKKz
+</a>
+
+<div id="player-info-124804" style="display: none">
+<div class="tooltip-title">TLKKz</div>
+<strong>上一次排名：</strong> 98<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1596</td>
+<td class="align-center">519</td>
+<td class="align-center">465</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="94">
+94th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/6165/1/EtdBigxiao/"
+class="race-zerg"
+data-tooltip="#player-info-6165">
+EtdBigxiao
+</a>
+
+<div id="player-info-6165" style="display: none">
+<div class="tooltip-title">EtdBigxiao</div>
+<strong>上一次排名：</strong> 51<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1593</td>
+<td class="align-center">1167</td>
+<td class="align-center">1107</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="95">
+95th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/496499/1/EtdXigua/"
+class="race-zerg"
+data-tooltip="#player-info-496499">
+EtdXigua
+</a>
+
+<div id="player-info-496499" style="display: none">
+<div class="tooltip-title">EtdXigua</div>
+<strong>上一次排名：</strong> 99<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1591</td>
+<td class="align-center">204</td>
+<td class="align-center">163</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="96">
+96th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/4716/1/霸哥威武/"
+class="race-terran"
+data-tooltip="#player-info-4716">
+霸哥威武
+</a>
+
+<div id="player-info-4716" style="display: none">
+<div class="tooltip-title">霸哥威武</div>
+<strong>上一次排名：</strong> 103<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1581</td>
+<td class="align-center">139</td>
+<td class="align-center">108</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/22/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="97">
+97th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/122683/1/超大玉螺旋丸/"
+class="race-protoss"
+data-tooltip="#player-info-122683">
+超大玉螺旋丸
+</a>
+
+<div id="player-info-122683" style="display: none">
+<div class="tooltip-title">超大玉螺旋丸</div>
+<strong>上一次排名：</strong> 122<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1580</td>
+<td class="align-center">74</td>
+<td class="align-center">35</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="98">
+98th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/149945/1/EtdBlaCksKy/"
+class="race-terran"
+data-tooltip="#player-info-149945">
+EtdBlaCksKy
+</a>
+
+<div id="player-info-149945" style="display: none">
+<div class="tooltip-title">EtdBlaCksKy</div>
+<strong>上一次排名：</strong> 58<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1579</td>
+<td class="align-center">541</td>
+<td class="align-center">484</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="99">
+99th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/78177/1/UmpLegacy/"
+class="race-terran"
+data-tooltip="#player-info-78177">
+UmpLegacy
+</a>
+
+<div id="player-info-78177" style="display: none">
+<div class="tooltip-title">UmpLegacy</div>
+<strong>上一次排名：</strong> 57<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1575</td>
+<td class="align-center">245</td>
+<td class="align-center">193</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="100">
+100th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/17256/1/NewNalrA/"
+class="race-protoss"
+data-tooltip="#player-info-17256">
+NewNalrA
+</a>
+
+<div id="player-info-17256" style="display: none">
+<div class="tooltip-title">NewNalrA</div>
+<strong>上一次排名：</strong> 37<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1574</td>
+<td class="align-center">143</td>
+<td class="align-center">98</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-101" rowspan="100" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-1">
+</span>
+
+<span class="rank">
+前<br />
+<strong>200</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="加入联赛组日期： 5/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="101">
+101st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/120009/1/BwWsorry/"
+class="race-zerg"
+data-tooltip="#player-info-120009">
+
+BwWsorry
+</a>
+
+<div id="player-info-120009" style="display: none">
+<div class="tooltip-title">BwWsorry</div>
+<strong>上一次排名：</strong> 50<br />
+<strong>最喜爱种族：</strong> 异虫
+</div>
+
+</td>
+<td class="align-center">1573</td>
+<td class="align-center">474</td>
+<td class="align-center">405</td>
+<td>异虫</td>
+</tr>
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="102">
+102nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/11470/1/EtdMaka/"
+class="race-zerg"
+data-tooltip="#player-info-11470">
+EtdMaka
+</a>
+
+<div id="player-info-11470" style="display: none">
+<div class="tooltip-title">EtdMaka</div>
+<strong>上一次排名：</strong> 112<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1572</td>
+<td class="align-center">466</td>
+<td class="align-center">423</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="103">
+103rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/324211/1/英明哥/"
+class="race-terran"
+data-tooltip="#player-info-324211">
+英明哥
+</a>
+
+<div id="player-info-324211" style="display: none">
+<div class="tooltip-title">英明哥</div>
+<strong>上一次排名：</strong> 95<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1567</td>
+<td class="align-center">280</td>
+<td class="align-center">235</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/15/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="104">
+104th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/322778/1/CRANElegacy/"
+class="race-zerg"
+data-tooltip="#player-info-322778">
+CRANElegacy
+</a>
+
+<div id="player-info-322778" style="display: none">
+<div class="tooltip-title">CRANElegacy</div>
+<strong>上一次排名：</strong> 112<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1563</td>
+<td class="align-center">493</td>
+<td class="align-center">457</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="105">
+105th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/59074/1/凌宇小章/"
+class="race-zerg"
+data-tooltip="#player-info-59074">
+凌宇小章
+</a>
+
+<div id="player-info-59074" style="display: none">
+<div class="tooltip-title">凌宇小章</div>
+<strong>上一次排名：</strong> 112<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1555</td>
+<td class="align-center">300</td>
+<td class="align-center">256</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="106">
+106th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/646605/1/凌宇西南石油大学/"
+class="race-zerg"
+data-tooltip="#player-info-646605">
+凌宇西南石油大学
+</a>
+
+<div id="player-info-646605" style="display: none">
+<div class="tooltip-title">凌宇西南石油大学</div>
+<strong>上一次排名：</strong> 85<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1554</td>
+<td class="align-center">488</td>
+<td class="align-center">457</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="107">
+107th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/57213/1/NewDS/"
+class="race-protoss"
+data-tooltip="#player-info-57213">
+NewDS
+</a>
+
+<div id="player-info-57213" style="display: none">
+<div class="tooltip-title">NewDS</div>
+<strong>上一次排名：</strong> 70<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1554</td>
+<td class="align-center">170</td>
+<td class="align-center">129</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="108">
+108th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/96461/1/泡面/"
+class="race-zerg"
+data-tooltip="#player-info-96461">
+泡面
+</a>
+
+<div id="player-info-96461" style="display: none">
+<div class="tooltip-title">泡面</div>
+<strong>上一次排名：</strong> 71<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1544</td>
+<td class="align-center">305</td>
+<td class="align-center">272</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="109">
+109th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/270444/1/立业地产顾问/"
+class="race-terran"
+data-tooltip="#player-info-270444">
+立业地产顾问
+</a>
+
+<div id="player-info-270444" style="display: none">
+<div class="tooltip-title">立业地产顾问</div>
+<strong>上一次排名：</strong> 110<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1542</td>
+<td class="align-center">827</td>
+<td class="align-center">758</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="110">
+第110
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/4295/1/IcyLegacy/"
+class="race-terran"
+data-tooltip="#player-info-4295">
+IcyLegacy
+</a>
+
+<div id="player-info-4295" style="display: none">
+<div class="tooltip-title">IcyLegacy</div>
+<strong>上一次排名：</strong> 118<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1541</td>
+<td class="align-center">131</td>
+<td class="align-center">94</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="111">
+第111
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/63568/1/DhcHCapt/"
+class="race-zerg"
+data-tooltip="#player-info-63568">
+DhcHCapt
+</a>
+
+<div id="player-info-63568" style="display: none">
+<div class="tooltip-title">DhcHCapt</div>
+<strong>上一次排名：</strong> 100<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1540</td>
+<td class="align-center">300</td>
+<td class="align-center">255</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="112">
+第112
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/282806/1/hAcKerLegacy/"
+class="race-zerg"
+data-tooltip="#player-info-282806">
+hAcKerLegacy
+</a>
+
+<div id="player-info-282806" style="display: none">
+<div class="tooltip-title">hAcKerLegacy</div>
+<strong>上一次排名：</strong> 132<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1540</td>
+<td class="align-center">196</td>
+<td class="align-center">160</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="113">
+第113
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/158474/1/EverGrrr/"
+class="race-zerg"
+data-tooltip="#player-info-158474">
+EverGrrr
+</a>
+
+<div id="player-info-158474" style="display: none">
+<div class="tooltip-title">EverGrrr</div>
+<strong>上一次排名：</strong> 118<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1540</td>
+<td class="align-center">383</td>
+<td class="align-center">321</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="114">
+第114
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/654919/1/ZeroRenE/"
+class="race-terran"
+data-tooltip="#player-info-654919">
+ZeroRenE
+</a>
+
+<div id="player-info-654919" style="display: none">
+<div class="tooltip-title">ZeroRenE</div>
+<strong>上一次排名：</strong> 124<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1534</td>
+<td class="align-center">316</td>
+<td class="align-center">287</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="115">
+第115
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/93072/1/EtdSlowOne/"
+class="race-zerg"
+data-tooltip="#player-info-93072">
+EtdSlowOne
+</a>
+
+<div id="player-info-93072" style="display: none">
+<div class="tooltip-title">EtdSlowOne</div>
+<strong>上一次排名：</strong> 61<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1534</td>
+<td class="align-center">544</td>
+<td class="align-center">488</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="116">
+第116
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/12181/1/CrabBlitZ/"
+class="race-zerg"
+data-tooltip="#player-info-12181">
+CrabBlitZ
+</a>
+
+<div id="player-info-12181" style="display: none">
+<div class="tooltip-title">CrabBlitZ</div>
+<strong>上一次排名：</strong> 70<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1533</td>
+<td class="align-center">1095</td>
+<td class="align-center">972</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+--
+</td>
+<td class="align-center" data-raw="117">
+第117
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/87159/1/DhcMOVE/"
+class="race-zerg"
+data-tooltip="#player-info-87159">
+DhcMOVE
+</a>
+
+<div id="player-info-87159" style="display: none">
+<div class="tooltip-title">DhcMOVE</div>
+<strong>上一次排名：</strong> 117<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1531</td>
+<td class="align-center">184</td>
+<td class="align-center">144</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="118">
+第118
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/795760/1/枪兵王/"
+class="race-terran"
+data-tooltip="#player-info-795760">
+枪兵王
+</a>
+
+<div id="player-info-795760" style="display: none">
+<div class="tooltip-title">枪兵王</div>
+<strong>上一次排名：</strong> 113<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1529</td>
+<td class="align-center">180</td>
+<td class="align-center">141</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="119">
+第119
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/14099/1/淮安游戏装备店/"
+class="race-protoss"
+data-tooltip="#player-info-14099">
+淮安游戏装备店
+</a>
+
+<div id="player-info-14099" style="display: none">
+<div class="tooltip-title">淮安游戏装备店</div>
+<strong>上一次排名：</strong> 115<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1526</td>
+<td class="align-center">238</td>
+<td class="align-center">197</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="120">
+第120
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/78922/1/LinYuBuTcHeR/"
+class="race-zerg"
+data-tooltip="#player-info-78922">
+LinYuBuTcHeR
+</a>
+
+<div id="player-info-78922" style="display: none">
+<div class="tooltip-title">LinYuBuTcHeR</div>
+<strong>上一次排名：</strong> 115<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1524</td>
+<td class="align-center">316</td>
+<td class="align-center">284</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="121">
+121st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/777412/1/想你想的想睡觉/"
+class="race-protoss"
+data-tooltip="#player-info-777412">
+想你想的想睡觉
+</a>
+
+<div id="player-info-777412" style="display: none">
+<div class="tooltip-title">想你想的想睡觉</div>
+<strong>上一次排名：</strong> 134<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1524</td>
+<td class="align-center">176</td>
+<td class="align-center">125</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="122">
+122nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/202805/1/CrysTalEric/"
+class="race-protoss"
+data-tooltip="#player-info-202805">
+CrysTalEric
+</a>
+
+<div id="player-info-202805" style="display: none">
+<div class="tooltip-title">CrysTalEric</div>
+<strong>上一次排名：</strong> 136<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1521</td>
+<td class="align-center">228</td>
+<td class="align-center">196</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="123">
+123rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/615426/1/PLU/"
+class="race-zerg"
+data-tooltip="#player-info-615426">
+PLU
+</a>
+
+<div id="player-info-615426" style="display: none">
+<div class="tooltip-title">PLU</div>
+<strong>上一次排名：</strong> 151<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1520</td>
+<td class="align-center">213</td>
+<td class="align-center">171</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/19/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="124">
+124th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/210765/1/onlyts/"
+class="race-protoss"
+data-tooltip="#player-info-210765">
+onlyts
+</a>
+
+<div id="player-info-210765" style="display: none">
+<div class="tooltip-title">onlyts</div>
+<strong>上一次排名：</strong> 0<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1520</td>
+<td class="align-center">494</td>
+<td class="align-center">440</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/15/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="125">
+125th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/847520/1/时光流逝/"
+class="race-terran"
+data-tooltip="#player-info-847520">
+时光流逝
+</a>
+
+<div id="player-info-847520" style="display: none">
+<div class="tooltip-title">时光流逝</div>
+<strong>上一次排名：</strong> 138<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1517</td>
+<td class="align-center">124</td>
+<td class="align-center">82</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="126">
+126th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/133723/1/IscRay/"
+class="race-terran"
+data-tooltip="#player-info-133723">
+IscRay
+</a>
+
+<div id="player-info-133723" style="display: none">
+<div class="tooltip-title">IscRay</div>
+<strong>上一次排名：</strong> 140<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1516</td>
+<td class="align-center">326</td>
+<td class="align-center">285</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="127">
+127th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/114250/1/SCwawp/"
+class="race-terran"
+data-tooltip="#player-info-114250">
+SCwawp
+</a>
+
+<div id="player-info-114250" style="display: none">
+<div class="tooltip-title">SCwawp</div>
+<strong>上一次排名：</strong> 125<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1512</td>
+<td class="align-center">364</td>
+<td class="align-center">295</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/2/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="128">
+128th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/105453/1/迅游叶子的柠檬树/"
+class="race-protoss"
+data-tooltip="#player-info-105453">
+迅游叶子的柠檬树
+</a>
+
+<div id="player-info-105453" style="display: none">
+<div class="tooltip-title">迅游叶子的柠檬树</div>
+<strong>上一次排名：</strong> 136<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1512</td>
+<td class="align-center">782</td>
+<td class="align-center">750</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="129">
+129th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/16777/1/ShiYuLegacy/"
+class="race-terran"
+data-tooltip="#player-info-16777">
+ShiYuLegacy
+</a>
+
+<div id="player-info-16777" style="display: none">
+<div class="tooltip-title">ShiYuLegacy</div>
+<strong>上一次排名：</strong> 113<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1511</td>
+<td class="align-center">951</td>
+<td class="align-center">881</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="130">
+130th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/83395/1/ZeroSyCc/"
+class="race-terran"
+data-tooltip="#player-info-83395">
+ZeroSyCc
+</a>
+
+<div id="player-info-83395" style="display: none">
+<div class="tooltip-title">ZeroSyCc</div>
+<strong>上一次排名：</strong> 119<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1511</td>
+<td class="align-center">385</td>
+<td class="align-center">336</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="131">
+131st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/790317/1/emilia/"
+class="race-terran"
+data-tooltip="#player-info-790317">
+emilia
+</a>
+
+<div id="player-info-790317" style="display: none">
+<div class="tooltip-title">emilia</div>
+<strong>上一次排名：</strong> 132<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1509</td>
+<td class="align-center">214</td>
+<td class="align-center">182</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="132">
+132nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/869934/1/瑠川莉娜/"
+class="race-protoss"
+data-tooltip="#player-info-869934">
+瑠川莉娜
+</a>
+
+<div id="player-info-869934" style="display: none">
+<div class="tooltip-title">瑠川莉娜</div>
+<strong>上一次排名：</strong> 133<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1509</td>
+<td class="align-center">124</td>
+<td class="align-center">84</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="133">
+133rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/286319/1/DaMoOrE/"
+class="race-zerg"
+data-tooltip="#player-info-286319">
+DaMoOrE
+</a>
+
+<div id="player-info-286319" style="display: none">
+<div class="tooltip-title">DaMoOrE</div>
+<strong>上一次排名：</strong> 121<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1507</td>
+<td class="align-center">478</td>
+<td class="align-center">441</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="134">
+134th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/4043/1/LYGUNBASTER/"
+class="race-protoss"
+data-tooltip="#player-info-4043">
+LYGUNBASTER
+</a>
+
+<div id="player-info-4043" style="display: none">
+<div class="tooltip-title">LYGUNBASTER</div>
+<strong>上一次排名：</strong> 115<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1503</td>
+<td class="align-center">476</td>
+<td class="align-center">440</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="135">
+135th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/59316/1/KoscleeCxx/"
+class="race-zerg"
+data-tooltip="#player-info-59316">
+KoscleeCxx
+</a>
+
+<div id="player-info-59316" style="display: none">
+<div class="tooltip-title">KoscleeCxx</div>
+<strong>上一次排名：</strong> 132<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1503</td>
+<td class="align-center">216</td>
+<td class="align-center">179</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="136">
+136th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/810411/1/大風起兮雲飛揚/"
+class="race-terran"
+data-tooltip="#player-info-810411">
+大風起兮雲飛揚
+</a>
+
+<div id="player-info-810411" style="display: none">
+<div class="tooltip-title">大風起兮雲飛揚</div>
+<strong>上一次排名：</strong> 132<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1503</td>
+<td class="align-center">77</td>
+<td class="align-center">43</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="137">
+137th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/155132/1/红军/"
+class="race-terran"
+data-tooltip="#player-info-155132">
+红军
+</a>
+
+<div id="player-info-155132" style="display: none">
+<div class="tooltip-title">红军</div>
+<strong>上一次排名：</strong> 0<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1499</td>
+<td class="align-center">265</td>
+<td class="align-center">231</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="138">
+138th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/33987/1/Majinbuu/"
+class="race-zerg"
+data-tooltip="#player-info-33987">
+Majinbuu
+</a>
+
+<div id="player-info-33987" style="display: none">
+<div class="tooltip-title">Majinbuu</div>
+<strong>上一次排名：</strong> 136<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1497</td>
+<td class="align-center">742</td>
+<td class="align-center">683</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="139">
+139th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/145320/1/LinYusleep/"
+class="race-protoss"
+data-tooltip="#player-info-145320">
+LinYusleep
+</a>
+
+<div id="player-info-145320" style="display: none">
+<div class="tooltip-title">LinYusleep</div>
+<strong>上一次排名：</strong> 135<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1479</td>
+<td class="align-center">1736</td>
+<td class="align-center">1646</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="140">
+140th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/22733/1/kaka/"
+class="race-terran"
+data-tooltip="#player-info-22733">
+kaka
+</a>
+
+<div id="player-info-22733" style="display: none">
+<div class="tooltip-title">kaka</div>
+<strong>上一次排名：</strong> 109<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1471</td>
+<td class="align-center">492</td>
+<td class="align-center">449</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="141">
+141st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/220800/1/VENLegacy/"
+class="race-terran"
+data-tooltip="#player-info-220800">
+VENLegacy
+</a>
+
+<div id="player-info-220800" style="display: none">
+<div class="tooltip-title">VENLegacy</div>
+<strong>上一次排名：</strong> 137<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1467</td>
+<td class="align-center">297</td>
+<td class="align-center">239</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/16/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="142">
+142nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/606583/1/Cesc/"
+class="race-zerg"
+data-tooltip="#player-info-606583">
+Cesc
+</a>
+
+<div id="player-info-606583" style="display: none">
+<div class="tooltip-title">Cesc</div>
+<strong>上一次排名：</strong> 149<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1466</td>
+<td class="align-center">381</td>
+<td class="align-center">343</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="143">
+143rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/584166/1/小奶茶妹妹/"
+class="race-terran"
+data-tooltip="#player-info-584166">
+小奶茶妹妹
+</a>
+
+<div id="player-info-584166" style="display: none">
+<div class="tooltip-title">小奶茶妹妹</div>
+<strong>上一次排名：</strong> 186<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1464</td>
+<td class="align-center">149</td>
+<td class="align-center">114</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="144">
+144th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/4688/1/NewBada/"
+class="race-terran"
+data-tooltip="#player-info-4688">
+NewBada
+</a>
+
+<div id="player-info-4688" style="display: none">
+<div class="tooltip-title">NewBada</div>
+<strong>上一次排名：</strong> 145<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1461</td>
+<td class="align-center">296</td>
+<td class="align-center">271</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="145">
+145th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/908906/1/EtdMDope/"
+class="race-terran"
+data-tooltip="#player-info-908906">
+EtdMDope
+</a>
+
+<div id="player-info-908906" style="display: none">
+<div class="tooltip-title">EtdMDope</div>
+<strong>上一次排名：</strong> 167<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1460</td>
+<td class="align-center">70</td>
+<td class="align-center">40</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="146">
+146th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/555416/1/sweetheart/"
+class="race-terran"
+data-tooltip="#player-info-555416">
+sweetheart
+</a>
+
+<div id="player-info-555416" style="display: none">
+<div class="tooltip-title">sweetheart</div>
+<strong>上一次排名：</strong> 129<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1451</td>
+<td class="align-center">441</td>
+<td class="align-center">396</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="147">
+147th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/906051/1/LinYuAyA/"
+class="race-zerg"
+data-tooltip="#player-info-906051">
+LinYuAyA
+</a>
+
+<div id="player-info-906051" style="display: none">
+<div class="tooltip-title">LinYuAyA</div>
+<strong>上一次排名：</strong> 156<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1449</td>
+<td class="align-center">85</td>
+<td class="align-center">43</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+--
+</td>
+<td class="align-center" data-raw="148">
+148th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/128049/1/NewRaY/"
+class="race-protoss"
+data-tooltip="#player-info-128049">
+NewRaY
+</a>
+
+<div id="player-info-128049" style="display: none">
+<div class="tooltip-title">NewRaY</div>
+<strong>上一次排名：</strong> 148<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1441</td>
+<td class="align-center">179</td>
+<td class="align-center">158</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/19/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="149">
+149th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/920703/1/Kime/"
+class="race-protoss"
+data-tooltip="#player-info-920703">
+Kime
+</a>
+
+<div id="player-info-920703" style="display: none">
+<div class="tooltip-title">Kime</div>
+<strong>上一次排名：</strong> 184<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1439</td>
+<td class="align-center">61</td>
+<td class="align-center">34</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="150">
+150th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/10117/1/DiabloLegacy/"
+class="race-zerg"
+data-tooltip="#player-info-10117">
+DiabloLegacy
+</a>
+
+<div id="player-info-10117" style="display: none">
+<div class="tooltip-title">DiabloLegacy</div>
+<strong>上一次排名：</strong> 130<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1437</td>
+<td class="align-center">373</td>
+<td class="align-center">339</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="151">
+151st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/642083/1/EtdMoGuGG/"
+class="race-protoss"
+data-tooltip="#player-info-642083">
+EtdMoGuGG
+</a>
+
+<div id="player-info-642083" style="display: none">
+<div class="tooltip-title">EtdMoGuGG</div>
+<strong>上一次排名：</strong> 169<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1430</td>
+<td class="align-center">223</td>
+<td class="align-center">201</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="152">
+152nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/37541/1/围观群众/"
+class="race-protoss"
+data-tooltip="#player-info-37541">
+围观群众
+</a>
+
+<div id="player-info-37541" style="display: none">
+<div class="tooltip-title">围观群众</div>
+<strong>上一次排名：</strong> 147<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1429</td>
+<td class="align-center">359</td>
+<td class="align-center">313</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="153">
+153rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/556347/1/brothersharp/"
+class="race-protoss"
+data-tooltip="#player-info-556347">
+brothersharp
+</a>
+
+<div id="player-info-556347" style="display: none">
+<div class="tooltip-title">brothersharp</div>
+<strong>上一次排名：</strong> 148<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1428</td>
+<td class="align-center">251</td>
+<td class="align-center">230</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="154">
+154th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/288748/1/NewYooNa/"
+class="race-zerg"
+data-tooltip="#player-info-288748">
+NewYooNa
+</a>
+
+<div id="player-info-288748" style="display: none">
+<div class="tooltip-title">NewYooNa</div>
+<strong>上一次排名：</strong> 167<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1419</td>
+<td class="align-center">202</td>
+<td class="align-center">170</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="155">
+155th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/101040/1/大陆外蒙古是一家/"
+class="race-random"
+data-tooltip="#player-info-101040">
+大陆外蒙古是一家
+</a>
+
+<div id="player-info-101040" style="display: none">
+<div class="tooltip-title">大陆外蒙古是一家</div>
+<strong>上一次排名：</strong> 128<br />
+
+<strong>最喜爱种族：</strong> 随机
+</div>
+</td>
+<td class="align-center">1417</td>
+<td class="align-center">469</td>
+<td class="align-center">431</td>
+<td>随机</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="156">
+156th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/145318/1/麒麟七爷/"
+class="race-protoss"
+data-tooltip="#player-info-145318">
+麒麟七爷
+</a>
+
+<div id="player-info-145318" style="display: none">
+<div class="tooltip-title">麒麟七爷</div>
+<strong>上一次排名：</strong> 122<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1415</td>
+<td class="align-center">563</td>
+<td class="align-center">520</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/17/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="157">
+157th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/23421/1/DhcCondivi/"
+class="race-terran"
+data-tooltip="#player-info-23421">
+DhcCondivi
+</a>
+
+<div id="player-info-23421" style="display: none">
+<div class="tooltip-title">DhcCondivi</div>
+<strong>上一次排名：</strong> 155<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1414</td>
+<td class="align-center">224</td>
+<td class="align-center">193</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="158">
+158th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/774163/1/RyHstarL/"
+class="race-protoss"
+data-tooltip="#player-info-774163">
+RyHstarL
+</a>
+
+<div id="player-info-774163" style="display: none">
+<div class="tooltip-title">RyHstarL</div>
+<strong>上一次排名：</strong> 167<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1412</td>
+<td class="align-center">95</td>
+<td class="align-center">66</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="159">
+159th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/411640/1/michaelxln/"
+class="race-terran"
+data-tooltip="#player-info-411640">
+michaelxln
+</a>
+
+<div id="player-info-411640" style="display: none">
+<div class="tooltip-title">michaelxln</div>
+<strong>上一次排名：</strong> 186<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1410</td>
+<td class="align-center">114</td>
+<td class="align-center">50</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="160">
+160th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/373685/1/DhcGrayTear/"
+class="race-protoss"
+data-tooltip="#player-info-373685">
+DhcGrayTear
+</a>
+
+<div id="player-info-373685" style="display: none">
+<div class="tooltip-title">DhcGrayTear</div>
+<strong>上一次排名：</strong> 169<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1405</td>
+<td class="align-center">245</td>
+<td class="align-center">214</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="161">
+161st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/832807/1/DoesHeIt/"
+class="race-protoss"
+data-tooltip="#player-info-832807">
+DoesHeIt
+</a>
+
+<div id="player-info-832807" style="display: none">
+<div class="tooltip-title">DoesHeIt</div>
+<strong>上一次排名：</strong> 144<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1403</td>
+<td class="align-center">323</td>
+<td class="align-center">284</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="162">
+162nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/696142/1/gggl/"
+class="race-terran"
+data-tooltip="#player-info-696142">
+gggl
+</a>
+
+<div id="player-info-696142" style="display: none">
+<div class="tooltip-title">gggl</div>
+<strong>上一次排名：</strong> 161<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1398</td>
+<td class="align-center">234</td>
+<td class="align-center">200</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="163">
+163rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/156329/1/传说哥/"
+class="race-terran"
+data-tooltip="#player-info-156329">
+传说哥
+</a>
+
+<div id="player-info-156329" style="display: none">
+<div class="tooltip-title">传说哥</div>
+<strong>上一次排名：</strong> 161<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1397</td>
+<td class="align-center">195</td>
+<td class="align-center">162</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/17/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="164">
+164th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/629181/1/AlwaysYou/"
+class="race-zerg"
+data-tooltip="#player-info-629181">
+AlwaysYou
+</a>
+
+<div id="player-info-629181" style="display: none">
+<div class="tooltip-title">AlwaysYou</div>
+<strong>上一次排名：</strong> 172<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1397</td>
+<td class="align-center">144</td>
+<td class="align-center">119</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="165">
+165th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/658448/1/CiCiLegacy/"
+class="race-protoss"
+data-tooltip="#player-info-658448">
+CiCiLegacy
+</a>
+
+<div id="player-info-658448" style="display: none">
+<div class="tooltip-title">CiCiLegacy</div>
+<strong>上一次排名：</strong> 0<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1393</td>
+<td class="align-center">465</td>
+<td class="align-center">341</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="166">
+166th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/436381/1/木小语/"
+class="race-protoss"
+data-tooltip="#player-info-436381">
+木小语
+</a>
+
+<div id="player-info-436381" style="display: none">
+<div class="tooltip-title">木小语</div>
+<strong>上一次排名：</strong> 135<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1387</td>
+<td class="align-center">527</td>
+<td class="align-center">469</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="167">
+167th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/58833/1/CCMCoMM/"
+class="race-zerg"
+data-tooltip="#player-info-58833">
+CCMCoMM
+</a>
+
+<div id="player-info-58833" style="display: none">
+<div class="tooltip-title">CCMCoMM</div>
+<strong>上一次排名：</strong> 172<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1383</td>
+<td class="align-center">303</td>
+<td class="align-center">134</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="168">
+168th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/86124/1/SBsS/"
+class="race-protoss"
+data-tooltip="#player-info-86124">
+SBsS
+</a>
+
+<div id="player-info-86124" style="display: none">
+<div class="tooltip-title">SBsS</div>
+<strong>上一次排名：</strong> 173<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1381</td>
+<td class="align-center">306</td>
+<td class="align-center">278</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="169">
+169th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/228059/1/ManGo/"
+class="race-protoss"
+data-tooltip="#player-info-228059">
+ManGo
+</a>
+
+<div id="player-info-228059" style="display: none">
+<div class="tooltip-title">ManGo</div>
+<strong>上一次排名：</strong> 180<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1371</td>
+<td class="align-center">349</td>
+<td class="align-center">317</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="170">
+170th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/37636/1/郑州帅红外设店/"
+class="race-zerg"
+data-tooltip="#player-info-37636">
+郑州帅红外设店
+</a>
+
+<div id="player-info-37636" style="display: none">
+<div class="tooltip-title">郑州帅红外设店</div>
+<strong>上一次排名：</strong> 162<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1370</td>
+<td class="align-center">377</td>
+<td class="align-center">348</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="171">
+171st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/80147/1/AngelBeats/"
+class="race-protoss"
+data-tooltip="#player-info-80147">
+AngelBeats
+</a>
+
+<div id="player-info-80147" style="display: none">
+<div class="tooltip-title">AngelBeats</div>
+<strong>上一次排名：</strong> 178<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1369</td>
+<td class="align-center">123</td>
+<td class="align-center">95</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="172">
+172nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/20724/1/AgFoxMMS/"
+class="race-protoss"
+data-tooltip="#player-info-20724">
+AgFoxMMS
+</a>
+
+<div id="player-info-20724" style="display: none">
+<div class="tooltip-title">AgFoxMMS</div>
+<strong>上一次排名：</strong> 168<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1368</td>
+<td class="align-center">274</td>
+<td class="align-center">247</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="173">
+173rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/854467/1/xunzhaopjok/"
+class="race-zerg"
+data-tooltip="#player-info-854467">
+xunzhaopjok
+</a>
+
+<div id="player-info-854467" style="display: none">
+<div class="tooltip-title">xunzhaopjok</div>
+<strong>上一次排名：</strong> 172<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1367</td>
+<td class="align-center">314</td>
+<td class="align-center">276</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="174">
+174th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/91709/1/ExileBox/"
+class="race-terran"
+data-tooltip="#player-info-91709">
+ExileBox
+</a>
+
+<div id="player-info-91709" style="display: none">
+<div class="tooltip-title">ExileBox</div>
+<strong>上一次排名：</strong> 173<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1359</td>
+<td class="align-center">501</td>
+<td class="align-center">461</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="175">
+175th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/753488/1/ZeroLoli/"
+class="race-terran"
+data-tooltip="#player-info-753488">
+ZeroLoli
+</a>
+
+<div id="player-info-753488" style="display: none">
+<div class="tooltip-title">ZeroLoli</div>
+<strong>上一次排名：</strong> 174<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1348</td>
+<td class="align-center">220</td>
+<td class="align-center">134</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="176">
+176th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/20005/1/默默解开裤腰带/"
+class="race-protoss"
+data-tooltip="#player-info-20005">
+默默解开裤腰带
+</a>
+
+<div id="player-info-20005" style="display: none">
+<div class="tooltip-title">默默解开裤腰带</div>
+<strong>上一次排名：</strong> 146<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1342</td>
+<td class="align-center">124</td>
+<td class="align-center">92</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/9/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="177">
+177th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/773355/1/Regret/"
+class="race-protoss"
+data-tooltip="#player-info-773355">
+Regret
+</a>
+
+<div id="player-info-773355" style="display: none">
+<div class="tooltip-title">Regret</div>
+<strong>上一次排名：</strong> 0<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1329</td>
+<td class="align-center">335</td>
+<td class="align-center">284</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="178">
+178th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/184506/1/STAN/"
+class="race-terran"
+data-tooltip="#player-info-184506">
+STAN
+</a>
+
+<div id="player-info-184506" style="display: none">
+<div class="tooltip-title">STAN</div>
+<strong>上一次排名：</strong> 194<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1327</td>
+<td class="align-center">179</td>
+<td class="align-center">133</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="179">
+179th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/530227/1/Adun/"
+class="race-protoss"
+data-tooltip="#player-info-530227">
+Adun
+</a>
+
+<div id="player-info-530227" style="display: none">
+<div class="tooltip-title">Adun</div>
+<strong>上一次排名：</strong> 171<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1323</td>
+<td class="align-center">352</td>
+<td class="align-center">336</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="180">
+180th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/18679/1/嘟嘟王/"
+class="race-protoss"
+data-tooltip="#player-info-18679">
+嘟嘟王
+</a>
+
+<div id="player-info-18679" style="display: none">
+<div class="tooltip-title">嘟嘟王</div>
+<strong>上一次排名：</strong> 185<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1308</td>
+<td class="align-center">630</td>
+<td class="align-center">595</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="181">
+181st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/199751/1/NextOne/"
+class="race-protoss"
+data-tooltip="#player-info-199751">
+NextOne
+</a>
+
+<div id="player-info-199751" style="display: none">
+<div class="tooltip-title">NextOne</div>
+<strong>上一次排名：</strong> 0<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1300</td>
+<td class="align-center">109</td>
+<td class="align-center">83</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/13/2011">
+
+--
+</td>
+<td class="align-center" data-raw="182">
+182nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/290060/1/SvSUntil/"
+class="race-zerg"
+data-tooltip="#player-info-290060">
+SvSUntil
+</a>
+
+<div id="player-info-290060" style="display: none">
+<div class="tooltip-title">SvSUntil</div>
+<strong>上一次排名：</strong> 182<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1293</td>
+<td class="align-center">287</td>
+<td class="align-center">249</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+--
+</td>
+<td class="align-center" data-raw="183">
+183rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/125514/1/Don/"
+class="race-zerg"
+data-tooltip="#player-info-125514">
+Don
+</a>
+
+<div id="player-info-125514" style="display: none">
+<div class="tooltip-title">Don</div>
+<strong>上一次排名：</strong> 183<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1281</td>
+<td class="align-center">287</td>
+<td class="align-center">252</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="184">
+184th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/140451/1/星际争爸/"
+class="race-zerg"
+data-tooltip="#player-info-140451">
+星际争爸
+</a>
+
+<div id="player-info-140451" style="display: none">
+<div class="tooltip-title">星际争爸</div>
+<strong>上一次排名：</strong> 183<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1277</td>
+<td class="align-center">859</td>
+<td class="align-center">807</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="185">
+185th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/22582/1/soloCCTV/"
+class="race-terran"
+data-tooltip="#player-info-22582">
+soloCCTV
+</a>
+
+<div id="player-info-22582" style="display: none">
+<div class="tooltip-title">soloCCTV</div>
+<strong>上一次排名：</strong> 184<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1271</td>
+<td class="align-center">413</td>
+<td class="align-center">374</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="186">
+186th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/8063/1/DhcMagicYin/"
+class="race-protoss"
+data-tooltip="#player-info-8063">
+DhcMagicYin
+</a>
+
+<div id="player-info-8063" style="display: none">
+<div class="tooltip-title">DhcMagicYin</div>
+<strong>上一次排名：</strong> 181<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1264</td>
+<td class="align-center">187</td>
+<td class="align-center">170</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="187">
+187th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/477933/1/hpioou/"
+class="race-terran"
+data-tooltip="#player-info-477933">
+hpioou
+</a>
+
+<div id="player-info-477933" style="display: none">
+<div class="tooltip-title">hpioou</div>
+<strong>上一次排名：</strong> 0<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1264</td>
+<td class="align-center">409</td>
+<td class="align-center">346</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="188">
+188th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/352335/1/wLsmile/"
+class="race-terran"
+data-tooltip="#player-info-352335">
+wLsmile
+</a>
+
+<div id="player-info-352335" style="display: none">
+<div class="tooltip-title">wLsmile</div>
+<strong>上一次排名：</strong> 189<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1240</td>
+<td class="align-center">239</td>
+<td class="align-center">219</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="189">
+189th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/309791/1/TyLootmduhen/"
+class="race-protoss"
+data-tooltip="#player-info-309791">
+TyLootmduhen
+</a>
+
+<div id="player-info-309791" style="display: none">
+<div class="tooltip-title">TyLootmduhen</div>
+<strong>上一次排名：</strong> 195<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1197</td>
+<td class="align-center">379</td>
+<td class="align-center">360</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 5/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="190">
+190th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/165462/1/北京市顺义区柳彪/"
+class="race-protoss"
+data-tooltip="#player-info-165462">
+北京市顺义区柳彪
+</a>
+
+<div id="player-info-165462" style="display: none">
+<div class="tooltip-title">北京市顺义区柳彪</div>
+<strong>上一次排名：</strong> 188<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1197</td>
+<td class="align-center">495</td>
+<td class="align-center">475</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+--
+</td>
+<td class="align-center" data-raw="191">
+191st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/9473/1/战神巴蒂/"
+class="race-protoss"
+data-tooltip="#player-info-9473">
+战神巴蒂
+</a>
+
+<div id="player-info-9473" style="display: none">
+<div class="tooltip-title">战神巴蒂</div>
+<strong>上一次排名：</strong> 191<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1194</td>
+<td class="align-center">600</td>
+<td class="align-center">570</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 6/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="192">
+192nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/847601/1/EtdMeMory/"
+class="race-terran"
+data-tooltip="#player-info-847601">
+EtdMeMory
+</a>
+
+<div id="player-info-847601" style="display: none">
+<div class="tooltip-title">EtdMeMory</div>
+<strong>上一次排名：</strong> 187<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1192</td>
+<td class="align-center">167</td>
+<td class="align-center">160</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="193">
+193rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/12995/1/大家讲道理/"
+class="race-protoss"
+data-tooltip="#player-info-12995">
+大家讲道理
+</a>
+
+<div id="player-info-12995" style="display: none">
+<div class="tooltip-title">大家讲道理</div>
+<strong>上一次排名：</strong> 195<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1189</td>
+<td class="align-center">281</td>
+<td class="align-center">266</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="194">
+194th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/326556/1/CyhyLegacy/"
+class="race-terran"
+data-tooltip="#player-info-326556">
+CyhyLegacy
+</a>
+
+<div id="player-info-326556" style="display: none">
+<div class="tooltip-title">CyhyLegacy</div>
+<strong>上一次排名：</strong> 193<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1150</td>
+<td class="align-center">252</td>
+<td class="align-center">215</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="195">
+195th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/123137/1/ChoboLegacy/"
+class="race-protoss"
+data-tooltip="#player-info-123137">
+ChoboLegacy
+</a>
+
+<div id="player-info-123137" style="display: none">
+<div class="tooltip-title">ChoboLegacy</div>
+<strong>上一次排名：</strong> 200<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">1148</td>
+<td class="align-center">136</td>
+<td class="align-center">121</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="196">
+196th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/773204/1/石動美緒/"
+class="race-zerg"
+data-tooltip="#player-info-773204">
+石動美緒
+</a>
+
+<div id="player-info-773204" style="display: none">
+<div class="tooltip-title">石動美緒</div>
+<strong>上一次排名：</strong> 194<br />
+
+<strong>最喜爱种族：</strong> 异虫
+</div>
+</td>
+<td class="align-center">1138</td>
+<td class="align-center">81</td>
+<td class="align-center">57</td>
+<td>异虫</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/9/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="197">
+197th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/161121/1/光头者/"
+class="race-terran"
+data-tooltip="#player-info-161121">
+光头者
+</a>
+
+<div id="player-info-161121" style="display: none">
+<div class="tooltip-title">光头者</div>
+<strong>上一次排名：</strong> 0<br />
+
+<strong>最喜爱种族：</strong> 人类
+</div>
+</td>
+<td class="align-center">1008</td>
+<td class="align-center">139</td>
+<td class="align-center">104</td>
+<td>人类</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/12/2011">
+
+--
+</td>
+<td class="align-center" data-raw="198">
+198th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/266140/1/云南大理风花雪月/"
+class="race-random"
+data-tooltip="#player-info-266140">
+云南大理风花雪月
+</a>
+
+<div id="player-info-266140" style="display: none">
+<div class="tooltip-title">云南大理风花雪月</div>
+<strong>上一次排名：</strong> 198<br />
+
+<strong>最喜爱种族：</strong> 随机
+</div>
+</td>
+<td class="align-center">850</td>
+<td class="align-center">3149</td>
+<td class="align-center">3246</td>
+<td>随机</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入联赛组日期： 7/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="199">
+199th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/98743/1/HistShark/"
+class="race-protoss"
+data-tooltip="#player-info-98743">
+HistShark
+</a>
+
+<div id="player-info-98743" style="display: none">
+<div class="tooltip-title">HistShark</div>
+<strong>上一次排名：</strong> 197<br />
+
+<strong>最喜爱种族：</strong> 星灵
+</div>
+</td>
+<td class="align-center">829</td>
+<td class="align-center">319</td>
+<td class="align-center">300</td>
+<td>星灵</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入联赛组日期： 4/12/2011">
+
+--
+</td>
+<td class="align-center" data-raw="200">
+200th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/61793/1/EtdDoodle/"
+class="race-random"
+data-tooltip="#player-info-61793">
+EtdDoodle
+</a>
+
+<div id="player-info-61793" style="display: none">
+<div class="tooltip-title">EtdDoodle</div>
+<strong>上一次排名：</strong> 200<br />
+
+<strong>最喜爱种族：</strong> 随机
+</div>
+</td>
+<td class="align-center">24</td>
+<td class="align-center">3220</td>
+<td class="align-center">3621</td>
+<td>随机</td>
+
+</tr>
+

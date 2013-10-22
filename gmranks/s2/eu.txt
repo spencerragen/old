@@ -1,0 +1,6430 @@
+<a href="/sc2/en/profile/788178/1/aAaNerchio/"
+class="race-zerg"
+data-tooltip="#player-info-788178">
+aAaNerchio
+</a>
+
+<div id="player-info-788178" style="display: none">
+<div class="tooltip-title">aAaNerchio</div>
+<strong>Previous Rank:</strong> 2<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1811</td>
+<td class="align-center">548</td>
+<td class="align-center">155</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="2">
+2nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/484961/1/imbaStrelok/"
+class="race-terran"
+data-tooltip="#player-info-484961">
+imbaStrelok
+</a>
+
+<div id="player-info-484961" style="display: none">
+<div class="tooltip-title">imbaStrelok</div>
+<strong>Previous Rank:</strong> 3<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1734</td>
+<td class="align-center">448</td>
+<td class="align-center">139</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="3">
+3rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1058669/1/EmpireHappy/"
+class="race-terran"
+data-tooltip="#player-info-1058669">
+EmpireHappy
+</a>
+
+<div id="player-info-1058669" style="display: none">
+<div class="tooltip-title">EmpireHappy</div>
+<strong>Previous Rank:</strong> 14<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1706</td>
+<td class="align-center">1095</td>
+<td class="align-center">258</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="4">
+4th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1720365/1/MYMSaSe/"
+class="race-protoss"
+data-tooltip="#player-info-1720365">
+MYMSaSe
+</a>
+
+<div id="player-info-1720365" style="display: none">
+<div class="tooltip-title">MYMSaSe</div>
+<strong>Previous Rank:</strong> 3<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1704</td>
+<td class="align-center">1619</td>
+<td class="align-center">543</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="5">
+5th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/809514/1/KiWiKaKi/"
+class="race-protoss"
+data-tooltip="#player-info-809514">
+KiWiKaKi
+</a>
+
+<div id="player-info-809514" style="display: none">
+<div class="tooltip-title">KiWiKaKi</div>
+<strong>Previous Rank:</strong> 3<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1703</td>
+<td class="align-center">430</td>
+<td class="align-center">156</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 26/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="6">
+6th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2101268/1/MǂStephano/"
+class="race-zerg"
+data-tooltip="#player-info-2101268">
+MǂStephano
+</a>
+
+<div id="player-info-2101268" style="display: none">
+<div class="tooltip-title">MǂStephano</div>
+<strong>Previous Rank:</strong> 5<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1696</td>
+<td class="align-center">538</td>
+<td class="align-center">175</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="7">
+7th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1715308/1/MǂToD/"
+class="race-protoss"
+data-tooltip="#player-info-1715308">
+MǂToD
+</a>
+
+<div id="player-info-1715308" style="display: none">
+<div class="tooltip-title">MǂToD</div>
+<strong>Previous Rank:</strong> 11<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1694</td>
+<td class="align-center">539</td>
+<td class="align-center">215</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 11/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="8">
+8th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/174572/1/mTwDIMAGA/"
+class="race-zerg"
+data-tooltip="#player-info-174572">
+mTwDIMAGA
+</a>
+
+<div id="player-info-174572" style="display: none">
+<div class="tooltip-title">mTwDIMAGA</div>
+<strong>Previous Rank:</strong> 10<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1693</td>
+<td class="align-center">276</td>
+<td class="align-center">94</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 14/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="9">
+9th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/203342/1/nAni/"
+class="race-protoss"
+data-tooltip="#player-info-203342">
+nAni
+</a>
+
+<div id="player-info-203342" style="display: none">
+<div class="tooltip-title">nAni</div>
+<strong>Previous Rank:</strong> 17<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1693</td>
+<td class="align-center">303</td>
+<td class="align-center">130</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="10">
+10th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/175901/1/aTnDarKFoRcE/"
+class="race-zerg"
+data-tooltip="#player-info-175901">
+aTnDarKFoRcE
+</a>
+
+<div id="player-info-175901" style="display: none">
+<div class="tooltip-title">aTnDarKFoRcE</div>
+<strong>Previous Rank:</strong> 56<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1691</td>
+<td class="align-center">966</td>
+<td class="align-center">451</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="11">
+11th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/213858/1/SjoW/"
+class="race-terran"
+data-tooltip="#player-info-213858">
+SjoW
+</a>
+
+<div id="player-info-213858" style="display: none">
+<div class="tooltip-title">SjoW</div>
+<strong>Previous Rank:</strong> 17<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1690</td>
+<td class="align-center">424</td>
+<td class="align-center">203</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="12">
+12th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/513075/1/imbaBratOK/"
+class="race-terran"
+data-tooltip="#player-info-513075">
+imbaBratOK
+</a>
+
+<div id="player-info-513075" style="display: none">
+<div class="tooltip-title">imbaBratOK</div>
+<strong>Previous Rank:</strong> 15<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1687</td>
+<td class="align-center">398</td>
+<td class="align-center">124</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="13">
+13th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/172567/1/aTnSocke/"
+class="race-protoss"
+data-tooltip="#player-info-172567">
+aTnSocke
+</a>
+
+<div id="player-info-172567" style="display: none">
+<div class="tooltip-title">aTnSocke</div>
+<strong>Previous Rank:</strong> 34<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1682</td>
+<td class="align-center">289</td>
+<td class="align-center">144</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="14">
+14th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/336081/1/aAabiGs/"
+class="race-zerg"
+data-tooltip="#player-info-336081">
+aAabiGs
+</a>
+
+<div id="player-info-336081" style="display: none">
+<div class="tooltip-title">aAabiGs</div>
+<strong>Previous Rank:</strong> 16<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1680</td>
+<td class="align-center">603</td>
+<td class="align-center">266</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="15">
+15th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1483990/1/Beastyqt/"
+class="race-terran"
+data-tooltip="#player-info-1483990">
+Beastyqt
+</a>
+
+<div id="player-info-1483990" style="display: none">
+<div class="tooltip-title">Beastyqt</div>
+<strong>Previous Rank:</strong> 13<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1677</td>
+<td class="align-center">856</td>
+<td class="align-center">332</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="16">
+16th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1837604/1/KrasS/"
+class="race-terran"
+data-tooltip="#player-info-1837604">
+KrasS
+</a>
+
+<div id="player-info-1837604" style="display: none">
+<div class="tooltip-title">KrasS</div>
+<strong>Previous Rank:</strong> 14<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1675</td>
+<td class="align-center">621</td>
+<td class="align-center">369</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-17" rowspan="34" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-3">
+</span>
+
+<span class="rank">
+Top<br />
+<strong>50</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="Joined Division: 14/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="17">
+17th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/498165/1/EmpireKas/"
+class="race-terran"
+data-tooltip="#player-info-498165">
+
+EmpireKas
+</a>
+
+<div id="player-info-498165" style="display: none">
+<div class="tooltip-title">EmpireKas</div>
+<strong>Previous Rank:</strong> 2<br />
+<strong>Favorite Race:</strong> Terran
+</div>
+
+</td>
+<td class="align-center">1671</td>
+<td class="align-center">1633</td>
+<td class="align-center">447</td>
+<td>Terran</td>
+</tr>
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="18">
+18th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/239335/1/NightEnD/"
+class="race-protoss"
+data-tooltip="#player-info-239335">
+NightEnD
+</a>
+
+<div id="player-info-239335" style="display: none">
+<div class="tooltip-title">NightEnD</div>
+<strong>Previous Rank:</strong> 30<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1657</td>
+<td class="align-center">682</td>
+<td class="align-center">336</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="19">
+19th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/183146/1/MYMXlorD/"
+class="race-zerg"
+data-tooltip="#player-info-183146">
+MYMXlorD
+</a>
+
+<div id="player-info-183146" style="display: none">
+<div class="tooltip-title">MYMXlorD</div>
+<strong>Previous Rank:</strong> 25<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1656</td>
+<td class="align-center">480</td>
+<td class="align-center">222</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="20">
+20th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/202913/1/GLBiOhAzArD/"
+class="race-protoss"
+data-tooltip="#player-info-202913">
+GLBiOhAzArD
+</a>
+
+<div id="player-info-202913" style="display: none">
+<div class="tooltip-title">GLBiOhAzArD</div>
+<strong>Previous Rank:</strong> 39<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1646</td>
+<td class="align-center">247</td>
+<td class="align-center">157</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="21">
+21st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/278203/1/aAaSarenS/"
+class="race-terran"
+data-tooltip="#player-info-278203">
+aAaSarenS
+</a>
+
+<div id="player-info-278203" style="display: none">
+<div class="tooltip-title">aAaSarenS</div>
+<strong>Previous Rank:</strong> 39<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1644</td>
+<td class="align-center">321</td>
+<td class="align-center">148</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="22">
+22nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/377576/1/mouzMaNa/"
+class="race-protoss"
+data-tooltip="#player-info-377576">
+mouzMaNa
+</a>
+
+<div id="player-info-377576" style="display: none">
+<div class="tooltip-title">mouzMaNa</div>
+<strong>Previous Rank:</strong> 17<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1644</td>
+<td class="align-center">317</td>
+<td class="align-center">118</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="23">
+23rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/245899/1/LucifroN/"
+class="race-terran"
+data-tooltip="#player-info-245899">
+LucifroN
+</a>
+
+<div id="player-info-245899" style="display: none">
+<div class="tooltip-title">LucifroN</div>
+<strong>Previous Rank:</strong> 24<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1643</td>
+<td class="align-center">365</td>
+<td class="align-center">148</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="24">
+24th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/226979/1/Aristeo/"
+class="race-zerg"
+data-tooltip="#player-info-226979">
+Aristeo
+</a>
+
+<div id="player-info-226979" style="display: none">
+<div class="tooltip-title">Aristeo</div>
+<strong>Previous Rank:</strong> 75<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1639</td>
+<td class="align-center">172</td>
+<td class="align-center">84</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 27/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="25">
+25th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/423997/1/LLLOrly/"
+class="race-zerg"
+data-tooltip="#player-info-423997">
+LLLOrly
+</a>
+
+<div id="player-info-423997" style="display: none">
+<div class="tooltip-title">LLLOrly</div>
+<strong>Previous Rank:</strong> 28<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1639</td>
+<td class="align-center">278</td>
+<td class="align-center">154</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="26">
+26th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/651353/1/MǂTarson/"
+class="race-terran"
+data-tooltip="#player-info-651353">
+MǂTarson
+</a>
+
+<div id="player-info-651353" style="display: none">
+<div class="tooltip-title">MǂTarson</div>
+<strong>Previous Rank:</strong> 30<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1639</td>
+<td class="align-center">578</td>
+<td class="align-center">287</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="27">
+27th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/211474/1/MǂLalush/"
+class="race-zerg"
+data-tooltip="#player-info-211474">
+MǂLalush
+</a>
+
+<div id="player-info-211474" style="display: none">
+<div class="tooltip-title">MǂLalush</div>
+<strong>Previous Rank:</strong> 14<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1629</td>
+<td class="align-center">616</td>
+<td class="align-center">239</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="28">
+28th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/500034/1/PlayzoneFuRy/"
+class="race-terran"
+data-tooltip="#player-info-500034">
+PlayzoneFuRy
+</a>
+
+<div id="player-info-500034" style="display: none">
+<div class="tooltip-title">PlayzoneFuRy</div>
+<strong>Previous Rank:</strong> 80<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1624</td>
+<td class="align-center">247</td>
+<td class="align-center">118</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="29">
+29th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/281168/1/MǂAdel/"
+class="race-protoss"
+data-tooltip="#player-info-281168">
+MǂAdel
+</a>
+
+<div id="player-info-281168" style="display: none">
+<div class="tooltip-title">MǂAdel</div>
+<strong>Previous Rank:</strong> 25<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1624</td>
+<td class="align-center">491</td>
+<td class="align-center">244</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 14/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="30">
+30th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/221640/1/PredY/"
+class="race-terran"
+data-tooltip="#player-info-221640">
+PredY
+</a>
+
+<div id="player-info-221640" style="display: none">
+<div class="tooltip-title">PredY</div>
+<strong>Previous Rank:</strong> 37<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1616</td>
+<td class="align-center">186</td>
+<td class="align-center">75</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="31">
+31st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/543774/1/imbaLoWeLy/"
+class="race-zerg"
+data-tooltip="#player-info-543774">
+imbaLoWeLy
+</a>
+
+<div id="player-info-543774" style="display: none">
+<div class="tooltip-title">imbaLoWeLy</div>
+<strong>Previous Rank:</strong> 19<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1615</td>
+<td class="align-center">431</td>
+<td class="align-center">188</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="32">
+32nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/170067/1/Plea/"
+class="race-terran"
+data-tooltip="#player-info-170067">
+Plea
+</a>
+
+<div id="player-info-170067" style="display: none">
+<div class="tooltip-title">Plea</div>
+<strong>Previous Rank:</strong> 52<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1613</td>
+<td class="align-center">583</td>
+<td class="align-center">382</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="33">
+33rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/173163/1/LoZ/"
+class="race-terran"
+data-tooltip="#player-info-173163">
+LoZ
+</a>
+
+<div id="player-info-173163" style="display: none">
+<div class="tooltip-title">LoZ</div>
+<strong>Previous Rank:</strong> 45<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1611</td>
+<td class="align-center">380</td>
+<td class="align-center">244</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 8/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="34">
+34th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/383164/1/WhiteRa/"
+class="race-protoss"
+data-tooltip="#player-info-383164">
+WhiteRa
+</a>
+
+<div id="player-info-383164" style="display: none">
+<div class="tooltip-title">WhiteRa</div>
+<strong>Previous Rank:</strong> 46<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1610</td>
+<td class="align-center">802</td>
+<td class="align-center">362</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 26/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="35">
+35th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/284466/1/EGDeMusliM/"
+class="race-terran"
+data-tooltip="#player-info-284466">
+EGDeMusliM
+</a>
+
+<div id="player-info-284466" style="display: none">
+<div class="tooltip-title">EGDeMusliM</div>
+<strong>Previous Rank:</strong> 22<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1609</td>
+<td class="align-center">528</td>
+<td class="align-center">212</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="36">
+36th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/971487/1/Farmer/"
+class="race-protoss"
+data-tooltip="#player-info-971487">
+Farmer
+</a>
+
+<div id="player-info-971487" style="display: none">
+<div class="tooltip-title">Farmer</div>
+<strong>Previous Rank:</strong> 21<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1608</td>
+<td class="align-center">655</td>
+<td class="align-center">430</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="37">
+37th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/185367/1/Sky/"
+class="race-zerg"
+data-tooltip="#player-info-185367">
+Sky
+</a>
+
+<div id="player-info-185367" style="display: none">
+<div class="tooltip-title">Sky</div>
+<strong>Previous Rank:</strong> 32<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1607</td>
+<td class="align-center">345</td>
+<td class="align-center">141</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="38">
+38th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/950504/1/Grubby/"
+class="race-protoss"
+data-tooltip="#player-info-950504">
+Grubby
+</a>
+
+<div id="player-info-950504" style="display: none">
+<div class="tooltip-title">Grubby</div>
+<strong>Previous Rank:</strong> 50<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1601</td>
+<td class="align-center">505</td>
+<td class="align-center">290</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="39">
+39th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1113113/1/GGNaugrim/"
+class="race-zerg"
+data-tooltip="#player-info-1113113">
+GGNaugrim
+</a>
+
+<div id="player-info-1113113" style="display: none">
+<div class="tooltip-title">GGNaugrim</div>
+<strong>Previous Rank:</strong> 22<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1601</td>
+<td class="align-center">549</td>
+<td class="align-center">264</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 6/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="40">
+40th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2160249/1/Satiini/"
+class="race-terran"
+data-tooltip="#player-info-2160249">
+Satiini
+</a>
+
+<div id="player-info-2160249" style="display: none">
+<div class="tooltip-title">Satiini</div>
+<strong>Previous Rank:</strong> 146<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1600</td>
+<td class="align-center">380</td>
+<td class="align-center">161</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="41">
+41st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/322417/1/AcerMondi/"
+class="race-zerg"
+data-tooltip="#player-info-322417">
+AcerMondi
+</a>
+
+<div id="player-info-322417" style="display: none">
+<div class="tooltip-title">AcerMondi</div>
+<strong>Previous Rank:</strong> 36<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1598</td>
+<td class="align-center">323</td>
+<td class="align-center">182</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="42">
+42nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1173786/1/roxkisSlivko/"
+class="race-zerg"
+data-tooltip="#player-info-1173786">
+roxkisSlivko
+</a>
+
+<div id="player-info-1173786" style="display: none">
+<div class="tooltip-title">roxkisSlivko</div>
+<strong>Previous Rank:</strong> 58<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1597</td>
+<td class="align-center">798</td>
+<td class="align-center">516</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="43">
+43rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1611575/1/fateofseven/"
+class="race-terran"
+data-tooltip="#player-info-1611575">
+fateofseven
+</a>
+
+<div id="player-info-1611575" style="display: none">
+<div class="tooltip-title">fateofseven</div>
+<strong>Previous Rank:</strong> 38<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1594</td>
+<td class="align-center">174</td>
+<td class="align-center">100</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 6/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="44">
+44th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/181511/1/AiDeathAngel/"
+class="race-zerg"
+data-tooltip="#player-info-181511">
+AiDeathAngel
+</a>
+
+<div id="player-info-181511" style="display: none">
+<div class="tooltip-title">AiDeathAngel</div>
+<strong>Previous Rank:</strong> 60<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1593</td>
+<td class="align-center">392</td>
+<td class="align-center">228</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="45">
+45th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/225871/1/aAakAra/"
+class="race-protoss"
+data-tooltip="#player-info-225871">
+aAakAra
+</a>
+
+<div id="player-info-225871" style="display: none">
+<div class="tooltip-title">aAakAra</div>
+<strong>Previous Rank:</strong> 57<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1592</td>
+<td class="align-center">354</td>
+<td class="align-center">264</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 30/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="46">
+46th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/741833/1/Tefel/"
+class="race-zerg"
+data-tooltip="#player-info-741833">
+Tefel
+</a>
+
+<div id="player-info-741833" style="display: none">
+<div class="tooltip-title">Tefel</div>
+<strong>Previous Rank:</strong> 62<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1591</td>
+<td class="align-center">704</td>
+<td class="align-center">368</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="47">
+47th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1146810/1/Rasowy/"
+class="race-terran"
+data-tooltip="#player-info-1146810">
+Rasowy
+</a>
+
+<div id="player-info-1146810" style="display: none">
+<div class="tooltip-title">Rasowy</div>
+<strong>Previous Rank:</strong> 38<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1589</td>
+<td class="align-center">509</td>
+<td class="align-center">407</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 26/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="48">
+48th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2009142/1/VERDI/"
+class="race-protoss"
+data-tooltip="#player-info-2009142">
+VERDI
+</a>
+
+<div id="player-info-2009142" style="display: none">
+<div class="tooltip-title">VERDI</div>
+<strong>Previous Rank:</strong> 174<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1588</td>
+<td class="align-center">563</td>
+<td class="align-center">458</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="49">
+49th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/176319/1/mTwRINE/"
+class="race-protoss"
+data-tooltip="#player-info-176319">
+mTwRINE
+</a>
+
+<div id="player-info-176319" style="display: none">
+<div class="tooltip-title">mTwRINE</div>
+<strong>Previous Rank:</strong> 70<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1587</td>
+<td class="align-center">459</td>
+<td class="align-center">266</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="50">
+50th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/172010/1/ESCGoOdy/"
+class="race-terran"
+data-tooltip="#player-info-172010">
+ESCGoOdy
+</a>
+
+<div id="player-info-172010" style="display: none">
+<div class="tooltip-title">ESCGoOdy</div>
+<strong>Previous Rank:</strong> 10<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1585</td>
+<td class="align-center">671</td>
+<td class="align-center">263</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-51" rowspan="50" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-2">
+</span>
+
+<span class="rank">
+Top<br />
+<strong>100</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="51">
+51st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/424712/1/Moutas/"
+class="race-zerg"
+data-tooltip="#player-info-424712">
+
+Moutas
+</a>
+
+<div id="player-info-424712" style="display: none">
+<div class="tooltip-title">Moutas</div>
+<strong>Previous Rank:</strong> 74<br />
+<strong>Favorite Race:</strong> Zerg
+</div>
+
+</td>
+<td class="align-center">1583</td>
+<td class="align-center">279</td>
+<td class="align-center">203</td>
+<td>Zerg</td>
+</tr>
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="52">
+52nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1489232/1/monchi/"
+class="race-protoss"
+data-tooltip="#player-info-1489232">
+monchi
+</a>
+
+<div id="player-info-1489232" style="display: none">
+<div class="tooltip-title">monchi</div>
+<strong>Previous Rank:</strong> 58<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1581</td>
+<td class="align-center">782</td>
+<td class="align-center">508</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="53">
+53rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/182635/1/Gomas/"
+class="race-terran"
+data-tooltip="#player-info-182635">
+Gomas
+</a>
+
+<div id="player-info-182635" style="display: none">
+<div class="tooltip-title">Gomas</div>
+<strong>Previous Rank:</strong> 104<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1578</td>
+<td class="align-center">599</td>
+<td class="align-center">473</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="54">
+54th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/251061/1/RoXLiveZerg/"
+class="race-zerg"
+data-tooltip="#player-info-251061">
+RoXLiveZerg
+</a>
+
+<div id="player-info-251061" style="display: none">
+<div class="tooltip-title">RoXLiveZerg</div>
+<strong>Previous Rank:</strong> 100<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1578</td>
+<td class="align-center">453</td>
+<td class="align-center">324</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="55">
+55th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1472916/1/SLiDeR/"
+class="race-protoss"
+data-tooltip="#player-info-1472916">
+SLiDeR
+</a>
+
+<div id="player-info-1472916" style="display: none">
+<div class="tooltip-title">SLiDeR</div>
+<strong>Previous Rank:</strong> 91<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1574</td>
+<td class="align-center">463</td>
+<td class="align-center">284</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 2/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="56">
+56th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/349650/1/mouzHasu/"
+class="race-protoss"
+data-tooltip="#player-info-349650">
+mouzHasu
+</a>
+
+<div id="player-info-349650" style="display: none">
+<div class="tooltip-title">mouzHasu</div>
+<strong>Previous Rank:</strong> 58<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1570</td>
+<td class="align-center">209</td>
+<td class="align-center">100</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="57">
+57th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/227339/1/RoXKISPomi/"
+class="race-protoss"
+data-tooltip="#player-info-227339">
+RoXKISPomi
+</a>
+
+<div id="player-info-227339" style="display: none">
+<div class="tooltip-title">RoXKISPomi</div>
+<strong>Previous Rank:</strong> 100<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1569</td>
+<td class="align-center">639</td>
+<td class="align-center">352</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="58">
+58th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/269382/1/merz/"
+class="race-terran"
+data-tooltip="#player-info-269382">
+merz
+</a>
+
+<div id="player-info-269382" style="display: none">
+<div class="tooltip-title">merz</div>
+<strong>Previous Rank:</strong> 24<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1569</td>
+<td class="align-center">751</td>
+<td class="align-center">403</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 12/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="59">
+59th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/211222/1/NevaKee/"
+class="race-terran"
+data-tooltip="#player-info-211222">
+NevaKee
+</a>
+
+<div id="player-info-211222" style="display: none">
+<div class="tooltip-title">NevaKee</div>
+<strong>Previous Rank:</strong> 70<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1568</td>
+<td class="align-center">454</td>
+<td class="align-center">397</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="60">
+60th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/777805/1/TITAN/"
+class="race-protoss"
+data-tooltip="#player-info-777805">
+TITAN
+</a>
+
+<div id="player-info-777805" style="display: none">
+<div class="tooltip-title">TITAN</div>
+<strong>Previous Rank:</strong> 61<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1567</td>
+<td class="align-center">440</td>
+<td class="align-center">293</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="61">
+61st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/590240/1/Siw/"
+class="race-protoss"
+data-tooltip="#player-info-590240">
+Siw
+</a>
+
+<div id="player-info-590240" style="display: none">
+<div class="tooltip-title">Siw</div>
+<strong>Previous Rank:</strong> 37<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1565</td>
+<td class="align-center">1113</td>
+<td class="align-center">750</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="62">
+62nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/204553/1/Ciara/"
+class="race-zerg"
+data-tooltip="#player-info-204553">
+Ciara
+</a>
+
+<div id="player-info-204553" style="display: none">
+<div class="tooltip-title">Ciara</div>
+<strong>Previous Rank:</strong> 81<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1564</td>
+<td class="align-center">410</td>
+<td class="align-center">233</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="63">
+63rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/250465/1/Lau/"
+class="race-terran"
+data-tooltip="#player-info-250465">
+Lau
+</a>
+
+<div id="player-info-250465" style="display: none">
+<div class="tooltip-title">Lau</div>
+<strong>Previous Rank:</strong> 104<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1563</td>
+<td class="align-center">515</td>
+<td class="align-center">354</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 14/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="64">
+64th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/315813/1/dBlinG/"
+class="race-protoss"
+data-tooltip="#player-info-315813">
+dBlinG
+</a>
+
+<div id="player-info-315813" style="display: none">
+<div class="tooltip-title">dBlinG</div>
+<strong>Previous Rank:</strong> 65<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1562</td>
+<td class="align-center">841</td>
+<td class="align-center">619</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="65">
+65th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/278507/1/aTnDelphi/"
+class="race-zerg"
+data-tooltip="#player-info-278507">
+aTnDelphi
+</a>
+
+<div id="player-info-278507" style="display: none">
+<div class="tooltip-title">aTnDelphi</div>
+<strong>Previous Rank:</strong> 145<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1562</td>
+<td class="align-center">340</td>
+<td class="align-center">226</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 24/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="66">
+66th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1035493/1/PraeRikytan/"
+class="race-terran"
+data-tooltip="#player-info-1035493">
+PraeRikytan
+</a>
+
+<div id="player-info-1035493" style="display: none">
+<div class="tooltip-title">PraeRikytan</div>
+<strong>Previous Rank:</strong> 56<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1558</td>
+<td class="align-center">133</td>
+<td class="align-center">88</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="67">
+67th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/326029/1/LiquidTLO/"
+class="race-terran"
+data-tooltip="#player-info-326029">
+LiquidTLO
+</a>
+
+<div id="player-info-326029" style="display: none">
+<div class="tooltip-title">LiquidTLO</div>
+<strong>Previous Rank:</strong> 48<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1557</td>
+<td class="align-center">626</td>
+<td class="align-center">285</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="68">
+68th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/326112/1/RAZERservyoa/"
+class="race-terran"
+data-tooltip="#player-info-326112">
+RAZERservyoa
+</a>
+
+<div id="player-info-326112" style="display: none">
+<div class="tooltip-title">RAZERservyoa</div>
+<strong>Previous Rank:</strong> 77<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1553</td>
+<td class="align-center">978</td>
+<td class="align-center">733</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 5/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="69">
+69th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2181825/1/eSaharaVerdi/"
+class="race-protoss"
+data-tooltip="#player-info-2181825">
+eSaharaVerdi
+</a>
+
+<div id="player-info-2181825" style="display: none">
+<div class="tooltip-title">eSaharaVerdi</div>
+<strong>Previous Rank:</strong> 123<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1551</td>
+<td class="align-center">288</td>
+<td class="align-center">178</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 5/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="70">
+70th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/232792/1/roof/"
+class="race-zerg"
+data-tooltip="#player-info-232792">
+roof
+</a>
+
+<div id="player-info-232792" style="display: none">
+<div class="tooltip-title">roof</div>
+<strong>Previous Rank:</strong> 67<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1550</td>
+<td class="align-center">138</td>
+<td class="align-center">87</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 22/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="71">
+71st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/178445/1/Snake/"
+class="race-zerg"
+data-tooltip="#player-info-178445">
+Snake
+</a>
+
+<div id="player-info-178445" style="display: none">
+<div class="tooltip-title">Snake</div>
+<strong>Previous Rank:</strong> 73<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1549</td>
+<td class="align-center">561</td>
+<td class="align-center">462</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="72">
+72nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/259321/1/sLOsho/"
+class="race-zerg"
+data-tooltip="#player-info-259321">
+sLOsho
+</a>
+
+<div id="player-info-259321" style="display: none">
+<div class="tooltip-title">sLOsho</div>
+<strong>Previous Rank:</strong> 52<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1549</td>
+<td class="align-center">598</td>
+<td class="align-center">305</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="73">
+73rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/250458/1/VortiX/"
+class="race-zerg"
+data-tooltip="#player-info-250458">
+VortiX
+</a>
+
+<div id="player-info-250458" style="display: none">
+<div class="tooltip-title">VortiX</div>
+<strong>Previous Rank:</strong> 68<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1546</td>
+<td class="align-center">463</td>
+<td class="align-center">254</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="74">
+74th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1843114/1/VirusElfi/"
+class="race-protoss"
+data-tooltip="#player-info-1843114">
+VirusElfi
+</a>
+
+<div id="player-info-1843114" style="display: none">
+<div class="tooltip-title">VirusElfi</div>
+<strong>Previous Rank:</strong> 69<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1544</td>
+<td class="align-center">845</td>
+<td class="align-center">391</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="75">
+75th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1858111/1/MiTStarEagle/"
+class="race-terran"
+data-tooltip="#player-info-1858111">
+MiTStarEagle
+</a>
+
+<div id="player-info-1858111" style="display: none">
+<div class="tooltip-title">MiTStarEagle</div>
+<strong>Previous Rank:</strong> 38<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1544</td>
+<td class="align-center">1229</td>
+<td class="align-center">855</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 29/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="76">
+76th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/191770/1/AureS/"
+class="race-terran"
+data-tooltip="#player-info-191770">
+AureS
+</a>
+
+<div id="player-info-191770" style="display: none">
+<div class="tooltip-title">AureS</div>
+<strong>Previous Rank:</strong> 70<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1544</td>
+<td class="align-center">324</td>
+<td class="align-center">200</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="77">
+77th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1948339/1/MǂDieStar/"
+class="race-terran"
+data-tooltip="#player-info-1948339">
+MǂDieStar
+</a>
+
+<div id="player-info-1948339" style="display: none">
+<div class="tooltip-title">MǂDieStar</div>
+<strong>Previous Rank:</strong> 138<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1544</td>
+<td class="align-center">462</td>
+<td class="align-center">268</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="78">
+78th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/665800/1/TSRǂslrpaktd/"
+class="race-terran"
+data-tooltip="#player-info-665800">
+TSRǂslrpaktd
+</a>
+
+<div id="player-info-665800" style="display: none">
+<div class="tooltip-title">TSRǂslrpaktd</div>
+<strong>Previous Rank:</strong> 89<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1542</td>
+<td class="align-center">211</td>
+<td class="align-center">150</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="79">
+79th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1831792/1/escape/"
+class="race-zerg"
+data-tooltip="#player-info-1831792">
+escape
+</a>
+
+<div id="player-info-1831792" style="display: none">
+<div class="tooltip-title">escape</div>
+<strong>Previous Rank:</strong> 93<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1542</td>
+<td class="align-center">404</td>
+<td class="align-center">352</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 26/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="80">
+80th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/571981/1/ParanOid/"
+class="race-zerg"
+data-tooltip="#player-info-571981">
+ParanOid
+</a>
+
+<div id="player-info-571981" style="display: none">
+<div class="tooltip-title">ParanOid</div>
+<strong>Previous Rank:</strong> 50<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1537</td>
+<td class="align-center">461</td>
+<td class="align-center">349</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 28/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="81">
+81st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1139573/1/NaViBabyK/"
+class="race-protoss"
+data-tooltip="#player-info-1139573">
+NaViBabyK
+</a>
+
+<div id="player-info-1139573" style="display: none">
+<div class="tooltip-title">NaViBabyK</div>
+<strong>Previous Rank:</strong> 113<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1536</td>
+<td class="align-center">793</td>
+<td class="align-center">671</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 23/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="82">
+82nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1049780/1/Stork/"
+class="race-protoss"
+data-tooltip="#player-info-1049780">
+Stork
+</a>
+
+<div id="player-info-1049780" style="display: none">
+<div class="tooltip-title">Stork</div>
+<strong>Previous Rank:</strong> 105<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1535</td>
+<td class="align-center">166</td>
+<td class="align-center">137</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 11/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="83">
+83rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1845004/1/Masterok/"
+class="race-protoss"
+data-tooltip="#player-info-1845004">
+Masterok
+</a>
+
+<div id="player-info-1845004" style="display: none">
+<div class="tooltip-title">Masterok</div>
+<strong>Previous Rank:</strong> 119<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1533</td>
+<td class="align-center">384</td>
+<td class="align-center">309</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="84">
+84th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/868804/1/DBS/"
+class="race-terran"
+data-tooltip="#player-info-868804">
+DBS
+</a>
+
+<div id="player-info-868804" style="display: none">
+<div class="tooltip-title">DBS</div>
+<strong>Previous Rank:</strong> 75<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1533</td>
+<td class="align-center">938</td>
+<td class="align-center">760</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="85">
+85th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/884897/1/GLSnute/"
+class="race-zerg"
+data-tooltip="#player-info-884897">
+GLSnute
+</a>
+
+<div id="player-info-884897" style="display: none">
+<div class="tooltip-title">GLSnute</div>
+<strong>Previous Rank:</strong> 66<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1528</td>
+<td class="align-center">516</td>
+<td class="align-center">398</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="86">
+86th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/986997/1/joe/"
+class="race-protoss"
+data-tooltip="#player-info-986997">
+joe
+</a>
+
+<div id="player-info-986997" style="display: none">
+<div class="tooltip-title">joe</div>
+<strong>Previous Rank:</strong> 117<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1527</td>
+<td class="align-center">293</td>
+<td class="align-center">163</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="87">
+87th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1366916/1/NrSClavie/"
+class="race-protoss"
+data-tooltip="#player-info-1366916">
+NrSClavie
+</a>
+
+<div id="player-info-1366916" style="display: none">
+<div class="tooltip-title">NrSClavie</div>
+<strong>Previous Rank:</strong> 92<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1525</td>
+<td class="align-center">1558</td>
+<td class="align-center">1293</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="88">
+88th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/184554/1/VirusLaukyo/"
+class="race-terran"
+data-tooltip="#player-info-184554">
+VirusLaukyo
+</a>
+
+<div id="player-info-184554" style="display: none">
+<div class="tooltip-title">VirusLaukyo</div>
+<strong>Previous Rank:</strong> 114<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1524</td>
+<td class="align-center">823</td>
+<td class="align-center">684</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 4/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="89">
+89th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/226366/1/DeViL/"
+class="race-zerg"
+data-tooltip="#player-info-226366">
+DeViL
+</a>
+
+<div id="player-info-226366" style="display: none">
+<div class="tooltip-title">DeViL</div>
+<strong>Previous Rank:</strong> 141<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1522</td>
+<td class="align-center">322</td>
+<td class="align-center">257</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="90">
+90th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/187292/1/VirusSatiini/"
+class="race-terran"
+data-tooltip="#player-info-187292">
+VirusSatiini
+</a>
+
+<div id="player-info-187292" style="display: none">
+<div class="tooltip-title">VirusSatiini</div>
+<strong>Previous Rank:</strong> 9<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1522</td>
+<td class="align-center">766</td>
+<td class="align-center">334</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 27/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="91">
+91st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/235509/1/inNirvana/"
+class="race-protoss"
+data-tooltip="#player-info-235509">
+inNirvana
+</a>
+
+<div id="player-info-235509" style="display: none">
+<div class="tooltip-title">inNirvana</div>
+<strong>Previous Rank:</strong> 125<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1519</td>
+<td class="align-center">190</td>
+<td class="align-center">151</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 12/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="92">
+92nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1953660/1/RAZERxEi/"
+class="race-protoss"
+data-tooltip="#player-info-1953660">
+RAZERxEi
+</a>
+
+<div id="player-info-1953660" style="display: none">
+<div class="tooltip-title">RAZERxEi</div>
+<strong>Previous Rank:</strong> 80<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1519</td>
+<td class="align-center">217</td>
+<td class="align-center">159</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 20/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="93">
+93rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1713758/1/OoRomson/"
+class="race-protoss"
+data-tooltip="#player-info-1713758">
+OoRomson
+</a>
+
+<div id="player-info-1713758" style="display: none">
+<div class="tooltip-title">OoRomson</div>
+<strong>Previous Rank:</strong> 114<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1517</td>
+<td class="align-center">416</td>
+<td class="align-center">346</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="94">
+94th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/216220/1/AiSeiplo/"
+class="race-protoss"
+data-tooltip="#player-info-216220">
+AiSeiplo
+</a>
+
+<div id="player-info-216220" style="display: none">
+<div class="tooltip-title">AiSeiplo</div>
+<strong>Previous Rank:</strong> 119<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1516</td>
+<td class="align-center">916</td>
+<td class="align-center">604</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="95">
+95th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/903148/1/BLASTǂsYz/"
+class="race-zerg"
+data-tooltip="#player-info-903148">
+BLASTǂsYz
+</a>
+
+<div id="player-info-903148" style="display: none">
+<div class="tooltip-title">BLASTǂsYz</div>
+<strong>Previous Rank:</strong> 112<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1516</td>
+<td class="align-center">722</td>
+<td class="align-center">581</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="96">
+96th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/503864/1/TMClDerBoZZ/"
+class="race-terran"
+data-tooltip="#player-info-503864">
+TMClDerBoZZ
+</a>
+
+<div id="player-info-503864" style="display: none">
+<div class="tooltip-title">TMClDerBoZZ</div>
+<strong>Previous Rank:</strong> 119<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1515</td>
+<td class="align-center">423</td>
+<td class="align-center">374</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="97">
+97th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2048063/1/VirusBly/"
+class="race-zerg"
+data-tooltip="#player-info-2048063">
+VirusBly
+</a>
+
+<div id="player-info-2048063" style="display: none">
+<div class="tooltip-title">VirusBly</div>
+<strong>Previous Rank:</strong> 136<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1513</td>
+<td class="align-center">766</td>
+<td class="align-center">454</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 7/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="98">
+98th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/487611/1/pmLǂRomson/"
+class="race-protoss"
+data-tooltip="#player-info-487611">
+pmLǂRomson
+</a>
+
+<div id="player-info-487611" style="display: none">
+<div class="tooltip-title">pmLǂRomson</div>
+<strong>Previous Rank:</strong> 142<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1512</td>
+<td class="align-center">326</td>
+<td class="align-center">301</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="99">
+99th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/474861/1/gerdi/"
+class="race-zerg"
+data-tooltip="#player-info-474861">
+gerdi
+</a>
+
+<div id="player-info-474861" style="display: none">
+<div class="tooltip-title">gerdi</div>
+<strong>Previous Rank:</strong> 178<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1511</td>
+<td class="align-center">331</td>
+<td class="align-center">309</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 27/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="100">
+100th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1977793/1/eSaharalFuRy/"
+class="race-terran"
+data-tooltip="#player-info-1977793">
+eSaharalFuRy
+</a>
+
+<div id="player-info-1977793" style="display: none">
+<div class="tooltip-title">eSaharalFuRy</div>
+<strong>Previous Rank:</strong> 136<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1510</td>
+<td class="align-center">145</td>
+<td class="align-center">101</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-101" rowspan="100" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-1">
+</span>
+
+<span class="rank">
+Top<br />
+<strong>200</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="Joined Division: 18/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="101">
+101st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1397257/1/SeleCT/"
+class="race-terran"
+data-tooltip="#player-info-1397257">
+
+SeleCT
+</a>
+
+<div id="player-info-1397257" style="display: none">
+<div class="tooltip-title">SeleCT</div>
+<strong>Previous Rank:</strong> 72<br />
+<strong>Favorite Race:</strong> Terran
+</div>
+
+</td>
+<td class="align-center">1508</td>
+<td class="align-center">149</td>
+<td class="align-center">44</td>
+<td>Terran</td>
+</tr>
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="102">
+102nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1986463/1/imbaRoll/"
+class="race-protoss"
+data-tooltip="#player-info-1986463">
+imbaRoll
+</a>
+
+<div id="player-info-1986463" style="display: none">
+<div class="tooltip-title">imbaRoll</div>
+<strong>Previous Rank:</strong> 121<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1507</td>
+<td class="align-center">685</td>
+<td class="align-center">507</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="103">
+103rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/629819/1/Arew/"
+class="race-protoss"
+data-tooltip="#player-info-629819">
+Arew
+</a>
+
+<div id="player-info-629819" style="display: none">
+<div class="tooltip-title">Arew</div>
+<strong>Previous Rank:</strong> 132<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1507</td>
+<td class="align-center">207</td>
+<td class="align-center">176</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="104">
+104th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/582656/1/Mikoel/"
+class="race-terran"
+data-tooltip="#player-info-582656">
+Mikoel
+</a>
+
+<div id="player-info-582656" style="display: none">
+<div class="tooltip-title">Mikoel</div>
+<strong>Previous Rank:</strong> 114<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1506</td>
+<td class="align-center">380</td>
+<td class="align-center">293</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 14/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="105">
+105th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/665598/1/Harpner/"
+class="race-protoss"
+data-tooltip="#player-info-665598">
+Harpner
+</a>
+
+<div id="player-info-665598" style="display: none">
+<div class="tooltip-title">Harpner</div>
+<strong>Previous Rank:</strong> 100<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1505</td>
+<td class="align-center">322</td>
+<td class="align-center">261</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 30/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="106">
+106th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1771454/1/VirusBBQ/"
+class="race-zerg"
+data-tooltip="#player-info-1771454">
+VirusBBQ
+</a>
+
+<div id="player-info-1771454" style="display: none">
+<div class="tooltip-title">VirusBBQ</div>
+<strong>Previous Rank:</strong> 151<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1504</td>
+<td class="align-center">808</td>
+<td class="align-center">668</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 27/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="107">
+107th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1364783/1/FeeLiN/"
+class="race-zerg"
+data-tooltip="#player-info-1364783">
+FeeLiN
+</a>
+
+<div id="player-info-1364783" style="display: none">
+<div class="tooltip-title">FeeLiN</div>
+<strong>Previous Rank:</strong> 74<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1504</td>
+<td class="align-center">463</td>
+<td class="align-center">372</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="108">
+108th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1856235/1/NrSReSpOnSe/"
+class="race-protoss"
+data-tooltip="#player-info-1856235">
+NrSReSpOnSe
+</a>
+
+<div id="player-info-1856235" style="display: none">
+<div class="tooltip-title">NrSReSpOnSe</div>
+<strong>Previous Rank:</strong> 118<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1502</td>
+<td class="align-center">377</td>
+<td class="align-center">306</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 26/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="109">
+109th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1755697/1/VirusNaama/"
+class="race-terran"
+data-tooltip="#player-info-1755697">
+VirusNaama
+</a>
+
+<div id="player-info-1755697" style="display: none">
+<div class="tooltip-title">VirusNaama</div>
+<strong>Previous Rank:</strong> 91<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1500</td>
+<td class="align-center">408</td>
+<td class="align-center">232</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="110">
+110th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/455943/1/VPFargo/"
+class="race-terran"
+data-tooltip="#player-info-455943">
+VPFargo
+</a>
+
+<div id="player-info-455943" style="display: none">
+<div class="tooltip-title">VPFargo</div>
+<strong>Previous Rank:</strong> 151<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1499</td>
+<td class="align-center">818</td>
+<td class="align-center">654</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 5/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="111">
+111th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/889258/1/LoLvsxD/"
+class="race-zerg"
+data-tooltip="#player-info-889258">
+LoLvsxD
+</a>
+
+<div id="player-info-889258" style="display: none">
+<div class="tooltip-title">LoLvsxD</div>
+<strong>Previous Rank:</strong> 116<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1499</td>
+<td class="align-center">384</td>
+<td class="align-center">286</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 27/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="112">
+112th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2045369/1/Shmi/"
+class="race-protoss"
+data-tooltip="#player-info-2045369">
+Shmi
+</a>
+
+<div id="player-info-2045369" style="display: none">
+<div class="tooltip-title">Shmi</div>
+<strong>Previous Rank:</strong> 134<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1496</td>
+<td class="align-center">643</td>
+<td class="align-center">507</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="113">
+113th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1644463/1/fnaticFenix/"
+class="race-terran"
+data-tooltip="#player-info-1644463">
+fnaticFenix
+</a>
+
+<div id="player-info-1644463" style="display: none">
+<div class="tooltip-title">fnaticFenix</div>
+<strong>Previous Rank:</strong> 54<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1496</td>
+<td class="align-center">266</td>
+<td class="align-center">140</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="114">
+114th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/243236/1/nukestrike/"
+class="race-terran"
+data-tooltip="#player-info-243236">
+nukestrike
+</a>
+
+<div id="player-info-243236" style="display: none">
+<div class="tooltip-title">nukestrike</div>
+<strong>Previous Rank:</strong> 151<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1494</td>
+<td class="align-center">410</td>
+<td class="align-center">348</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="115">
+115th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/459130/1/roxkisAbver/"
+class="race-zerg"
+data-tooltip="#player-info-459130">
+roxkisAbver
+</a>
+
+<div id="player-info-459130" style="display: none">
+<div class="tooltip-title">roxkisAbver</div>
+<strong>Previous Rank:</strong> 117<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1492</td>
+<td class="align-center">551</td>
+<td class="align-center">417</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="116">
+116th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2065520/1/NaViSlaViK/"
+class="race-zerg"
+data-tooltip="#player-info-2065520">
+NaViSlaViK
+</a>
+
+<div id="player-info-2065520" style="display: none">
+<div class="tooltip-title">NaViSlaViK</div>
+<strong>Previous Rank:</strong> 84<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1492</td>
+<td class="align-center">746</td>
+<td class="align-center">578</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 29/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="117">
+117th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/243989/1/Jimmeh/"
+class="race-protoss"
+data-tooltip="#player-info-243989">
+Jimmeh
+</a>
+
+<div id="player-info-243989" style="display: none">
+<div class="tooltip-title">Jimmeh</div>
+<strong>Previous Rank:</strong> 135<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1492</td>
+<td class="align-center">372</td>
+<td class="align-center">288</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="118">
+118th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/709618/1/Cheerful/"
+class="race-zerg"
+data-tooltip="#player-info-709618">
+Cheerful
+</a>
+
+<div id="player-info-709618" style="display: none">
+<div class="tooltip-title">Cheerful</div>
+<strong>Previous Rank:</strong> 90<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1491</td>
+<td class="align-center">565</td>
+<td class="align-center">489</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="119">
+119th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/172307/1/Unix/"
+class="race-terran"
+data-tooltip="#player-info-172307">
+Unix
+</a>
+
+<div id="player-info-172307" style="display: none">
+<div class="tooltip-title">Unix</div>
+<strong>Previous Rank:</strong> 128<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1491</td>
+<td class="align-center">389</td>
+<td class="align-center">288</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 12/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="120">
+120th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1738139/1/RobertBrown/"
+class="race-zerg"
+data-tooltip="#player-info-1738139">
+RobertBrown
+</a>
+
+<div id="player-info-1738139" style="display: none">
+<div class="tooltip-title">RobertBrown</div>
+<strong>Previous Rank:</strong> 78<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1491</td>
+<td class="align-center">235</td>
+<td class="align-center">152</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="121">
+121st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/232836/1/DeLoAdEr/"
+class="race-terran"
+data-tooltip="#player-info-232836">
+DeLoAdEr
+</a>
+
+<div id="player-info-232836" style="display: none">
+<div class="tooltip-title">DeLoAdEr</div>
+<strong>Previous Rank:</strong> 105<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1490</td>
+<td class="align-center">164</td>
+<td class="align-center">145</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="122">
+122nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/169063/1/Underdark/"
+class="race-protoss"
+data-tooltip="#player-info-169063">
+Underdark
+</a>
+
+<div id="player-info-169063" style="display: none">
+<div class="tooltip-title">Underdark</div>
+<strong>Previous Rank:</strong> 108<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1490</td>
+<td class="align-center">672</td>
+<td class="align-center">537</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="123">
+123rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/607307/1/jimpo/"
+class="race-terran"
+data-tooltip="#player-info-607307">
+jimpo
+</a>
+
+<div id="player-info-607307" style="display: none">
+<div class="tooltip-title">jimpo</div>
+<strong>Previous Rank:</strong> 91<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1487</td>
+<td class="align-center">608</td>
+<td class="align-center">350</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="124">
+124th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/174450/1/Akki/"
+class="race-zerg"
+data-tooltip="#player-info-174450">
+Akki
+</a>
+
+<div id="player-info-174450" style="display: none">
+<div class="tooltip-title">Akki</div>
+<strong>Previous Rank:</strong> 99<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1487</td>
+<td class="align-center">272</td>
+<td class="align-center">235</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 26/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="125">
+125th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1464898/1/ManOfOneBase/"
+class="race-protoss"
+data-tooltip="#player-info-1464898">
+ManOfOneBase
+</a>
+
+<div id="player-info-1464898" style="display: none">
+<div class="tooltip-title">ManOfOneBase</div>
+<strong>Previous Rank:</strong> 81<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1487</td>
+<td class="align-center">320</td>
+<td class="align-center">250</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="126">
+126th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/209876/1/AiForsen/"
+class="race-zerg"
+data-tooltip="#player-info-209876">
+AiForsen
+</a>
+
+<div id="player-info-209876" style="display: none">
+<div class="tooltip-title">AiForsen</div>
+<strong>Previous Rank:</strong> 166<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1483</td>
+<td class="align-center">807</td>
+<td class="align-center">708</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+--
+</td>
+<td class="align-center" data-raw="127">
+127th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/169323/1/aAaKenZy/"
+class="race-zerg"
+data-tooltip="#player-info-169323">
+aAaKenZy
+</a>
+
+<div id="player-info-169323" style="display: none">
+<div class="tooltip-title">aAaKenZy</div>
+<strong>Previous Rank:</strong> 127<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1479</td>
+<td class="align-center">284</td>
+<td class="align-center">264</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 1/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="128">
+128th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2152382/1/Maker/"
+class="race-terran"
+data-tooltip="#player-info-2152382">
+Maker
+</a>
+
+<div id="player-info-2152382" style="display: none">
+<div class="tooltip-title">Maker</div>
+<strong>Previous Rank:</strong> 81<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1478</td>
+<td class="align-center">107</td>
+<td class="align-center">38</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="129">
+129th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/261662/1/aAaFremAN/"
+class="race-protoss"
+data-tooltip="#player-info-261662">
+aAaFremAN
+</a>
+
+<div id="player-info-261662" style="display: none">
+<div class="tooltip-title">aAaFremAN</div>
+<strong>Previous Rank:</strong> 135<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1478</td>
+<td class="align-center">614</td>
+<td class="align-center">573</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 8/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="130">
+130th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1973521/1/RGlCytoplasm/"
+class="race-zerg"
+data-tooltip="#player-info-1973521">
+RGlCytoplasm
+</a>
+
+<div id="player-info-1973521" style="display: none">
+<div class="tooltip-title">RGlCytoplasm</div>
+<strong>Previous Rank:</strong> 96<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1476</td>
+<td class="align-center">457</td>
+<td class="align-center">349</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="131">
+131st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/382173/1/Empirehobot/"
+class="race-zerg"
+data-tooltip="#player-info-382173">
+Empirehobot
+</a>
+
+<div id="player-info-382173" style="display: none">
+<div class="tooltip-title">Empirehobot</div>
+<strong>Previous Rank:</strong> 129<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1476</td>
+<td class="align-center">407</td>
+<td class="align-center">366</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 19/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="132">
+132nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/572283/1/aByss/"
+class="race-terran"
+data-tooltip="#player-info-572283">
+aByss
+</a>
+
+<div id="player-info-572283" style="display: none">
+<div class="tooltip-title">aByss</div>
+<strong>Previous Rank:</strong> 136<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1474</td>
+<td class="align-center">116</td>
+<td class="align-center">84</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 19/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="133">
+133rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1561612/1/Tourettes/"
+class="race-zerg"
+data-tooltip="#player-info-1561612">
+Tourettes
+</a>
+
+<div id="player-info-1561612" style="display: none">
+<div class="tooltip-title">Tourettes</div>
+<strong>Previous Rank:</strong> 69<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1474</td>
+<td class="align-center">175</td>
+<td class="align-center">89</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="134">
+134th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1451054/1/Turuk/"
+class="race-terran"
+data-tooltip="#player-info-1451054">
+Turuk
+</a>
+
+<div id="player-info-1451054" style="display: none">
+<div class="tooltip-title">Turuk</div>
+<strong>Previous Rank:</strong> 129<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1472</td>
+<td class="align-center">472</td>
+<td class="align-center">360</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 26/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="135">
+135th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/180562/1/NTOGarnath/"
+class="race-terran"
+data-tooltip="#player-info-180562">
+NTOGarnath
+</a>
+
+<div id="player-info-180562" style="display: none">
+<div class="tooltip-title">NTOGarnath</div>
+<strong>Previous Rank:</strong> 41<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1469</td>
+<td class="align-center">356</td>
+<td class="align-center">284</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="136">
+136th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/184710/1/JuNe/"
+class="race-terran"
+data-tooltip="#player-info-184710">
+JuNe
+</a>
+
+<div id="player-info-184710" style="display: none">
+<div class="tooltip-title">JuNe</div>
+<strong>Previous Rank:</strong> 67<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1467</td>
+<td class="align-center">214</td>
+<td class="align-center">182</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 3/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="137">
+137th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/235994/1/Rmdx/"
+class="race-terran"
+data-tooltip="#player-info-235994">
+Rmdx
+</a>
+
+<div id="player-info-235994" style="display: none">
+<div class="tooltip-title">Rmdx</div>
+<strong>Previous Rank:</strong> 166<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1467</td>
+<td class="align-center">819</td>
+<td class="align-center">712</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="138">
+138th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1515772/1/CupCake/"
+class="race-terran"
+data-tooltip="#player-info-1515772">
+CupCake
+</a>
+
+<div id="player-info-1515772" style="display: none">
+<div class="tooltip-title">CupCake</div>
+<strong>Previous Rank:</strong> 77<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1465</td>
+<td class="align-center">363</td>
+<td class="align-center">275</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="139">
+139th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/587541/1/Revolver/"
+class="race-zerg"
+data-tooltip="#player-info-587541">
+Revolver
+</a>
+
+<div id="player-info-587541" style="display: none">
+<div class="tooltip-title">Revolver</div>
+<strong>Previous Rank:</strong> 176<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1465</td>
+<td class="align-center">312</td>
+<td class="align-center">280</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="140">
+140th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1591174/1/MgZPtak/"
+class="race-zerg"
+data-tooltip="#player-info-1591174">
+MgZPtak
+</a>
+
+<div id="player-info-1591174" style="display: none">
+<div class="tooltip-title">MgZPtak</div>
+<strong>Previous Rank:</strong> 111<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1464</td>
+<td class="align-center">612</td>
+<td class="align-center">501</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="141">
+141st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1553198/1/TMClSplendor/"
+class="race-protoss"
+data-tooltip="#player-info-1553198">
+TMClSplendor
+</a>
+
+<div id="player-info-1553198" style="display: none">
+<div class="tooltip-title">TMClSplendor</div>
+<strong>Previous Rank:</strong> 182<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1463</td>
+<td class="align-center">163</td>
+<td class="align-center">147</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="142">
+142nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/785330/1/Tossman/"
+class="race-protoss"
+data-tooltip="#player-info-785330">
+Tossman
+</a>
+
+<div id="player-info-785330" style="display: none">
+<div class="tooltip-title">Tossman</div>
+<strong>Previous Rank:</strong> 187<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1460</td>
+<td class="align-center">586</td>
+<td class="align-center">583</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="143">
+143rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1793486/1/Gennosuke/"
+class="race-terran"
+data-tooltip="#player-info-1793486">
+Gennosuke
+</a>
+
+<div id="player-info-1793486" style="display: none">
+<div class="tooltip-title">Gennosuke</div>
+<strong>Previous Rank:</strong> 155<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1460</td>
+<td class="align-center">370</td>
+<td class="align-center">357</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 3/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="144">
+144th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1919063/1/RAGECupCake/"
+class="race-terran"
+data-tooltip="#player-info-1919063">
+RAGECupCake
+</a>
+
+<div id="player-info-1919063" style="display: none">
+<div class="tooltip-title">RAGECupCake</div>
+<strong>Previous Rank:</strong> 170<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1459</td>
+<td class="align-center">123</td>
+<td class="align-center">111</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 26/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="145">
+145th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/503313/1/Shokan/"
+class="race-protoss"
+data-tooltip="#player-info-503313">
+Shokan
+</a>
+
+<div id="player-info-503313" style="display: none">
+<div class="tooltip-title">Shokan</div>
+<strong>Previous Rank:</strong> 154<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1459</td>
+<td class="align-center">176</td>
+<td class="align-center">153</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="146">
+146th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/837242/1/Jaden/"
+class="race-protoss"
+data-tooltip="#player-info-837242">
+Jaden
+</a>
+
+<div id="player-info-837242" style="display: none">
+<div class="tooltip-title">Jaden</div>
+<strong>Previous Rank:</strong> 133<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1454</td>
+<td class="align-center">484</td>
+<td class="align-center">359</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="147">
+147th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/586280/1/Protosser/"
+class="race-zerg"
+data-tooltip="#player-info-586280">
+Protosser
+</a>
+
+<div id="player-info-586280" style="display: none">
+<div class="tooltip-title">Protosser</div>
+<strong>Previous Rank:</strong> 169<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1450</td>
+<td class="align-center">254</td>
+<td class="align-center">217</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 4/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="148">
+148th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/231768/1/BlackJack/"
+class="race-terran"
+data-tooltip="#player-info-231768">
+BlackJack
+</a>
+
+<div id="player-info-231768" style="display: none">
+<div class="tooltip-title">BlackJack</div>
+<strong>Previous Rank:</strong> 130<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1450</td>
+<td class="align-center">720</td>
+<td class="align-center">614</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="149">
+149th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/522421/1/Bischu/"
+class="race-protoss"
+data-tooltip="#player-info-522421">
+Bischu
+</a>
+
+<div id="player-info-522421" style="display: none">
+<div class="tooltip-title">Bischu</div>
+<strong>Previous Rank:</strong> 135<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1448</td>
+<td class="align-center">654</td>
+<td class="align-center">487</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="150">
+150th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/168928/1/xzidez/"
+class="race-protoss"
+data-tooltip="#player-info-168928">
+xzidez
+</a>
+
+<div id="player-info-168928" style="display: none">
+<div class="tooltip-title">xzidez</div>
+<strong>Previous Rank:</strong> 155<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1448</td>
+<td class="align-center">970</td>
+<td class="align-center">903</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 9/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="151">
+151st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/323806/1/Chi/"
+class="race-protoss"
+data-tooltip="#player-info-323806">
+Chi
+</a>
+
+<div id="player-info-323806" style="display: none">
+<div class="tooltip-title">Chi</div>
+<strong>Previous Rank:</strong> 175<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1446</td>
+<td class="align-center">151</td>
+<td class="align-center">138</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 23/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="152">
+152nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1380901/1/Smung/"
+class="race-zerg"
+data-tooltip="#player-info-1380901">
+Smung
+</a>
+
+<div id="player-info-1380901" style="display: none">
+<div class="tooltip-title">Smung</div>
+<strong>Previous Rank:</strong> 162<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1445</td>
+<td class="align-center">627</td>
+<td class="align-center">599</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="153">
+153rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/180370/1/CNǃMoMaN/"
+class="race-zerg"
+data-tooltip="#player-info-180370">
+CNǃMoMaN
+</a>
+
+<div id="player-info-180370" style="display: none">
+<div class="tooltip-title">CNǃMoMaN</div>
+<strong>Previous Rank:</strong> 132<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1443</td>
+<td class="align-center">255</td>
+<td class="align-center">208</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 14/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="154">
+154th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1101348/1/gLtorecito/"
+class="race-zerg"
+data-tooltip="#player-info-1101348">
+gLtorecito
+</a>
+
+<div id="player-info-1101348" style="display: none">
+<div class="tooltip-title">gLtorecito</div>
+<strong>Previous Rank:</strong> 162<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1440</td>
+<td class="align-center">391</td>
+<td class="align-center">354</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="155">
+155th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/487021/1/Magulina/"
+class="race-zerg"
+data-tooltip="#player-info-487021">
+Magulina
+</a>
+
+<div id="player-info-487021" style="display: none">
+<div class="tooltip-title">Magulina</div>
+<strong>Previous Rank:</strong> 146<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1438</td>
+<td class="align-center">391</td>
+<td class="align-center">378</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="156">
+156th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1590989/1/Nelfi/"
+class="race-protoss"
+data-tooltip="#player-info-1590989">
+Nelfi
+</a>
+
+<div id="player-info-1590989" style="display: none">
+<div class="tooltip-title">Nelfi</div>
+<strong>Previous Rank:</strong> 162<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1436</td>
+<td class="align-center">416</td>
+<td class="align-center">384</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="157">
+157th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/907358/1/InHeartBeat/"
+class="race-protoss"
+data-tooltip="#player-info-907358">
+InHeartBeat
+</a>
+
+<div id="player-info-907358" style="display: none">
+<div class="tooltip-title">InHeartBeat</div>
+<strong>Previous Rank:</strong> 154<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1435</td>
+<td class="align-center">859</td>
+<td class="align-center">791</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="158">
+158th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/297721/1/Kare/"
+class="race-terran"
+data-tooltip="#player-info-297721">
+Kare
+</a>
+
+<div id="player-info-297721" style="display: none">
+<div class="tooltip-title">Kare</div>
+<strong>Previous Rank:</strong> 149<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1435</td>
+<td class="align-center">355</td>
+<td class="align-center">232</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="159">
+159th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/252416/1/Tripal/"
+class="race-protoss"
+data-tooltip="#player-info-252416">
+Tripal
+</a>
+
+<div id="player-info-252416" style="display: none">
+<div class="tooltip-title">Tripal</div>
+<strong>Previous Rank:</strong> 150<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1434</td>
+<td class="align-center">517</td>
+<td class="align-center">500</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 26/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="160">
+160th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2016817/1/NrSRaNgeD/"
+class="race-protoss"
+data-tooltip="#player-info-2016817">
+NrSRaNgeD
+</a>
+
+<div id="player-info-2016817" style="display: none">
+<div class="tooltip-title">NrSRaNgeD</div>
+<strong>Previous Rank:</strong> 110<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1434</td>
+<td class="align-center">607</td>
+<td class="align-center">432</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="161">
+161st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/870668/1/MenaceBash/"
+class="race-zerg"
+data-tooltip="#player-info-870668">
+MenaceBash
+</a>
+
+<div id="player-info-870668" style="display: none">
+<div class="tooltip-title">MenaceBash</div>
+<strong>Previous Rank:</strong> 164<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1434</td>
+<td class="align-center">517</td>
+<td class="align-center">484</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="162">
+162nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1705430/1/NCMYdachNiGG/"
+class="race-terran"
+data-tooltip="#player-info-1705430">
+NCMYdachNiGG
+</a>
+
+<div id="player-info-1705430" style="display: none">
+<div class="tooltip-title">NCMYdachNiGG</div>
+<strong>Previous Rank:</strong> 176<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1431</td>
+<td class="align-center">375</td>
+<td class="align-center">360</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="163">
+163rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1732247/1/ƎDǃFatalimer/"
+class="race-protoss"
+data-tooltip="#player-info-1732247">
+ƎDǃFatalimer
+</a>
+
+<div id="player-info-1732247" style="display: none">
+<div class="tooltip-title">ƎDǃFatalimer</div>
+<strong>Previous Rank:</strong> 168<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1430</td>
+<td class="align-center">520</td>
+<td class="align-center">491</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="164">
+164th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/228772/1/AiHonor/"
+class="race-protoss"
+data-tooltip="#player-info-228772">
+AiHonor
+</a>
+
+<div id="player-info-228772" style="display: none">
+<div class="tooltip-title">AiHonor</div>
+<strong>Previous Rank:</strong> 110<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1428</td>
+<td class="align-center">552</td>
+<td class="align-center">466</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="165">
+165th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/938952/1/OoVladoicA/"
+class="race-terran"
+data-tooltip="#player-info-938952">
+OoVladoicA
+</a>
+
+<div id="player-info-938952" style="display: none">
+<div class="tooltip-title">OoVladoicA</div>
+<strong>Previous Rank:</strong> 175<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1427</td>
+<td class="align-center">446</td>
+<td class="align-center">412</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="166">
+166th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/257264/1/OminouS/"
+class="race-protoss"
+data-tooltip="#player-info-257264">
+OminouS
+</a>
+
+<div id="player-info-257264" style="display: none">
+<div class="tooltip-title">OminouS</div>
+<strong>Previous Rank:</strong> 186<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1426</td>
+<td class="align-center">322</td>
+<td class="align-center">298</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="167">
+167th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1830342/1/MǂYoGo/"
+class="race-zerg"
+data-tooltip="#player-info-1830342">
+MǂYoGo
+</a>
+
+<div id="player-info-1830342" style="display: none">
+<div class="tooltip-title">MǂYoGo</div>
+<strong>Previous Rank:</strong> 172<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1415</td>
+<td class="align-center">794</td>
+<td class="align-center">772</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="168">
+168th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1248914/1/Affect/"
+class="race-protoss"
+data-tooltip="#player-info-1248914">
+Affect
+</a>
+
+<div id="player-info-1248914" style="display: none">
+<div class="tooltip-title">Affect</div>
+<strong>Previous Rank:</strong> 145<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1415</td>
+<td class="align-center">636</td>
+<td class="align-center">588</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="169">
+169th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/177595/1/ThisGameSux/"
+class="race-protoss"
+data-tooltip="#player-info-177595">
+ThisGameSux
+</a>
+
+<div id="player-info-177595" style="display: none">
+<div class="tooltip-title">ThisGameSux</div>
+<strong>Previous Rank:</strong> 165<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1415</td>
+<td class="align-center">487</td>
+<td class="align-center">467</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 4/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="170">
+170th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2006699/1/amity/"
+class="race-zerg"
+data-tooltip="#player-info-2006699">
+amity
+</a>
+
+<div id="player-info-2006699" style="display: none">
+<div class="tooltip-title">amity</div>
+<strong>Previous Rank:</strong> 97<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1414</td>
+<td class="align-center">229</td>
+<td class="align-center">190</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="171">
+171st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/222461/1/RAZERiNSo/"
+class="race-protoss"
+data-tooltip="#player-info-222461">
+RAZERiNSo
+</a>
+
+<div id="player-info-222461" style="display: none">
+<div class="tooltip-title">RAZERiNSo</div>
+<strong>Previous Rank:</strong> 170<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1413</td>
+<td class="align-center">636</td>
+<td class="align-center">503</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="172">
+172nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/233687/1/inuh/"
+class="race-terran"
+data-tooltip="#player-info-233687">
+inuh
+</a>
+
+<div id="player-info-233687" style="display: none">
+<div class="tooltip-title">inuh</div>
+<strong>Previous Rank:</strong> 152<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1413</td>
+<td class="align-center">225</td>
+<td class="align-center">178</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="173">
+173rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1511820/1/ALF/"
+class="race-zerg"
+data-tooltip="#player-info-1511820">
+ALF
+</a>
+
+<div id="player-info-1511820" style="display: none">
+<div class="tooltip-title">ALF</div>
+<strong>Previous Rank:</strong> 59<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1410</td>
+<td class="align-center">272</td>
+<td class="align-center">212</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 26/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="174">
+174th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/239442/1/Gruang/"
+class="race-terran"
+data-tooltip="#player-info-239442">
+Gruang
+</a>
+
+<div id="player-info-239442" style="display: none">
+<div class="tooltip-title">Gruang</div>
+<strong>Previous Rank:</strong> 169<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1409</td>
+<td class="align-center">259</td>
+<td class="align-center">218</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 4/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="175">
+175th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1045707/1/jEssfOx/"
+class="race-zerg"
+data-tooltip="#player-info-1045707">
+jEssfOx
+</a>
+
+<div id="player-info-1045707" style="display: none">
+<div class="tooltip-title">jEssfOx</div>
+<strong>Previous Rank:</strong> 63<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1407</td>
+<td class="align-center">192</td>
+<td class="align-center">80</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="176">
+176th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/293913/1/BEVRzrBlader/"
+class="race-terran"
+data-tooltip="#player-info-293913">
+BEVRzrBlader
+</a>
+
+<div id="player-info-293913" style="display: none">
+<div class="tooltip-title">BEVRzrBlader</div>
+<strong>Previous Rank:</strong> 196<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1406</td>
+<td class="align-center">473</td>
+<td class="align-center">472</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="177">
+177th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/785213/1/TheFreShOne/"
+class="race-protoss"
+data-tooltip="#player-info-785213">
+TheFreShOne
+</a>
+
+<div id="player-info-785213" style="display: none">
+<div class="tooltip-title">TheFreShOne</div>
+<strong>Previous Rank:</strong> 146<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1405</td>
+<td class="align-center">457</td>
+<td class="align-center">441</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="178">
+178th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/244553/1/GLSeriously/"
+class="race-terran"
+data-tooltip="#player-info-244553">
+GLSeriously
+</a>
+
+<div id="player-info-244553" style="display: none">
+<div class="tooltip-title">GLSeriously</div>
+<strong>Previous Rank:</strong> 193<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1399</td>
+<td class="align-center">118</td>
+<td class="align-center">111</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="179">
+179th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/191399/1/WretchesKing/"
+class="race-zerg"
+data-tooltip="#player-info-191399">
+WretchesKing
+</a>
+
+<div id="player-info-191399" style="display: none">
+<div class="tooltip-title">WretchesKing</div>
+<strong>Previous Rank:</strong> 191<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1399</td>
+<td class="align-center">189</td>
+<td class="align-center">175</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="180">
+180th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/2009883/1/TPxSaturn/"
+class="race-zerg"
+data-tooltip="#player-info-2009883">
+TPxSaturn
+</a>
+
+<div id="player-info-2009883" style="display: none">
+<div class="tooltip-title">TPxSaturn</div>
+<strong>Previous Rank:</strong> 178<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1396</td>
+<td class="align-center">497</td>
+<td class="align-center">491</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 5/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="181">
+181st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1304568/1/DeadMaker/"
+class="race-zerg"
+data-tooltip="#player-info-1304568">
+DeadMaker
+</a>
+
+<div id="player-info-1304568" style="display: none">
+<div class="tooltip-title">DeadMaker</div>
+<strong>Previous Rank:</strong> 162<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1395</td>
+<td class="align-center">180</td>
+<td class="align-center">85</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 15/4/2011">
+
+--
+</td>
+<td class="align-center" data-raw="182">
+182nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1057032/1/Kellogz/"
+class="race-zerg"
+data-tooltip="#player-info-1057032">
+Kellogz
+</a>
+
+<div id="player-info-1057032" style="display: none">
+<div class="tooltip-title">Kellogz</div>
+<strong>Previous Rank:</strong> 182<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1379</td>
+<td class="align-center">218</td>
+<td class="align-center">203</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="183">
+183rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1754755/1/uniqueKalin/"
+class="race-protoss"
+data-tooltip="#player-info-1754755">
+uniqueKalin
+</a>
+
+<div id="player-info-1754755" style="display: none">
+<div class="tooltip-title">uniqueKalin</div>
+<strong>Previous Rank:</strong> 55<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1378</td>
+<td class="align-center">792</td>
+<td class="align-center">555</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+--
+</td>
+<td class="align-center" data-raw="184">
+184th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/250161/1/StarSLayeR/"
+class="race-terran"
+data-tooltip="#player-info-250161">
+StarSLayeR
+</a>
+
+<div id="player-info-250161" style="display: none">
+<div class="tooltip-title">StarSLayeR</div>
+<strong>Previous Rank:</strong> 184<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1377</td>
+<td class="align-center">155</td>
+<td class="align-center">145</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="185">
+185th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/212941/1/KnowMe/"
+class="race-protoss"
+data-tooltip="#player-info-212941">
+KnowMe
+</a>
+
+<div id="player-info-212941" style="display: none">
+<div class="tooltip-title">KnowMe</div>
+<strong>Previous Rank:</strong> 181<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1376</td>
+<td class="align-center">296</td>
+<td class="align-center">284</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="186">
+186th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/304154/1/LDLClOrigine/"
+class="race-terran"
+data-tooltip="#player-info-304154">
+LDLClOrigine
+</a>
+
+<div id="player-info-304154" style="display: none">
+<div class="tooltip-title">LDLClOrigine</div>
+<strong>Previous Rank:</strong> 180<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1368</td>
+<td class="align-center">194</td>
+<td class="align-center">180</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="187">
+187th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1078907/1/eswarsRU/"
+class="race-zerg"
+data-tooltip="#player-info-1078907">
+eswarsRU
+</a>
+
+<div id="player-info-1078907" style="display: none">
+<div class="tooltip-title">eswarsRU</div>
+<strong>Previous Rank:</strong> 173<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1367</td>
+<td class="align-center">341</td>
+<td class="align-center">325</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="188">
+188th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/181897/1/mTwNarutO/"
+class="race-terran"
+data-tooltip="#player-info-181897">
+mTwNarutO
+</a>
+
+<div id="player-info-181897" style="display: none">
+<div class="tooltip-title">mTwNarutO</div>
+<strong>Previous Rank:</strong> 169<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1356</td>
+<td class="align-center">227</td>
+<td class="align-center">208</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="189">
+189th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/707014/1/VirusSonG/"
+class="race-terran"
+data-tooltip="#player-info-707014">
+VirusSonG
+</a>
+
+<div id="player-info-707014" style="display: none">
+<div class="tooltip-title">VirusSonG</div>
+<strong>Previous Rank:</strong> 174<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1355</td>
+<td class="align-center">402</td>
+<td class="align-center">387</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 30/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="190">
+190th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/682477/1/cHoBo/"
+class="race-protoss"
+data-tooltip="#player-info-682477">
+cHoBo
+</a>
+
+<div id="player-info-682477" style="display: none">
+<div class="tooltip-title">cHoBo</div>
+<strong>Previous Rank:</strong> 189<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1353</td>
+<td class="align-center">159</td>
+<td class="align-center">133</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="191">
+191st
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/859225/1/xOni/"
+class="race-zerg"
+data-tooltip="#player-info-859225">
+xOni
+</a>
+
+<div id="player-info-859225" style="display: none">
+<div class="tooltip-title">xOni</div>
+<strong>Previous Rank:</strong> 181<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1347</td>
+<td class="align-center">388</td>
+<td class="align-center">368</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="192">
+192nd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/206959/1/Drafter/"
+class="race-terran"
+data-tooltip="#player-info-206959">
+Drafter
+</a>
+
+<div id="player-info-206959" style="display: none">
+<div class="tooltip-title">Drafter</div>
+<strong>Previous Rank:</strong> 193<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1343</td>
+<td class="align-center">164</td>
+<td class="align-center">165</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="193">
+193rd
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/175054/1/jackhightech/"
+class="race-protoss"
+data-tooltip="#player-info-175054">
+jackhightech
+</a>
+
+<div id="player-info-175054" style="display: none">
+<div class="tooltip-title">jackhightech</div>
+<strong>Previous Rank:</strong> 146<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1343</td>
+<td class="align-center">475</td>
+<td class="align-center">472</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="194">
+194th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1946794/1/Amandil/"
+class="race-zerg"
+data-tooltip="#player-info-1946794">
+Amandil
+</a>
+
+<div id="player-info-1946794" style="display: none">
+<div class="tooltip-title">Amandil</div>
+<strong>Previous Rank:</strong> 176<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1326</td>
+<td class="align-center">594</td>
+<td class="align-center">589</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="195">
+195th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/264556/1/ReYoN/"
+class="race-zerg"
+data-tooltip="#player-info-264556">
+ReYoN
+</a>
+
+<div id="player-info-264556" style="display: none">
+<div class="tooltip-title">ReYoN</div>
+<strong>Previous Rank:</strong> 175<br />
+
+<strong>Favorite Race:</strong> Zerg
+</div>
+</td>
+<td class="align-center">1309</td>
+<td class="align-center">251</td>
+<td class="align-center">168</td>
+<td>Zerg</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="196">
+196th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/240531/1/NaRa/"
+class="race-terran"
+data-tooltip="#player-info-240531">
+NaRa
+</a>
+
+<div id="player-info-240531" style="display: none">
+<div class="tooltip-title">NaRa</div>
+<strong>Previous Rank:</strong> 197<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1293</td>
+<td class="align-center">398</td>
+<td class="align-center">395</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+--
+</td>
+<td class="align-center" data-raw="197">
+197th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/189693/1/YaA/"
+class="race-terran"
+data-tooltip="#player-info-189693">
+YaA
+</a>
+
+<div id="player-info-189693" style="display: none">
+<div class="tooltip-title">YaA</div>
+<strong>Previous Rank:</strong> 197<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1289</td>
+<td class="align-center">264</td>
+<td class="align-center">273</td>
+<td>Terran</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 14/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="198">
+198th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1265733/1/TMCIKróLu/"
+class="race-protoss"
+data-tooltip="#player-info-1265733">
+TMCIKróLu
+</a>
+
+<div id="player-info-1265733" style="display: none">
+<div class="tooltip-title">TMCIKróLu</div>
+<strong>Previous Rank:</strong> 199<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1241</td>
+<td class="align-center">650</td>
+<td class="align-center">600</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="199">
+199th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/1309780/1/imakki/"
+class="race-protoss"
+data-tooltip="#player-info-1309780">
+imakki
+</a>
+
+<div id="player-info-1309780" style="display: none">
+<div class="tooltip-title">imakki</div>
+<strong>Previous Rank:</strong> 117<br />
+
+<strong>Favorite Race:</strong> Protoss
+</div>
+</td>
+<td class="align-center">1206</td>
+<td class="align-center">1547</td>
+<td class="align-center">1246</td>
+<td>Protoss</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="Joined Division: 13/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="200">
+200th
+</td>
+
+<td>
+
+<a href="/sc2/en/profile/256485/1/aTnClouD/"
+class="race-terran"
+data-tooltip="#player-info-256485">
+aTnClouD
+</a>
+
+<div id="player-info-256485" style="display: none">
+<div class="tooltip-title">aTnClouD</div>
+<strong>Previous Rank:</strong> 39<br />
+
+<strong>Favorite Race:</strong> Terran
+</div>
+</td>
+<td class="align-center">1192</td>
+<td class="align-center">409</td>
+<td class="align-center">157</td>
+<td>Terran</td>

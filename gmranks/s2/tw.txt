@@ -1,0 +1,6435 @@
+
+<a href="/sc2/zh/profile/763189/2/wulongStorM/"
+class="race-protoss"
+data-tooltip="#player-info-763189">
+wulongStorM
+</a>
+
+<div id="player-info-763189" style="display: none">
+
+<div class="tooltip-title">wulongStorM</div>
+<strong>前次排名：</strong> 1<br />
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1745</td>
+
+<td class="align-center">140</td>
+<td class="align-center">13</td>
+<td>神族</td>
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/15/2011">
+
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="2">
+2nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/56751/2/HuiStorM/"
+class="race-protoss"
+data-tooltip="#player-info-56751">
+HuiStorM
+</a>
+
+<div id="player-info-56751" style="display: none">
+<div class="tooltip-title">HuiStorM</div>
+<strong>前次排名：</strong> 4<br />
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+
+<td class="align-center">1721</td>
+<td class="align-center">339</td>
+<td class="align-center">146</td>
+<td>神族</td>
+</tr>
+
+
+<tr class="row1">
+
+<td class="align-center" data-tooltip="加入小組於： 6/21/2011">
+
+--
+</td>
+<td class="align-center" data-raw="3">
+3rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/694345/2/ETStorM/"
+class="race-terran"
+data-tooltip="#player-info-694345">
+ETStorM
+</a>
+
+<div id="player-info-694345" style="display: none">
+<div class="tooltip-title">ETStorM</div>
+<strong>前次排名：</strong> 3<br />
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+
+<td class="align-center">1697</td>
+<td class="align-center">130</td>
+<td class="align-center">44</td>
+<td>人類</td>
+</tr>
+
+
+<tr class="row2">
+
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="4">
+4th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/191809/2/Kaysta/"
+class="race-terran"
+data-tooltip="#player-info-191809">
+
+Kaysta
+</a>
+
+<div id="player-info-191809" style="display: none">
+<div class="tooltip-title">Kaysta</div>
+<strong>前次排名：</strong> 0<br />
+<strong>最愛的種族：</strong> 人類
+</div>
+
+</td>
+<td class="align-center">1692</td>
+<td class="align-center">144</td>
+<td class="align-center">11</td>
+<td>人類</td>
+</tr>
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="5">
+5th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/140409/2/janyrWYD/"
+class="race-zerg"
+data-tooltip="#player-info-140409">
+janyrWYD
+</a>
+
+<div id="player-info-140409" style="display: none">
+<div class="tooltip-title">janyrWYD</div>
+<strong>前次排名：</strong> 14<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1569</td>
+<td class="align-center">229</td>
+<td class="align-center">173</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="6">
+6th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/217017/2/AlphaStorM/"
+class="race-zerg"
+data-tooltip="#player-info-217017">
+AlphaStorM
+</a>
+
+<div id="player-info-217017" style="display: none">
+<div class="tooltip-title">AlphaStorM</div>
+<strong>前次排名：</strong> 4<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1541</td>
+<td class="align-center">283</td>
+<td class="align-center">211</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="7">
+7th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/188537/2/NwSeRa/"
+class="race-zerg"
+data-tooltip="#player-info-188537">
+NwSeRa
+</a>
+
+<div id="player-info-188537" style="display: none">
+<div class="tooltip-title">NwSeRa</div>
+<strong>前次排名：</strong> 6<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1539</td>
+<td class="align-center">142</td>
+<td class="align-center">106</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="8">
+8th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/92065/2/jasbb/"
+class="race-protoss"
+data-tooltip="#player-info-92065">
+jasbb
+</a>
+
+<div id="player-info-92065" style="display: none">
+<div class="tooltip-title">jasbb</div>
+<strong>前次排名：</strong> 35<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1532</td>
+<td class="align-center">768</td>
+<td class="align-center">739</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+--
+</td>
+<td class="align-center" data-raw="9">
+9th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/615734/2/iori/"
+class="race-protoss"
+data-tooltip="#player-info-615734">
+iori
+</a>
+
+<div id="player-info-615734" style="display: none">
+<div class="tooltip-title">iori</div>
+<strong>前次排名：</strong> 9<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1531</td>
+<td class="align-center">496</td>
+<td class="align-center">390</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="10">
+10th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/313747/2/葬儀物/"
+class="race-zerg"
+data-tooltip="#player-info-313747">
+葬儀物
+</a>
+
+<div id="player-info-313747" style="display: none">
+<div class="tooltip-title">葬儀物</div>
+<strong>前次排名：</strong> 14<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1526</td>
+<td class="align-center">219</td>
+<td class="align-center">170</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="11">
+11th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/758074/2/TYJetsManner/"
+class="race-protoss"
+data-tooltip="#player-info-758074">
+TYJetsManner
+</a>
+
+<div id="player-info-758074" style="display: none">
+<div class="tooltip-title">TYJetsManner</div>
+<strong>前次排名：</strong> 19<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1520</td>
+<td class="align-center">97</td>
+<td class="align-center">45</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="12">
+12th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/718724/2/kunlinStorm/"
+class="race-zerg"
+data-tooltip="#player-info-718724">
+kunlinStorm
+</a>
+
+<div id="player-info-718724" style="display: none">
+<div class="tooltip-title">kunlinStorm</div>
+<strong>前次排名：</strong> 18<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1514</td>
+<td class="align-center">350</td>
+<td class="align-center">290</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="13">
+13th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/83273/2/ntddtStorM/"
+class="race-zerg"
+data-tooltip="#player-info-83273">
+ntddtStorM
+</a>
+
+<div id="player-info-83273" style="display: none">
+<div class="tooltip-title">ntddtStorM</div>
+<strong>前次排名：</strong> 27<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1513</td>
+<td class="align-center">423</td>
+<td class="align-center">354</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="14">
+14th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/166434/2/CoZyRush/"
+class="race-terran"
+data-tooltip="#player-info-166434">
+CoZyRush
+</a>
+
+<div id="player-info-166434" style="display: none">
+<div class="tooltip-title">CoZyRush</div>
+<strong>前次排名：</strong> 17<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1513</td>
+<td class="align-center">197</td>
+<td class="align-center">153</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="15">
+15th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/394813/2/NTU/"
+class="race-random"
+data-tooltip="#player-info-394813">
+NTU
+</a>
+
+<div id="player-info-394813" style="display: none">
+<div class="tooltip-title">NTU</div>
+<strong>前次排名：</strong> 9<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1510</td>
+<td class="align-center">397</td>
+<td class="align-center">303</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="16">
+16th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/290292/2/wildfox/"
+class="race-terran"
+data-tooltip="#player-info-290292">
+wildfox
+</a>
+
+<div id="player-info-290292" style="display: none">
+<div class="tooltip-title">wildfox</div>
+<strong>前次排名：</strong> 15<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1506</td>
+<td class="align-center">196</td>
+<td class="align-center">144</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-17" rowspan="34" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-3">
+</span>
+
+<span class="rank">
+領先排名<br />
+<strong>50</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="加入小組於： 7/4/2011">
+
+--
+</td>
+<td class="align-center" data-raw="17">
+17th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/182322/2/NwEiji/"
+class="race-zerg"
+data-tooltip="#player-info-182322">
+NwEiji
+</a>
+
+<div id="player-info-182322" style="display: none">
+<div class="tooltip-title">NwEiji</div>
+<strong>前次排名：</strong> 17<br />
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+
+<td class="align-center">1503</td>
+<td class="align-center">130</td>
+<td class="align-center">88</td>
+<td>蟲族</td>
+</tr>
+
+
+<tr class="row2">
+
+<td class="align-center" data-tooltip="加入小組於： 5/30/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="18">
+18th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/98544/2/onlyts/"
+class="race-protoss"
+data-tooltip="#player-info-98544">
+
+onlyts
+</a>
+
+<div id="player-info-98544" style="display: none">
+<div class="tooltip-title">onlyts</div>
+<strong>前次排名：</strong> 30<br />
+<strong>最愛的種族：</strong> 神族
+</div>
+
+</td>
+<td class="align-center">1485</td>
+<td class="align-center">188</td>
+<td class="align-center">144</td>
+<td>神族</td>
+</tr>
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/15/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="19">
+19th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/195745/2/LiviAStorM/"
+class="race-zerg"
+data-tooltip="#player-info-195745">
+LiviAStorM
+</a>
+
+<div id="player-info-195745" style="display: none">
+<div class="tooltip-title">LiviAStorM</div>
+<strong>前次排名：</strong> 13<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1485</td>
+<td class="align-center">376</td>
+<td class="align-center">338</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/30/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="20">
+20th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/412178/2/ZEx/"
+class="race-zerg"
+data-tooltip="#player-info-412178">
+ZEx
+</a>
+
+<div id="player-info-412178" style="display: none">
+<div class="tooltip-title">ZEx</div>
+<strong>前次排名：</strong> 31<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1480</td>
+<td class="align-center">339</td>
+<td class="align-center">250</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="21">
+21st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/427075/2/PowerStorM/"
+class="race-terran"
+data-tooltip="#player-info-427075">
+PowerStorM
+</a>
+
+<div id="player-info-427075" style="display: none">
+<div class="tooltip-title">PowerStorM</div>
+<strong>前次排名：</strong> 24<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1470</td>
+<td class="align-center">105</td>
+<td class="align-center">92</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="22">
+22nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/498339/2/kimStorm/"
+class="race-protoss"
+data-tooltip="#player-info-498339">
+kimStorm
+</a>
+
+<div id="player-info-498339" style="display: none">
+<div class="tooltip-title">kimStorm</div>
+<strong>前次排名：</strong> 17<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1469</td>
+<td class="align-center">103</td>
+<td class="align-center">84</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+--
+</td>
+<td class="align-center" data-raw="23">
+23rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/47023/2/MaSterRush/"
+class="race-protoss"
+data-tooltip="#player-info-47023">
+MaSterRush
+</a>
+
+<div id="player-info-47023" style="display: none">
+<div class="tooltip-title">MaSterRush</div>
+<strong>前次排名：</strong> 23<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1451</td>
+<td class="align-center">413</td>
+<td class="align-center">351</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="24">
+24th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/651467/2/TeaMeScaper/"
+class="race-protoss"
+data-tooltip="#player-info-651467">
+TeaMeScaper
+</a>
+
+<div id="player-info-651467" style="display: none">
+<div class="tooltip-title">TeaMeScaper</div>
+<strong>前次排名：</strong> 25<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1436</td>
+<td class="align-center">221</td>
+<td class="align-center">165</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="25">
+25th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/692963/2/BabyLasT/"
+class="race-protoss"
+data-tooltip="#player-info-692963">
+BabyLasT
+</a>
+
+<div id="player-info-692963" style="display: none">
+<div class="tooltip-title">BabyLasT</div>
+<strong>前次排名：</strong> 16<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1428</td>
+<td class="align-center">391</td>
+<td class="align-center">290</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/30/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="26">
+26th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/391518/2/wiNsStorM/"
+class="race-protoss"
+data-tooltip="#player-info-391518">
+wiNsStorM
+</a>
+
+<div id="player-info-391518" style="display: none">
+<div class="tooltip-title">wiNsStorM</div>
+<strong>前次排名：</strong> 10<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1424</td>
+<td class="align-center">112</td>
+<td class="align-center">83</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="27">
+27th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/308961/2/HellsStorM/"
+class="race-zerg"
+data-tooltip="#player-info-308961">
+HellsStorM
+</a>
+
+<div id="player-info-308961" style="display: none">
+<div class="tooltip-title">HellsStorM</div>
+<strong>前次排名：</strong> 17<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1424</td>
+<td class="align-center">832</td>
+<td class="align-center">728</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/25/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="28">
+28th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/689388/2/nilzoneStorM/"
+class="race-terran"
+data-tooltip="#player-info-689388">
+nilzoneStorM
+</a>
+
+<div id="player-info-689388" style="display: none">
+<div class="tooltip-title">nilzoneStorM</div>
+<strong>前次排名：</strong> 21<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1413</td>
+<td class="align-center">560</td>
+<td class="align-center">513</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="29">
+29th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/74924/2/EstanyolEx/"
+class="race-terran"
+data-tooltip="#player-info-74924">
+EstanyolEx
+</a>
+
+<div id="player-info-74924" style="display: none">
+<div class="tooltip-title">EstanyolEx</div>
+<strong>前次排名：</strong> 44<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1412</td>
+<td class="align-center">437</td>
+<td class="align-center">347</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="30">
+30th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/520064/2/WizardStorM/"
+class="race-protoss"
+data-tooltip="#player-info-520064">
+WizardStorM
+</a>
+
+<div id="player-info-520064" style="display: none">
+<div class="tooltip-title">WizardStorM</div>
+<strong>前次排名：</strong> 32<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1407</td>
+<td class="align-center">118</td>
+<td class="align-center">86</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+--
+</td>
+<td class="align-center" data-raw="31">
+31st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/214780/2/海星/"
+class="race-terran"
+data-tooltip="#player-info-214780">
+海星
+</a>
+
+<div id="player-info-214780" style="display: none">
+<div class="tooltip-title">海星</div>
+<strong>前次排名：</strong> 31<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1398</td>
+<td class="align-center">303</td>
+<td class="align-center">233</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/2/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="32">
+32nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/403600/2/XXclackXX/"
+class="race-protoss"
+data-tooltip="#player-info-403600">
+XXclackXX
+</a>
+
+<div id="player-info-403600" style="display: none">
+<div class="tooltip-title">XXclackXX</div>
+<strong>前次排名：</strong> 36<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1394</td>
+<td class="align-center">202</td>
+<td class="align-center">169</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="33">
+33rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/40612/2/小柔柔/"
+class="race-protoss"
+data-tooltip="#player-info-40612">
+小柔柔
+</a>
+
+<div id="player-info-40612" style="display: none">
+<div class="tooltip-title">小柔柔</div>
+<strong>前次排名：</strong> 28<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1392</td>
+<td class="align-center">459</td>
+<td class="align-center">382</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/30/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="34">
+34th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/69516/2/YouRush/"
+class="race-zerg"
+data-tooltip="#player-info-69516">
+YouRush
+</a>
+
+<div id="player-info-69516" style="display: none">
+<div class="tooltip-title">YouRush</div>
+<strong>前次排名：</strong> 32<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1392</td>
+<td class="align-center">243</td>
+<td class="align-center">178</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/16/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="35">
+35th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/639095/2/风云踏浪/"
+class="race-zerg"
+data-tooltip="#player-info-639095">
+风云踏浪
+</a>
+
+<div id="player-info-639095" style="display: none">
+<div class="tooltip-title">风云踏浪</div>
+<strong>前次排名：</strong> 25<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1388</td>
+<td class="align-center">435</td>
+<td class="align-center">403</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/22/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="36">
+36th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/505174/2/KoscleeCxx/"
+class="race-zerg"
+data-tooltip="#player-info-505174">
+KoscleeCxx
+</a>
+
+<div id="player-info-505174" style="display: none">
+<div class="tooltip-title">KoscleeCxx</div>
+<strong>前次排名：</strong> 40<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1388</td>
+<td class="align-center">165</td>
+<td class="align-center">140</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="37">
+37th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/427953/2/GeniusStorM/"
+class="race-zerg"
+data-tooltip="#player-info-427953">
+GeniusStorM
+</a>
+
+<div id="player-info-427953" style="display: none">
+<div class="tooltip-title">GeniusStorM</div>
+<strong>前次排名：</strong> 42<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1382</td>
+<td class="align-center">120</td>
+<td class="align-center">87</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="38">
+38th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/566773/2/SuperJGL/"
+class="race-random"
+data-tooltip="#player-info-566773">
+SuperJGL
+</a>
+
+<div id="player-info-566773" style="display: none">
+<div class="tooltip-title">SuperJGL</div>
+<strong>前次排名：</strong> 30<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1376</td>
+<td class="align-center">222</td>
+<td class="align-center">186</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="39">
+39th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/39854/2/Banquet/"
+class="race-terran"
+data-tooltip="#player-info-39854">
+Banquet
+</a>
+
+<div id="player-info-39854" style="display: none">
+<div class="tooltip-title">Banquet</div>
+<strong>前次排名：</strong> 42<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1374</td>
+<td class="align-center">165</td>
+<td class="align-center">123</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="40">
+40th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/404925/2/mimi/"
+class="race-protoss"
+data-tooltip="#player-info-404925">
+mimi
+</a>
+
+<div id="player-info-404925" style="display: none">
+<div class="tooltip-title">mimi</div>
+<strong>前次排名：</strong> 42<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1371</td>
+<td class="align-center">247</td>
+<td class="align-center">221</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="41">
+41st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/574695/2/WanStorM/"
+class="race-zerg"
+data-tooltip="#player-info-574695">
+WanStorM
+</a>
+
+<div id="player-info-574695" style="display: none">
+<div class="tooltip-title">WanStorM</div>
+<strong>前次排名：</strong> 65<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1369</td>
+<td class="align-center">308</td>
+<td class="align-center">283</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="42">
+42nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/613781/2/GIN/"
+class="race-terran"
+data-tooltip="#player-info-613781">
+GIN
+</a>
+
+<div id="player-info-613781" style="display: none">
+<div class="tooltip-title">GIN</div>
+<strong>前次排名：</strong> 71<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1369</td>
+<td class="align-center">550</td>
+<td class="align-center">498</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="43">
+43rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/718181/2/DreamRush/"
+class="race-zerg"
+data-tooltip="#player-info-718181">
+DreamRush
+</a>
+
+<div id="player-info-718181" style="display: none">
+<div class="tooltip-title">DreamRush</div>
+<strong>前次排名：</strong> 56<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1367</td>
+<td class="align-center">204</td>
+<td class="align-center">176</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="44">
+44th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/270039/2/ALUStorM/"
+class="race-protoss"
+data-tooltip="#player-info-270039">
+ALUStorM
+</a>
+
+<div id="player-info-270039" style="display: none">
+<div class="tooltip-title">ALUStorM</div>
+<strong>前次排名：</strong> 74<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1359</td>
+<td class="align-center">695</td>
+<td class="align-center">626</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="45">
+45th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/372360/2/ComingStorM/"
+class="race-zerg"
+data-tooltip="#player-info-372360">
+ComingStorM
+</a>
+
+<div id="player-info-372360" style="display: none">
+<div class="tooltip-title">ComingStorM</div>
+<strong>前次排名：</strong> 91<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1358</td>
+<td class="align-center">122</td>
+<td class="align-center">114</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="46">
+46th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/92027/2/ToyysbkStorM/"
+class="race-zerg"
+data-tooltip="#player-info-92027">
+ToyysbkStorM
+</a>
+
+<div id="player-info-92027" style="display: none">
+<div class="tooltip-title">ToyysbkStorM</div>
+<strong>前次排名：</strong> 43<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1357</td>
+<td class="align-center">443</td>
+<td class="align-center">409</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="47">
+47th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/278707/2/SboyLegacy/"
+class="race-terran"
+data-tooltip="#player-info-278707">
+SboyLegacy
+</a>
+
+<div id="player-info-278707" style="display: none">
+<div class="tooltip-title">SboyLegacy</div>
+<strong>前次排名：</strong> 44<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1356</td>
+<td class="align-center">209</td>
+<td class="align-center">196</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="48">
+48th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/34916/2/松島楓本人/"
+class="race-protoss"
+data-tooltip="#player-info-34916">
+松島楓本人
+</a>
+
+<div id="player-info-34916" style="display: none">
+<div class="tooltip-title">松島楓本人</div>
+<strong>前次排名：</strong> 30<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1355</td>
+<td class="align-center">100</td>
+<td class="align-center">92</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/25/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="49">
+49th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/122439/2/WillyTest/"
+class="race-terran"
+data-tooltip="#player-info-122439">
+WillyTest
+</a>
+
+<div id="player-info-122439" style="display: none">
+<div class="tooltip-title">WillyTest</div>
+<strong>前次排名：</strong> 51<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1355</td>
+<td class="align-center">337</td>
+<td class="align-center">286</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="50">
+50th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/325459/2/史公子/"
+class="race-zerg"
+data-tooltip="#player-info-325459">
+史公子
+</a>
+
+<div id="player-info-325459" style="display: none">
+<div class="tooltip-title">史公子</div>
+<strong>前次排名：</strong> 94<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1354</td>
+<td class="align-center">151</td>
+<td class="align-center">73</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-51" rowspan="50" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-2">
+</span>
+
+<span class="rank">
+領先排名<br />
+<strong>100</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="加入小組於： 4/30/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="51">
+51st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/618833/2/BadAttitudEx/"
+class="race-zerg"
+data-tooltip="#player-info-618833">
+
+BadAttitudEx
+</a>
+
+<div id="player-info-618833" style="display: none">
+<div class="tooltip-title">BadAttitudEx</div>
+<strong>前次排名：</strong> 39<br />
+<strong>最愛的種族：</strong> 蟲族
+</div>
+
+</td>
+<td class="align-center">1354</td>
+<td class="align-center">307</td>
+<td class="align-center">266</td>
+<td>蟲族</td>
+</tr>
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/2/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="52">
+52nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/614973/2/捏你小鸡鸡/"
+class="race-zerg"
+data-tooltip="#player-info-614973">
+捏你小鸡鸡
+</a>
+
+<div id="player-info-614973" style="display: none">
+<div class="tooltip-title">捏你小鸡鸡</div>
+<strong>前次排名：</strong> 79<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1342</td>
+<td class="align-center">409</td>
+<td class="align-center">389</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="53">
+53rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/38655/2/YuHsuanWYD/"
+class="race-zerg"
+data-tooltip="#player-info-38655">
+YuHsuanWYD
+</a>
+
+<div id="player-info-38655" style="display: none">
+<div class="tooltip-title">YuHsuanWYD</div>
+<strong>前次排名：</strong> 59<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1340</td>
+<td class="align-center">505</td>
+<td class="align-center">455</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="54">
+54th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/470833/2/阿翰/"
+class="race-protoss"
+data-tooltip="#player-info-470833">
+阿翰
+</a>
+
+<div id="player-info-470833" style="display: none">
+<div class="tooltip-title">阿翰</div>
+<strong>前次排名：</strong> 55<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1338</td>
+<td class="align-center">126</td>
+<td class="align-center">90</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="55">
+55th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/576219/2/MaDYuko/"
+class="race-random"
+data-tooltip="#player-info-576219">
+MaDYuko
+</a>
+
+<div id="player-info-576219" style="display: none">
+<div class="tooltip-title">MaDYuko</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1336</td>
+<td class="align-center">1809</td>
+<td class="align-center">1945</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="56">
+56th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/307716/2/NewCzRush/"
+class="race-terran"
+data-tooltip="#player-info-307716">
+NewCzRush
+</a>
+
+<div id="player-info-307716" style="display: none">
+<div class="tooltip-title">NewCzRush</div>
+<strong>前次排名：</strong> 51<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1332</td>
+<td class="align-center">136</td>
+<td class="align-center">122</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="57">
+57th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/36089/2/ELTRush/"
+class="race-zerg"
+data-tooltip="#player-info-36089">
+ELTRush
+</a>
+
+<div id="player-info-36089" style="display: none">
+<div class="tooltip-title">ELTRush</div>
+<strong>前次排名：</strong> 29<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1332</td>
+<td class="align-center">814</td>
+<td class="align-center">648</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="58">
+58th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/160959/2/LungWYD/"
+class="race-zerg"
+data-tooltip="#player-info-160959">
+LungWYD
+</a>
+
+<div id="player-info-160959" style="display: none">
+<div class="tooltip-title">LungWYD</div>
+<strong>前次排名：</strong> 17<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1325</td>
+<td class="align-center">409</td>
+<td class="align-center">379</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="59">
+59th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/222286/2/oAEx/"
+class="race-terran"
+data-tooltip="#player-info-222286">
+oAEx
+</a>
+
+<div id="player-info-222286" style="display: none">
+<div class="tooltip-title">oAEx</div>
+<strong>前次排名：</strong> 61<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1324</td>
+<td class="align-center">139</td>
+<td class="align-center">117</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="60">
+60th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/155550/2/MaDanmido/"
+class="race-random"
+data-tooltip="#player-info-155550">
+MaDanmido
+</a>
+
+<div id="player-info-155550" style="display: none">
+<div class="tooltip-title">MaDanmido</div>
+<strong>前次排名：</strong> 61<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1323</td>
+<td class="align-center">113</td>
+<td class="align-center">84</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="61">
+61st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/48634/2/TankStorM/"
+class="race-terran"
+data-tooltip="#player-info-48634">
+TankStorM
+</a>
+
+<div id="player-info-48634" style="display: none">
+<div class="tooltip-title">TankStorM</div>
+<strong>前次排名：</strong> 39<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1323</td>
+<td class="align-center">214</td>
+<td class="align-center">194</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="62">
+62nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/181733/2/SpiralLegacy/"
+class="race-zerg"
+data-tooltip="#player-info-181733">
+SpiralLegacy
+</a>
+
+<div id="player-info-181733" style="display: none">
+<div class="tooltip-title">SpiralLegacy</div>
+<strong>前次排名：</strong> 19<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1322</td>
+<td class="align-center">178</td>
+<td class="align-center">150</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="63">
+63rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/37478/2/SunStorM/"
+class="race-protoss"
+data-tooltip="#player-info-37478">
+SunStorM
+</a>
+
+<div id="player-info-37478" style="display: none">
+<div class="tooltip-title">SunStorM</div>
+<strong>前次排名：</strong> 50<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1322</td>
+<td class="align-center">129</td>
+<td class="align-center">105</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/15/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="64">
+64th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/463792/2/NwRhapsody/"
+class="race-protoss"
+data-tooltip="#player-info-463792">
+NwRhapsody
+</a>
+
+<div id="player-info-463792" style="display: none">
+<div class="tooltip-title">NwRhapsody</div>
+<strong>前次排名：</strong> 81<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1320</td>
+<td class="align-center">114</td>
+<td class="align-center">91</td>
+
+<td>神族</td>
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="65">
+
+65th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/344758/2/只求一敗/"
+class="race-protoss"
+data-tooltip="#player-info-344758">
+只求一敗
+</a>
+
+<div id="player-info-344758" style="display: none">
+<div class="tooltip-title">只求一敗</div>
+
+<strong>前次排名：</strong> 102<br />
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1319</td>
+<td class="align-center">745</td>
+
+<td class="align-center">720</td>
+<td>神族</td>
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+
+<td class="align-center" data-raw="66">
+66th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/46706/2/LeGeNdRush/"
+class="race-zerg"
+data-tooltip="#player-info-46706">
+LeGeNdRush
+</a>
+
+<div id="player-info-46706" style="display: none">
+
+<div class="tooltip-title">LeGeNdRush</div>
+<strong>前次排名：</strong> 75<br />
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1316</td>
+
+<td class="align-center">139</td>
+<td class="align-center">121</td>
+<td>蟲族</td>
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/3/2011">
+
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="67">
+67th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/76143/2/Iamback/"
+class="race-protoss"
+data-tooltip="#player-info-76143">
+Iamback
+</a>
+
+<div id="player-info-76143" style="display: none">
+<div class="tooltip-title">Iamback</div>
+<strong>前次排名：</strong> 92<br />
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+
+<td class="align-center">1308</td>
+<td class="align-center">100</td>
+<td class="align-center">61</td>
+<td>神族</td>
+</tr>
+
+
+<tr class="row2">
+
+<td class="align-center" data-tooltip="加入小組於： 6/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="68">
+68th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/56735/2/impermanent/"
+class="race-protoss"
+data-tooltip="#player-info-56735">
+
+impermanent
+</a>
+
+<div id="player-info-56735" style="display: none">
+<div class="tooltip-title">impermanent</div>
+<strong>前次排名：</strong> 53<br />
+<strong>最愛的種族：</strong> 神族
+</div>
+
+</td>
+<td class="align-center">1305</td>
+<td class="align-center">144</td>
+<td class="align-center">120</td>
+<td>神族</td>
+</tr>
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="69">
+69th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/717480/2/JOLStorm/"
+class="race-zerg"
+data-tooltip="#player-info-717480">
+JOLStorm
+</a>
+
+<div id="player-info-717480" style="display: none">
+<div class="tooltip-title">JOLStorm</div>
+<strong>前次排名：</strong> 58<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1302</td>
+<td class="align-center">429</td>
+<td class="align-center">375</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/21/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="70">
+70th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/84106/2/biobluesheep/"
+class="race-zerg"
+data-tooltip="#player-info-84106">
+biobluesheep
+</a>
+
+<div id="player-info-84106" style="display: none">
+<div class="tooltip-title">biobluesheep</div>
+<strong>前次排名：</strong> 68<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1297</td>
+<td class="align-center">453</td>
+<td class="align-center">424</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="71">
+71st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/329121/2/童話/"
+class="race-zerg"
+data-tooltip="#player-info-329121">
+童話
+</a>
+
+<div id="player-info-329121" style="display: none">
+<div class="tooltip-title">童話</div>
+<strong>前次排名：</strong> 70<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1290</td>
+<td class="align-center">182</td>
+<td class="align-center">159</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="72">
+72nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/40450/2/Zerel/"
+class="race-terran"
+data-tooltip="#player-info-40450">
+Zerel
+</a>
+
+<div id="player-info-40450" style="display: none">
+<div class="tooltip-title">Zerel</div>
+<strong>前次排名：</strong> 75<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1286</td>
+<td class="align-center">273</td>
+<td class="align-center">238</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="73">
+73rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/63923/2/NwMoonlight/"
+class="race-zerg"
+data-tooltip="#player-info-63923">
+NwMoonlight
+</a>
+
+<div id="player-info-63923" style="display: none">
+<div class="tooltip-title">NwMoonlight</div>
+<strong>前次排名：</strong> 34<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1283</td>
+<td class="align-center">236</td>
+<td class="align-center">215</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="74">
+74th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/439694/2/ChuckBassEx/"
+class="race-terran"
+data-tooltip="#player-info-439694">
+ChuckBassEx
+</a>
+
+<div id="player-info-439694" style="display: none">
+<div class="tooltip-title">ChuckBassEx</div>
+<strong>前次排名：</strong> 76<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1282</td>
+<td class="align-center">305</td>
+<td class="align-center">286</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="75">
+75th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/205656/2/Pan/"
+class="race-random"
+data-tooltip="#player-info-205656">
+Pan
+</a>
+
+<div id="player-info-205656" style="display: none">
+<div class="tooltip-title">Pan</div>
+<strong>前次排名：</strong> 131<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1280</td>
+<td class="align-center">122</td>
+<td class="align-center">103</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="76">
+76th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/614288/2/OBmaster/"
+class="race-zerg"
+data-tooltip="#player-info-614288">
+OBmaster
+</a>
+
+<div id="player-info-614288" style="display: none">
+<div class="tooltip-title">OBmaster</div>
+<strong>前次排名：</strong> 75<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1280</td>
+<td class="align-center">97</td>
+<td class="align-center">63</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="77">
+77th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/47706/2/HiStiLoVeJiU/"
+class="race-protoss"
+data-tooltip="#player-info-47706">
+HiStiLoVeJiU
+</a>
+
+<div id="player-info-47706" style="display: none">
+<div class="tooltip-title">HiStiLoVeJiU</div>
+<strong>前次排名：</strong> 80<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1275</td>
+<td class="align-center">140</td>
+<td class="align-center">108</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/15/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="78">
+78th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/371237/2/Snack/"
+class="race-protoss"
+data-tooltip="#player-info-371237">
+Snack
+</a>
+
+<div id="player-info-371237" style="display: none">
+<div class="tooltip-title">Snack</div>
+<strong>前次排名：</strong> 83<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1272</td>
+<td class="align-center">250</td>
+<td class="align-center">230</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/23/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="79">
+79th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/383423/2/SoCrAzY/"
+class="race-random"
+data-tooltip="#player-info-383423">
+SoCrAzY
+</a>
+
+<div id="player-info-383423" style="display: none">
+<div class="tooltip-title">SoCrAzY</div>
+<strong>前次排名：</strong> 124<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1266</td>
+<td class="align-center">94</td>
+<td class="align-center">87</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/16/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="80">
+80th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/133003/2/liway/"
+class="race-terran"
+data-tooltip="#player-info-133003">
+liway
+</a>
+
+<div id="player-info-133003" style="display: none">
+<div class="tooltip-title">liway</div>
+<strong>前次排名：</strong> 73<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1264</td>
+<td class="align-center">291</td>
+<td class="align-center">178</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="81">
+81st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/165835/2/CoconutHK/"
+class="race-protoss"
+data-tooltip="#player-info-165835">
+CoconutHK
+</a>
+
+<div id="player-info-165835" style="display: none">
+<div class="tooltip-title">CoconutHK</div>
+<strong>前次排名：</strong> 47<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1263</td>
+<td class="align-center">256</td>
+<td class="align-center">224</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="82">
+82nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/56957/2/MiShuaStorM/"
+class="race-protoss"
+data-tooltip="#player-info-56957">
+MiShuaStorM
+</a>
+
+<div id="player-info-56957" style="display: none">
+<div class="tooltip-title">MiShuaStorM</div>
+<strong>前次排名：</strong> 90<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1262</td>
+<td class="align-center">484</td>
+<td class="align-center">452</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="83">
+83rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/499099/2/misaki/"
+class="race-terran"
+data-tooltip="#player-info-499099">
+misaki
+</a>
+
+<div id="player-info-499099" style="display: none">
+<div class="tooltip-title">misaki</div>
+<strong>前次排名：</strong> 93<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1260</td>
+<td class="align-center">121</td>
+<td class="align-center">111</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="84">
+84th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/37031/2/雲雀恭彌/"
+class="race-random"
+data-tooltip="#player-info-37031">
+雲雀恭彌
+</a>
+
+<div id="player-info-37031" style="display: none">
+<div class="tooltip-title">雲雀恭彌</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1260</td>
+<td class="align-center">72</td>
+<td class="align-center">19</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/2/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="85">
+85th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/606178/2/SoloDrMighty/"
+class="race-terran"
+data-tooltip="#player-info-606178">
+SoloDrMighty
+</a>
+
+<div id="player-info-606178" style="display: none">
+<div class="tooltip-title">SoloDrMighty</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1259</td>
+<td class="align-center">80</td>
+<td class="align-center">82</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/22/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="86">
+86th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/36053/2/YayoiStorM/"
+class="race-zerg"
+data-tooltip="#player-info-36053">
+YayoiStorM
+</a>
+
+<div id="player-info-36053" style="display: none">
+<div class="tooltip-title">YayoiStorM</div>
+<strong>前次排名：</strong> 91<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1257</td>
+<td class="align-center">146</td>
+<td class="align-center">117</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="87">
+87th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/629380/2/NwVolrth/"
+class="race-zerg"
+data-tooltip="#player-info-629380">
+NwVolrth
+</a>
+
+<div id="player-info-629380" style="display: none">
+<div class="tooltip-title">NwVolrth</div>
+<strong>前次排名：</strong> 90<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1256</td>
+<td class="align-center">241</td>
+<td class="align-center">231</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="88">
+88th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/53617/2/LoVeStorM/"
+class="race-protoss"
+data-tooltip="#player-info-53617">
+LoVeStorM
+</a>
+
+<div id="player-info-53617" style="display: none">
+<div class="tooltip-title">LoVeStorM</div>
+<strong>前次排名：</strong> 72<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1252</td>
+<td class="align-center">107</td>
+<td class="align-center">109</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="89">
+89th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/711327/2/SaSaKiLaMan/"
+class="race-protoss"
+data-tooltip="#player-info-711327">
+SaSaKiLaMan
+</a>
+
+<div id="player-info-711327" style="display: none">
+<div class="tooltip-title">SaSaKiLaMan</div>
+<strong>前次排名：</strong> 106<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1250</td>
+<td class="align-center">346</td>
+<td class="align-center">312</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="90">
+90th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/187120/2/IAmTOPeQ/"
+class="race-protoss"
+data-tooltip="#player-info-187120">
+IAmTOPeQ
+</a>
+
+<div id="player-info-187120" style="display: none">
+<div class="tooltip-title">IAmTOPeQ</div>
+<strong>前次排名：</strong> 124<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1249</td>
+<td class="align-center">185</td>
+<td class="align-center">151</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="91">
+91st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/708374/2/碧玉刀/"
+class="race-protoss"
+data-tooltip="#player-info-708374">
+碧玉刀
+</a>
+
+<div id="player-info-708374" style="display: none">
+<div class="tooltip-title">碧玉刀</div>
+<strong>前次排名：</strong> 96<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1247</td>
+<td class="align-center">77</td>
+<td class="align-center">45</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="92">
+92nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/682530/2/MisterD/"
+class="race-zerg"
+data-tooltip="#player-info-682530">
+MisterD
+</a>
+
+<div id="player-info-682530" style="display: none">
+<div class="tooltip-title">MisterD</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1246</td>
+<td class="align-center">252</td>
+<td class="align-center">214</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="93">
+93rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/174239/2/anjes/"
+class="race-zerg"
+data-tooltip="#player-info-174239">
+anjes
+</a>
+
+<div id="player-info-174239" style="display: none">
+<div class="tooltip-title">anjes</div>
+<strong>前次排名：</strong> 95<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1241</td>
+<td class="align-center">389</td>
+<td class="align-center">356</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="94">
+94th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/696111/2/Kyle/"
+class="race-terran"
+data-tooltip="#player-info-696111">
+Kyle
+</a>
+
+<div id="player-info-696111" style="display: none">
+<div class="tooltip-title">Kyle</div>
+<strong>前次排名：</strong> 68<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1241</td>
+<td class="align-center">505</td>
+<td class="align-center">457</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/21/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="95">
+95th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/137077/2/DCI/"
+class="race-protoss"
+data-tooltip="#player-info-137077">
+DCI
+</a>
+
+<div id="player-info-137077" style="display: none">
+<div class="tooltip-title">DCI</div>
+<strong>前次排名：</strong> 151<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1239</td>
+<td class="align-center">121</td>
+<td class="align-center">97</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/15/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="96">
+96th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/461400/2/NwDrai/"
+class="race-zerg"
+data-tooltip="#player-info-461400">
+NwDrai
+</a>
+
+<div id="player-info-461400" style="display: none">
+<div class="tooltip-title">NwDrai</div>
+<strong>前次排名：</strong> 121<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1239</td>
+<td class="align-center">101</td>
+<td class="align-center">88</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="97">
+97th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/137583/2/HoOtNiKe/"
+class="race-zerg"
+data-tooltip="#player-info-137583">
+HoOtNiKe
+</a>
+
+<div id="player-info-137583" style="display: none">
+<div class="tooltip-title">HoOtNiKe</div>
+<strong>前次排名：</strong> 111<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1237</td>
+<td class="align-center">507</td>
+<td class="align-center">426</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="98">
+98th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/708464/2/Aspros/"
+class="race-protoss"
+data-tooltip="#player-info-708464">
+Aspros
+</a>
+
+<div id="player-info-708464" style="display: none">
+<div class="tooltip-title">Aspros</div>
+<strong>前次排名：</strong> 103<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1236</td>
+<td class="align-center">208</td>
+<td class="align-center">182</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/20/2011">
+
+--
+</td>
+<td class="align-center" data-raw="99">
+99th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/202810/2/NwToT/"
+class="race-protoss"
+data-tooltip="#player-info-202810">
+NwToT
+</a>
+
+<div id="player-info-202810" style="display: none">
+<div class="tooltip-title">NwToT</div>
+<strong>前次排名：</strong> 99<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1235</td>
+<td class="align-center">228</td>
+<td class="align-center">176</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/23/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="100">
+100th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/616154/2/AshLikeSnow/"
+class="race-terran"
+data-tooltip="#player-info-616154">
+AshLikeSnow
+</a>
+
+<div id="player-info-616154" style="display: none">
+<div class="tooltip-title">AshLikeSnow</div>
+<strong>前次排名：</strong> 99<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1234</td>
+<td class="align-center">164</td>
+<td class="align-center">163</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="banner tier-101" rowspan="100" valign="top">
+<div class="relative">
+
+<div class="badge-banner">
+
+<span class="badge badge-grandmaster badge-medium-1">
+</span>
+
+<span class="rank">
+領先排名<br />
+<strong>200</strong>
+</span>
+</div>
+</div>
+</td>
+
+<td class="align-center" data-tooltip="加入小組於： 6/19/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="101">
+101st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/606323/2/拉拉/"
+class="race-random"
+data-tooltip="#player-info-606323">
+
+拉拉
+</a>
+
+<div id="player-info-606323" style="display: none">
+<div class="tooltip-title">拉拉</div>
+<strong>前次排名：</strong> 97<br />
+<strong>最愛的種族：</strong> 隨機
+</div>
+
+</td>
+<td class="align-center">1232</td>
+<td class="align-center">120</td>
+<td class="align-center">100</td>
+<td>隨機</td>
+</tr>
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="102">
+102nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/463277/2/WaLkAsFly/"
+class="race-terran"
+data-tooltip="#player-info-463277">
+WaLkAsFly
+</a>
+
+<div id="player-info-463277" style="display: none">
+<div class="tooltip-title">WaLkAsFly</div>
+<strong>前次排名：</strong> 113<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1231</td>
+<td class="align-center">292</td>
+<td class="align-center">261</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="103">
+103rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/396305/2/EnocheStorM/"
+class="race-zerg"
+data-tooltip="#player-info-396305">
+EnocheStorM
+</a>
+
+<div id="player-info-396305" style="display: none">
+<div class="tooltip-title">EnocheStorM</div>
+<strong>前次排名：</strong> 160<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1228</td>
+<td class="align-center">256</td>
+<td class="align-center">239</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/19/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="104">
+104th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/196034/2/KAIStorM/"
+class="race-terran"
+data-tooltip="#player-info-196034">
+KAIStorM
+</a>
+
+<div id="player-info-196034" style="display: none">
+<div class="tooltip-title">KAIStorM</div>
+<strong>前次排名：</strong> 110<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1227</td>
+<td class="align-center">296</td>
+<td class="align-center">272</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/25/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="105">
+105th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/207605/2/bahfahh/"
+class="race-random"
+data-tooltip="#player-info-207605">
+bahfahh
+</a>
+
+<div id="player-info-207605" style="display: none">
+<div class="tooltip-title">bahfahh</div>
+<strong>前次排名：</strong> 68<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1224</td>
+<td class="align-center">157</td>
+<td class="align-center">142</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/15/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="106">
+106th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/64935/2/scpillss/"
+class="race-zerg"
+data-tooltip="#player-info-64935">
+scpillss
+</a>
+
+<div id="player-info-64935" style="display: none">
+<div class="tooltip-title">scpillss</div>
+<strong>前次排名：</strong> 103<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1216</td>
+<td class="align-center">265</td>
+<td class="align-center">190</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="107">
+107th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/682433/2/YgrassRush/"
+class="race-protoss"
+data-tooltip="#player-info-682433">
+YgrassRush
+</a>
+
+<div id="player-info-682433" style="display: none">
+<div class="tooltip-title">YgrassRush</div>
+<strong>前次排名：</strong> 80<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1214</td>
+<td class="align-center">314</td>
+<td class="align-center">282</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="108">
+108th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/271177/2/星爺/"
+class="race-terran"
+data-tooltip="#player-info-271177">
+星爺
+</a>
+
+<div id="player-info-271177" style="display: none">
+<div class="tooltip-title">星爺</div>
+<strong>前次排名：</strong> 103<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1207</td>
+<td class="align-center">92</td>
+<td class="align-center">32</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="109">
+109th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/74451/2/曾大爺/"
+class="race-terran"
+data-tooltip="#player-info-74451">
+曾大爺
+</a>
+
+<div id="player-info-74451" style="display: none">
+<div class="tooltip-title">曾大爺</div>
+<strong>前次排名：</strong> 76<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1203</td>
+<td class="align-center">512</td>
+<td class="align-center">439</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/16/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="110">
+110th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/118594/2/馬總桶/"
+class="race-terran"
+data-tooltip="#player-info-118594">
+馬總桶
+</a>
+
+<div id="player-info-118594" style="display: none">
+<div class="tooltip-title">馬總桶</div>
+<strong>前次排名：</strong> 99<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1197</td>
+<td class="align-center">238</td>
+<td class="align-center">218</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="111">
+111th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/667785/2/MaDMai/"
+class="race-zerg"
+data-tooltip="#player-info-667785">
+MaDMai
+</a>
+
+<div id="player-info-667785" style="display: none">
+<div class="tooltip-title">MaDMai</div>
+<strong>前次排名：</strong> 121<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1193</td>
+<td class="align-center">490</td>
+<td class="align-center">469</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="112">
+112th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/94727/2/PowerRush/"
+class="race-protoss"
+data-tooltip="#player-info-94727">
+PowerRush
+</a>
+
+<div id="player-info-94727" style="display: none">
+<div class="tooltip-title">PowerRush</div>
+<strong>前次排名：</strong> 128<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1191</td>
+<td class="align-center">158</td>
+<td class="align-center">139</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="113">
+113th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/282916/2/MaDLeiKai/"
+class="race-zerg"
+data-tooltip="#player-info-282916">
+MaDLeiKai
+</a>
+
+<div id="player-info-282916" style="display: none">
+<div class="tooltip-title">MaDLeiKai</div>
+<strong>前次排名：</strong> 122<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1189</td>
+<td class="align-center">191</td>
+<td class="align-center">166</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="114">
+114th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/60230/2/NwYobi/"
+class="race-protoss"
+data-tooltip="#player-info-60230">
+NwYobi
+</a>
+
+<div id="player-info-60230" style="display: none">
+<div class="tooltip-title">NwYobi</div>
+<strong>前次排名：</strong> 74<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1187</td>
+<td class="align-center">239</td>
+<td class="align-center">222</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="115">
+115th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/299587/2/Windson/"
+class="race-protoss"
+data-tooltip="#player-info-299587">
+Windson
+</a>
+
+<div id="player-info-299587" style="display: none">
+<div class="tooltip-title">Windson</div>
+<strong>前次排名：</strong> 128<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1186</td>
+<td class="align-center">324</td>
+<td class="align-center">318</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="116">
+116th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/590161/2/YuiStorM/"
+class="race-protoss"
+data-tooltip="#player-info-590161">
+YuiStorM
+</a>
+
+<div id="player-info-590161" style="display: none">
+<div class="tooltip-title">YuiStorM</div>
+<strong>前次排名：</strong> 119<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1182</td>
+<td class="align-center">471</td>
+<td class="align-center">419</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/30/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="117">
+117th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/430478/2/Juliette/"
+class="race-terran"
+data-tooltip="#player-info-430478">
+Juliette
+</a>
+
+<div id="player-info-430478" style="display: none">
+<div class="tooltip-title">Juliette</div>
+<strong>前次排名：</strong> 103<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1182</td>
+<td class="align-center">337</td>
+<td class="align-center">310</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="118">
+118th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/425384/2/Desperado/"
+class="race-terran"
+data-tooltip="#player-info-425384">
+Desperado
+</a>
+
+<div id="player-info-425384" style="display: none">
+<div class="tooltip-title">Desperado</div>
+<strong>前次排名：</strong> 138<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1181</td>
+<td class="align-center">543</td>
+<td class="align-center">524</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/22/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="119">
+119th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/148929/2/FallenAngel/"
+class="race-protoss"
+data-tooltip="#player-info-148929">
+FallenAngel
+</a>
+
+<div id="player-info-148929" style="display: none">
+<div class="tooltip-title">FallenAngel</div>
+<strong>前次排名：</strong> 130<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1176</td>
+<td class="align-center">404</td>
+<td class="align-center">367</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="120">
+120th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/71499/2/LuckyStorM/"
+class="race-protoss"
+data-tooltip="#player-info-71499">
+LuckyStorM
+</a>
+
+<div id="player-info-71499" style="display: none">
+<div class="tooltip-title">LuckyStorM</div>
+<strong>前次排名：</strong> 112<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1176</td>
+<td class="align-center">289</td>
+<td class="align-center">243</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="121">
+121st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/418804/2/資管九六/"
+class="race-terran"
+data-tooltip="#player-info-418804">
+資管九六
+</a>
+
+<div id="player-info-418804" style="display: none">
+<div class="tooltip-title">資管九六</div>
+<strong>前次排名：</strong> 119<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1173</td>
+<td class="align-center">162</td>
+<td class="align-center">121</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="122">
+122nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/729794/2/MaDgwool/"
+class="race-zerg"
+data-tooltip="#player-info-729794">
+MaDgwool
+</a>
+
+<div id="player-info-729794" style="display: none">
+<div class="tooltip-title">MaDgwool</div>
+<strong>前次排名：</strong> 124<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1169</td>
+<td class="align-center">218</td>
+<td class="align-center">197</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="123">
+123rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/708860/2/Timing/"
+class="race-terran"
+data-tooltip="#player-info-708860">
+Timing
+</a>
+
+<div id="player-info-708860" style="display: none">
+<div class="tooltip-title">Timing</div>
+<strong>前次排名：</strong> 112<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1166</td>
+<td class="align-center">274</td>
+<td class="align-center">233</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="124">
+124th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/667817/2/MoeEx/"
+class="race-protoss"
+data-tooltip="#player-info-667817">
+MoeEx
+</a>
+
+<div id="player-info-667817" style="display: none">
+<div class="tooltip-title">MoeEx</div>
+<strong>前次排名：</strong> 105<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1164</td>
+<td class="align-center">315</td>
+<td class="align-center">291</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="125">
+125th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/313510/2/Amei/"
+class="race-terran"
+data-tooltip="#player-info-313510">
+Amei
+</a>
+
+<div id="player-info-313510" style="display: none">
+<div class="tooltip-title">Amei</div>
+<strong>前次排名：</strong> 157<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1162</td>
+<td class="align-center">1381</td>
+<td class="align-center">1304</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="126">
+126th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/35658/2/ZergBaby/"
+class="race-zerg"
+data-tooltip="#player-info-35658">
+ZergBaby
+</a>
+
+<div id="player-info-35658" style="display: none">
+<div class="tooltip-title">ZergBaby</div>
+<strong>前次排名：</strong> 171<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1157</td>
+<td class="align-center">247</td>
+<td class="align-center">242</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="127">
+127th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/632224/2/九九五/"
+class="race-protoss"
+data-tooltip="#player-info-632224">
+九九五
+</a>
+
+<div id="player-info-632224" style="display: none">
+<div class="tooltip-title">九九五</div>
+<strong>前次排名：</strong> 160<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1153</td>
+<td class="align-center">117</td>
+<td class="align-center">106</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="128">
+128th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/209649/2/FoxTTLegacy/"
+class="race-protoss"
+data-tooltip="#player-info-209649">
+FoxTTLegacy
+</a>
+
+<div id="player-info-209649" style="display: none">
+<div class="tooltip-title">FoxTTLegacy</div>
+<strong>前次排名：</strong> 136<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1150</td>
+<td class="align-center">97</td>
+<td class="align-center">94</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="129">
+129th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/440491/2/Bananabo/"
+class="race-protoss"
+data-tooltip="#player-info-440491">
+Bananabo
+</a>
+
+<div id="player-info-440491" style="display: none">
+<div class="tooltip-title">Bananabo</div>
+<strong>前次排名：</strong> 122<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1147</td>
+<td class="align-center">479</td>
+<td class="align-center">476</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="130">
+130th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/755092/2/mrnrnmrnmrmn/"
+class="race-protoss"
+data-tooltip="#player-info-755092">
+mrnrnmrnmrmn
+</a>
+
+<div id="player-info-755092" style="display: none">
+<div class="tooltip-title">mrnrnmrnmrmn</div>
+<strong>前次排名：</strong> 61<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1140</td>
+<td class="align-center">144</td>
+<td class="align-center">104</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="131">
+131st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/65087/2/萬夫莫敵/"
+class="race-protoss"
+data-tooltip="#player-info-65087">
+萬夫莫敵
+</a>
+
+<div id="player-info-65087" style="display: none">
+<div class="tooltip-title">萬夫莫敵</div>
+<strong>前次排名：</strong> 113<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1134</td>
+<td class="align-center">291</td>
+<td class="align-center">242</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/17/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="132">
+132nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/178691/2/活在襠下/"
+class="race-zerg"
+data-tooltip="#player-info-178691">
+活在襠下
+</a>
+
+<div id="player-info-178691" style="display: none">
+<div class="tooltip-title">活在襠下</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1130</td>
+<td class="align-center">69</td>
+<td class="align-center">60</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="133">
+133rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/606678/2/TeZivoHStorM/"
+class="race-protoss"
+data-tooltip="#player-info-606678">
+TeZivoHStorM
+</a>
+
+<div id="player-info-606678" style="display: none">
+<div class="tooltip-title">TeZivoHStorM</div>
+<strong>前次排名：</strong> 109<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1125</td>
+<td class="align-center">315</td>
+<td class="align-center">278</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/15/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="134">
+134th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/558360/2/GJStorM/"
+class="race-zerg"
+data-tooltip="#player-info-558360">
+GJStorM
+</a>
+
+<div id="player-info-558360" style="display: none">
+<div class="tooltip-title">GJStorM</div>
+<strong>前次排名：</strong> 133<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1120</td>
+<td class="align-center">238</td>
+<td class="align-center">234</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="135">
+135th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/425830/2/Roxaslol/"
+class="race-zerg"
+data-tooltip="#player-info-425830">
+Roxaslol
+</a>
+
+<div id="player-info-425830" style="display: none">
+<div class="tooltip-title">Roxaslol</div>
+<strong>前次排名：</strong> 116<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1119</td>
+<td class="align-center">280</td>
+<td class="align-center">261</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/19/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="136">
+136th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/358605/2/豬頭八月/"
+class="race-zerg"
+data-tooltip="#player-info-358605">
+豬頭八月
+</a>
+
+<div id="player-info-358605" style="display: none">
+<div class="tooltip-title">豬頭八月</div>
+<strong>前次排名：</strong> 123<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1118</td>
+<td class="align-center">167</td>
+<td class="align-center">107</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="137">
+137th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/35011/2/Saedrna/"
+class="race-protoss"
+data-tooltip="#player-info-35011">
+Saedrna
+</a>
+
+<div id="player-info-35011" style="display: none">
+<div class="tooltip-title">Saedrna</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1114</td>
+<td class="align-center">104</td>
+<td class="align-center">110</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="138">
+138th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/68584/2/無雙影/"
+class="race-zerg"
+data-tooltip="#player-info-68584">
+無雙影
+</a>
+
+<div id="player-info-68584" style="display: none">
+<div class="tooltip-title">無雙影</div>
+<strong>前次排名：</strong> 133<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1106</td>
+<td class="align-center">197</td>
+<td class="align-center">196</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="139">
+139th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/186407/2/MaDSharky/"
+class="race-terran"
+data-tooltip="#player-info-186407">
+MaDSharky
+</a>
+
+<div id="player-info-186407" style="display: none">
+<div class="tooltip-title">MaDSharky</div>
+<strong>前次排名：</strong> 124<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1104</td>
+<td class="align-center">122</td>
+<td class="align-center">92</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="140">
+140th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/602181/2/Cylcon/"
+class="race-protoss"
+data-tooltip="#player-info-602181">
+Cylcon
+</a>
+
+<div id="player-info-602181" style="display: none">
+<div class="tooltip-title">Cylcon</div>
+<strong>前次排名：</strong> 131<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1103</td>
+<td class="align-center">197</td>
+<td class="align-center">185</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="141">
+141st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/653313/2/NwFaLLen/"
+class="race-protoss"
+data-tooltip="#player-info-653313">
+NwFaLLen
+</a>
+
+<div id="player-info-653313" style="display: none">
+<div class="tooltip-title">NwFaLLen</div>
+<strong>前次排名：</strong> 118<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1101</td>
+<td class="align-center">663</td>
+<td class="align-center">634</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="142">
+142nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/132719/2/Rwe/"
+class="race-protoss"
+data-tooltip="#player-info-132719">
+Rwe
+</a>
+
+<div id="player-info-132719" style="display: none">
+<div class="tooltip-title">Rwe</div>
+<strong>前次排名：</strong> 150<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1099</td>
+<td class="align-center">235</td>
+<td class="align-center">230</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="143">
+143rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/40883/2/SsSlavE/"
+class="race-random"
+data-tooltip="#player-info-40883">
+SsSlavE
+</a>
+
+<div id="player-info-40883" style="display: none">
+<div class="tooltip-title">SsSlavE</div>
+<strong>前次排名：</strong> 145<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1096</td>
+<td class="align-center">152</td>
+<td class="align-center">149</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="144">
+144th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/261145/2/Express/"
+class="race-protoss"
+data-tooltip="#player-info-261145">
+Express
+</a>
+
+<div id="player-info-261145" style="display: none">
+<div class="tooltip-title">Express</div>
+<strong>前次排名：</strong> 149<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1095</td>
+<td class="align-center">118</td>
+<td class="align-center">98</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="145">
+145th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/269142/2/FaithLegacy/"
+class="race-terran"
+data-tooltip="#player-info-269142">
+FaithLegacy
+</a>
+
+<div id="player-info-269142" style="display: none">
+<div class="tooltip-title">FaithLegacy</div>
+<strong>前次排名：</strong> 142<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1094</td>
+<td class="align-center">118</td>
+<td class="align-center">108</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="146">
+146th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/36034/2/Bluewind/"
+class="race-random"
+data-tooltip="#player-info-36034">
+Bluewind
+</a>
+
+<div id="player-info-36034" style="display: none">
+<div class="tooltip-title">Bluewind</div>
+<strong>前次排名：</strong> 114<br />
+
+<strong>最愛的種族：</strong> 隨機
+</div>
+</td>
+<td class="align-center">1092</td>
+<td class="align-center">273</td>
+<td class="align-center">264</td>
+<td>隨機</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="147">
+147th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/568026/2/HoOtDoG/"
+class="race-zerg"
+data-tooltip="#player-info-568026">
+HoOtDoG
+</a>
+
+<div id="player-info-568026" style="display: none">
+<div class="tooltip-title">HoOtDoG</div>
+<strong>前次排名：</strong> 148<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1086</td>
+<td class="align-center">314</td>
+<td class="align-center">308</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="148">
+148th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/45611/2/DhcMirroR/"
+class="race-protoss"
+data-tooltip="#player-info-45611">
+DhcMirroR
+</a>
+
+<div id="player-info-45611" style="display: none">
+<div class="tooltip-title">DhcMirroR</div>
+<strong>前次排名：</strong> 169<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1081</td>
+<td class="align-center">110</td>
+<td class="align-center">99</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/23/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="149">
+149th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/54195/2/天元突破/"
+class="race-terran"
+data-tooltip="#player-info-54195">
+天元突破
+</a>
+
+<div id="player-info-54195" style="display: none">
+<div class="tooltip-title">天元突破</div>
+<strong>前次排名：</strong> 143<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1077</td>
+<td class="align-center">324</td>
+<td class="align-center">325</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="150">
+150th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/416018/2/zaCRush/"
+class="race-protoss"
+data-tooltip="#player-info-416018">
+zaCRush
+</a>
+
+<div id="player-info-416018" style="display: none">
+<div class="tooltip-title">zaCRush</div>
+<strong>前次排名：</strong> 151<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1074</td>
+<td class="align-center">285</td>
+<td class="align-center">291</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/6/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="151">
+151st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/35648/2/BoaIU/"
+class="race-protoss"
+data-tooltip="#player-info-35648">
+BoaIU
+</a>
+
+<div id="player-info-35648" style="display: none">
+<div class="tooltip-title">BoaIU</div>
+<strong>前次排名：</strong> 149<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1073</td>
+<td class="align-center">142</td>
+<td class="align-center">126</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="152">
+152nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/44594/2/御茶園/"
+class="race-protoss"
+data-tooltip="#player-info-44594">
+御茶園
+</a>
+
+<div id="player-info-44594" style="display: none">
+<div class="tooltip-title">御茶園</div>
+<strong>前次排名：</strong> 166<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1072</td>
+<td class="align-center">181</td>
+<td class="align-center">159</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="153">
+153rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/35061/2/阿凡達/"
+class="race-terran"
+data-tooltip="#player-info-35061">
+阿凡達
+</a>
+
+<div id="player-info-35061" style="display: none">
+<div class="tooltip-title">阿凡達</div>
+<strong>前次排名：</strong> 143<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1066</td>
+<td class="align-center">701</td>
+<td class="align-center">627</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="154">
+154th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/629263/2/MaDGdaa/"
+class="race-zerg"
+data-tooltip="#player-info-629263">
+MaDGdaa
+</a>
+
+<div id="player-info-629263" style="display: none">
+<div class="tooltip-title">MaDGdaa</div>
+<strong>前次排名：</strong> 152<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1065</td>
+<td class="align-center">119</td>
+<td class="align-center">104</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="155">
+155th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/319512/2/SoulBearWYD/"
+class="race-protoss"
+data-tooltip="#player-info-319512">
+SoulBearWYD
+</a>
+
+<div id="player-info-319512" style="display: none">
+<div class="tooltip-title">SoulBearWYD</div>
+<strong>前次排名：</strong> 158<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1065</td>
+<td class="align-center">169</td>
+<td class="align-center">152</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="156">
+156th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/711921/2/FourOne/"
+class="race-zerg"
+data-tooltip="#player-info-711921">
+FourOne
+</a>
+
+<div id="player-info-711921" style="display: none">
+<div class="tooltip-title">FourOne</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1050</td>
+<td class="align-center">287</td>
+<td class="align-center">270</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/27/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="157">
+157th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/713250/2/GreEnTeA/"
+class="race-zerg"
+data-tooltip="#player-info-713250">
+GreEnTeA
+</a>
+
+<div id="player-info-713250" style="display: none">
+<div class="tooltip-title">GreEnTeA</div>
+<strong>前次排名：</strong> 143<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1047</td>
+<td class="align-center">397</td>
+<td class="align-center">364</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/31/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="158">
+158th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/549464/2/ken/"
+class="race-zerg"
+data-tooltip="#player-info-549464">
+ken
+</a>
+
+<div id="player-info-549464" style="display: none">
+<div class="tooltip-title">ken</div>
+<strong>前次排名：</strong> 173<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1046</td>
+<td class="align-center">510</td>
+<td class="align-center">479</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="159">
+159th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/329722/2/NOMAD/"
+class="race-zerg"
+data-tooltip="#player-info-329722">
+NOMAD
+</a>
+
+<div id="player-info-329722" style="display: none">
+<div class="tooltip-title">NOMAD</div>
+<strong>前次排名：</strong> 134<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1043</td>
+<td class="align-center">152</td>
+<td class="align-center">144</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/3/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="160">
+160th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/395398/2/Jay/"
+class="race-terran"
+data-tooltip="#player-info-395398">
+Jay
+</a>
+
+<div id="player-info-395398" style="display: none">
+<div class="tooltip-title">Jay</div>
+<strong>前次排名：</strong> 168<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1040</td>
+<td class="align-center">222</td>
+<td class="align-center">214</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="161">
+161st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/592721/2/HappyCat/"
+class="race-protoss"
+data-tooltip="#player-info-592721">
+HappyCat
+</a>
+
+<div id="player-info-592721" style="display: none">
+<div class="tooltip-title">HappyCat</div>
+<strong>前次排名：</strong> 163<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1036</td>
+<td class="align-center">318</td>
+<td class="align-center">290</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/22/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="162">
+162nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/376977/2/ILEN/"
+class="race-terran"
+data-tooltip="#player-info-376977">
+ILEN
+</a>
+
+<div id="player-info-376977" style="display: none">
+<div class="tooltip-title">ILEN</div>
+<strong>前次排名：</strong> 136<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1035</td>
+<td class="align-center">468</td>
+<td class="align-center">424</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="163">
+163rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/614196/2/小剪刀/"
+class="race-zerg"
+data-tooltip="#player-info-614196">
+小剪刀
+</a>
+
+<div id="player-info-614196" style="display: none">
+<div class="tooltip-title">小剪刀</div>
+<strong>前次排名：</strong> 180<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1032</td>
+<td class="align-center">210</td>
+<td class="align-center">187</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/29/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="164">
+164th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/85308/2/dOoOb/"
+class="race-zerg"
+data-tooltip="#player-info-85308">
+dOoOb
+</a>
+
+<div id="player-info-85308" style="display: none">
+<div class="tooltip-title">dOoOb</div>
+<strong>前次排名：</strong> 152<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1029</td>
+<td class="align-center">282</td>
+<td class="align-center">281</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="165">
+165th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/390324/2/尘封的青春/"
+class="race-zerg"
+data-tooltip="#player-info-390324">
+尘封的青春
+</a>
+
+<div id="player-info-390324" style="display: none">
+<div class="tooltip-title">尘封的青春</div>
+<strong>前次排名：</strong> 139<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1027</td>
+<td class="align-center">194</td>
+<td class="align-center">181</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="166">
+166th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/48391/2/请百度自由能源/"
+class="race-zerg"
+data-tooltip="#player-info-48391">
+请百度自由能源
+</a>
+
+<div id="player-info-48391" style="display: none">
+<div class="tooltip-title">请百度自由能源</div>
+<strong>前次排名：</strong> 169<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">1019</td>
+<td class="align-center">163</td>
+<td class="align-center">160</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="167">
+167th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/536490/2/逐風者海瑟/"
+class="race-terran"
+data-tooltip="#player-info-536490">
+逐風者海瑟
+</a>
+
+<div id="player-info-536490" style="display: none">
+<div class="tooltip-title">逐風者海瑟</div>
+<strong>前次排名：</strong> 168<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1015</td>
+<td class="align-center">462</td>
+<td class="align-center">436</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="168">
+168th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/93004/2/ufohunter/"
+class="race-protoss"
+data-tooltip="#player-info-93004">
+ufohunter
+</a>
+
+<div id="player-info-93004" style="display: none">
+<div class="tooltip-title">ufohunter</div>
+<strong>前次排名：</strong> 170<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">1014</td>
+<td class="align-center">283</td>
+<td class="align-center">273</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/2/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="169">
+169th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/82824/2/RockStorM/"
+class="race-terran"
+data-tooltip="#player-info-82824">
+RockStorM
+</a>
+
+<div id="player-info-82824" style="display: none">
+<div class="tooltip-title">RockStorM</div>
+<strong>前次排名：</strong> 170<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">1006</td>
+<td class="align-center">142</td>
+<td class="align-center">135</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/4/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="170">
+170th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/59330/2/尼諾/"
+class="race-zerg"
+data-tooltip="#player-info-59330">
+尼諾
+</a>
+
+<div id="player-info-59330" style="display: none">
+<div class="tooltip-title">尼諾</div>
+<strong>前次排名：</strong> 135<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">995</td>
+<td class="align-center">235</td>
+<td class="align-center">233</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="171">
+171st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/64942/2/RedBullCat/"
+class="race-protoss"
+data-tooltip="#player-info-64942">
+RedBullCat
+</a>
+
+<div id="player-info-64942" style="display: none">
+<div class="tooltip-title">RedBullCat</div>
+<strong>前次排名：</strong> 99<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">988</td>
+<td class="align-center">138</td>
+<td class="align-center">153</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="172">
+172nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/426375/2/Lai/"
+class="race-protoss"
+data-tooltip="#player-info-426375">
+Lai
+</a>
+
+<div id="player-info-426375" style="display: none">
+<div class="tooltip-title">Lai</div>
+<strong>前次排名：</strong> 173<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">982</td>
+<td class="align-center">246</td>
+<td class="align-center">215</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="173">
+173rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/629825/2/OldDog/"
+class="race-zerg"
+data-tooltip="#player-info-629825">
+OldDog
+</a>
+
+<div id="player-info-629825" style="display: none">
+<div class="tooltip-title">OldDog</div>
+<strong>前次排名：</strong> 158<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">963</td>
+<td class="align-center">332</td>
+<td class="align-center">327</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="174">
+174th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/201586/2/chuckbassEQ/"
+class="race-terran"
+data-tooltip="#player-info-201586">
+chuckbassEQ
+</a>
+
+<div id="player-info-201586" style="display: none">
+<div class="tooltip-title">chuckbassEQ</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">953</td>
+<td class="align-center">283</td>
+<td class="align-center">248</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="175">
+175th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/232364/2/orphancb/"
+class="race-zerg"
+data-tooltip="#player-info-232364">
+orphancb
+</a>
+
+<div id="player-info-232364" style="display: none">
+<div class="tooltip-title">orphancb</div>
+<strong>前次排名：</strong> 134<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">938</td>
+<td class="align-center">527</td>
+<td class="align-center">504</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/2/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="176">
+176th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/190177/2/Joker/"
+class="race-protoss"
+data-tooltip="#player-info-190177">
+Joker
+</a>
+
+<div id="player-info-190177" style="display: none">
+<div class="tooltip-title">Joker</div>
+<strong>前次排名：</strong> 178<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">929</td>
+<td class="align-center">159</td>
+<td class="align-center">157</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="177">
+177th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/603066/2/NifiStorM/"
+class="race-protoss"
+data-tooltip="#player-info-603066">
+NifiStorM
+</a>
+
+<div id="player-info-603066" style="display: none">
+<div class="tooltip-title">NifiStorM</div>
+<strong>前次排名：</strong> 175<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">928</td>
+<td class="align-center">201</td>
+<td class="align-center">206</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/1/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="178">
+178th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/613772/2/BboyAJ/"
+class="race-zerg"
+data-tooltip="#player-info-613772">
+BboyAJ
+</a>
+
+<div id="player-info-613772" style="display: none">
+<div class="tooltip-title">BboyAJ</div>
+<strong>前次排名：</strong> 171<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">925</td>
+<td class="align-center">416</td>
+<td class="align-center">399</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 5/10/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="179">
+179th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/273588/2/大頭超人/"
+class="race-terran"
+data-tooltip="#player-info-273588">
+大頭超人
+</a>
+
+<div id="player-info-273588" style="display: none">
+<div class="tooltip-title">大頭超人</div>
+<strong>前次排名：</strong> 180<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">923</td>
+<td class="align-center">321</td>
+<td class="align-center">303</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 5/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="180">
+180th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/285804/2/zytemplar/"
+class="race-protoss"
+data-tooltip="#player-info-285804">
+zytemplar
+</a>
+
+<div id="player-info-285804" style="display: none">
+<div class="tooltip-title">zytemplar</div>
+<strong>前次排名：</strong> 175<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">922</td>
+<td class="align-center">368</td>
+<td class="align-center">348</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/23/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="181">
+181st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/574337/2/Ghost/"
+class="race-zerg"
+data-tooltip="#player-info-574337">
+Ghost
+</a>
+
+<div id="player-info-574337" style="display: none">
+<div class="tooltip-title">Ghost</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">918</td>
+<td class="align-center">178</td>
+<td class="align-center">175</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="182">
+182nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/711838/2/ThanksRush/"
+class="race-protoss"
+data-tooltip="#player-info-711838">
+ThanksRush
+</a>
+
+<div id="player-info-711838" style="display: none">
+<div class="tooltip-title">ThanksRush</div>
+<strong>前次排名：</strong> 147<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">907</td>
+<td class="align-center">510</td>
+<td class="align-center">492</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 6/24/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="183">
+183rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/331158/2/KarenEx/"
+class="race-protoss"
+data-tooltip="#player-info-331158">
+KarenEx
+</a>
+
+<div id="player-info-331158" style="display: none">
+<div class="tooltip-title">KarenEx</div>
+<strong>前次排名：</strong> 186<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">891</td>
+<td class="align-center">321</td>
+<td class="align-center">310</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="184">
+184th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/226942/2/GargamelEx/"
+class="race-protoss"
+data-tooltip="#player-info-226942">
+GargamelEx
+</a>
+
+<div id="player-info-226942" style="display: none">
+<div class="tooltip-title">GargamelEx</div>
+<strong>前次排名：</strong> 187<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">884</td>
+<td class="align-center">310</td>
+<td class="align-center">318</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/11/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="185">
+185th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/573604/2/无聊/"
+class="race-protoss"
+data-tooltip="#player-info-573604">
+无聊
+</a>
+
+<div id="player-info-573604" style="display: none">
+<div class="tooltip-title">无聊</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">877</td>
+<td class="align-center">73</td>
+<td class="align-center">68</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 4/14/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="186">
+186th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/136200/2/EvilCatStorM/"
+class="race-protoss"
+data-tooltip="#player-info-136200">
+EvilCatStorM
+</a>
+
+<div id="player-info-136200" style="display: none">
+<div class="tooltip-title">EvilCatStorM</div>
+<strong>前次排名：</strong> 177<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">871</td>
+<td class="align-center">704</td>
+<td class="align-center">683</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/16/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="187">
+187th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/73529/2/ZRX/"
+class="race-zerg"
+data-tooltip="#player-info-73529">
+ZRX
+</a>
+
+<div id="player-info-73529" style="display: none">
+<div class="tooltip-title">ZRX</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">869</td>
+<td class="align-center">100</td>
+<td class="align-center">63</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-up.gif" alt="" />
+</td>
+<td class="align-center" data-raw="188">
+188th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/690161/2/shiautzStorM/"
+class="race-zerg"
+data-tooltip="#player-info-690161">
+shiautzStorM
+</a>
+
+<div id="player-info-690161" style="display: none">
+<div class="tooltip-title">shiautzStorM</div>
+<strong>前次排名：</strong> 189<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">850</td>
+<td class="align-center">149</td>
+<td class="align-center">138</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 4/28/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="189">
+189th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/616105/2/CoLdRush/"
+class="race-protoss"
+data-tooltip="#player-info-616105">
+CoLdRush
+</a>
+
+<div id="player-info-616105" style="display: none">
+<div class="tooltip-title">CoLdRush</div>
+<strong>前次排名：</strong> 185<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">838</td>
+<td class="align-center">192</td>
+<td class="align-center">197</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/20/2011">
+
+--
+</td>
+<td class="align-center" data-raw="190">
+190th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/64661/2/Allen/"
+class="race-terran"
+data-tooltip="#player-info-64661">
+Allen
+</a>
+
+<div id="player-info-64661" style="display: none">
+<div class="tooltip-title">Allen</div>
+<strong>前次排名：</strong> 190<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">813</td>
+<td class="align-center">1046</td>
+<td class="align-center">1032</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="191">
+191st
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/620045/2/UFOJOYwinner/"
+class="race-protoss"
+data-tooltip="#player-info-620045">
+UFOJOYwinner
+</a>
+
+<div id="player-info-620045" style="display: none">
+<div class="tooltip-title">UFOJOYwinner</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">803</td>
+<td class="align-center">60</td>
+<td class="align-center">53</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/20/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="192">
+192nd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/226260/2/蓝色诱惑/"
+class="race-terran"
+data-tooltip="#player-info-226260">
+蓝色诱惑
+</a>
+
+<div id="player-info-226260" style="display: none">
+<div class="tooltip-title">蓝色诱惑</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">737</td>
+<td class="align-center">194</td>
+<td class="align-center">176</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/8/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="193">
+193rd
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/99504/2/NwRich/"
+class="race-protoss"
+data-tooltip="#player-info-99504">
+NwRich
+</a>
+
+<div id="player-info-99504" style="display: none">
+<div class="tooltip-title">NwRich</div>
+<strong>前次排名：</strong> 191<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">685</td>
+<td class="align-center">58</td>
+<td class="align-center">40</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/8/2011">
+
+--
+</td>
+<td class="align-center" data-raw="194">
+194th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/686077/2/北京市顺义区柳彪/"
+class="race-protoss"
+data-tooltip="#player-info-686077">
+北京市顺义区柳彪
+</a>
+
+<div id="player-info-686077" style="display: none">
+<div class="tooltip-title">北京市顺义区柳彪</div>
+<strong>前次排名：</strong> 194<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">593</td>
+<td class="align-center">173</td>
+<td class="align-center">158</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/26/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="195">
+195th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/118484/2/NwEthan/"
+class="race-zerg"
+data-tooltip="#player-info-118484">
+NwEthan
+</a>
+
+<div id="player-info-118484" style="display: none">
+<div class="tooltip-title">NwEthan</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 蟲族
+</div>
+</td>
+<td class="align-center">547</td>
+<td class="align-center">49</td>
+<td class="align-center">46</td>
+<td>蟲族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 6/5/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="196">
+196th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/317725/2/小翔/"
+class="race-protoss"
+data-tooltip="#player-info-317725">
+小翔
+</a>
+
+<div id="player-info-317725" style="display: none">
+<div class="tooltip-title">小翔</div>
+<strong>前次排名：</strong> 191<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">486</td>
+<td class="align-center">521</td>
+<td class="align-center">515</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/12/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="197">
+197th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/34098/2/吃饭睡觉打豆豆/"
+class="race-terran"
+data-tooltip="#player-info-34098">
+吃饭睡觉打豆豆
+</a>
+
+<div id="player-info-34098" style="display: none">
+<div class="tooltip-title">吃饭睡觉打豆豆</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">372</td>
+<td class="align-center">39</td>
+<td class="align-center">37</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/18/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="198">
+198th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/476075/2/俊介/"
+class="race-terran"
+data-tooltip="#player-info-476075">
+俊介
+</a>
+
+<div id="player-info-476075" style="display: none">
+<div class="tooltip-title">俊介</div>
+<strong>前次排名：</strong> 197<br />
+
+<strong>最愛的種族：</strong> 人類
+</div>
+</td>
+<td class="align-center">285</td>
+<td class="align-center">30</td>
+<td class="align-center">26</td>
+<td>人類</td>
+
+</tr>
+
+
+<tr class="row1">
+<td class="align-center" data-tooltip="加入小組於： 7/13/2011">
+
+<img src="/sc2/static/images/icons/ladder/exclamation.gif" alt="" />
+</td>
+<td class="align-center" data-raw="199">
+199th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/98776/2/PSLover/"
+class="race-protoss"
+data-tooltip="#player-info-98776">
+PSLover
+</a>
+
+<div id="player-info-98776" style="display: none">
+<div class="tooltip-title">PSLover</div>
+<strong>前次排名：</strong> 0<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">113</td>
+<td class="align-center">54</td>
+<td class="align-center">81</td>
+<td>神族</td>
+
+</tr>
+
+
+<tr class="row2">
+<td class="align-center" data-tooltip="加入小組於： 7/7/2011">
+
+<img src="/sc2/static/images/icons/ladder/arrow-down.gif" alt="" />
+</td>
+<td class="align-center" data-raw="200">
+200th
+</td>
+
+<td>
+
+<a href="/sc2/zh/profile/208627/2/eScTriple/"
+class="race-protoss"
+data-tooltip="#player-info-208627">
+eScTriple
+</a>
+
+<div id="player-info-208627" style="display: none">
+<div class="tooltip-title">eScTriple</div>
+<strong>前次排名：</strong> 197<br />
+
+<strong>最愛的種族：</strong> 神族
+</div>
+</td>
+<td class="align-center">28</td>
+<td class="align-center">571</td>
+<td class="align-center">778</td>
+<td>神族</td>
+
+</tr>
